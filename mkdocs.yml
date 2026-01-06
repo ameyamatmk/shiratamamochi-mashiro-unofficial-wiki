@@ -1,0 +1,77 @@
+site_name: 白玉餅ましろ 非公式wiki
+site_url: https://mashiro-wiki.pages.dev
+site_description: 白玉餅ましろさんの配信情報、歌枠セットリスト、ゲーム実況、ASMR、おえかき配信などをまとめた非公式wikiです
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    - scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: ja
+  - macros
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - ホーム: index.md
+  - プロフィール: profile.md
+  - 衣装・モデル: costume.md
+  - 活動年表: history.md
+  - 歌枠・楽曲:
+    - まとめ: music/index.md
+    - 美少女ゲーム楽曲: music/bishoujo.md
+    - アニソン: music/anison.md
+    - その他: music/other.md
+  - 配信アーカイブ:
+    - おえかき: stream/drawing.md
+    - ASMR: stream/asmr.md
+    - ゲーム: stream/game.md
+    - 雑談: stream/talk.md
+  - コラボ: collab.md
+  - グッズ: goods.md
+  - 免責事項: disclaimer.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@shiratamamochi_mashiro
+      name: YouTube
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/umamochi_shiro
+      name: X (Twitter)

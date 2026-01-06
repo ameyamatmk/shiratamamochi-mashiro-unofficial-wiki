@@ -1,0 +1,17 @@
+[project]
+name = "mashiro-wiki"
+version = "0.1.0"
+description = "白玉餅ましろ 非公式wiki"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6",
+    "mkdocs-material>=9.5",
+    "mkdocs-macros-plugin>=1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["main.py"]
