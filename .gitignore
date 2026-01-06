@@ -1,6 +1,7 @@
 design/*
 CLAUDE.md
 .claude/*
+.playwright-mcp/
 
 # MkDocs build output
 site/
