@@ -28,6 +28,7 @@ theme:
     - search.highlight
     - content.tabs.link
   icon:
+    logo: material/brush-outline
     repo: fontawesome/brands/github
 
 plugins:
