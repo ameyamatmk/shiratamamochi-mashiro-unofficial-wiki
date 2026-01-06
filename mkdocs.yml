@@ -78,3 +78,6 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/umamochi_shiro
       name: X (Twitter)
+
+extra_javascript:
+  - javascripts/external-links.js
