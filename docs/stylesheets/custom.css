@@ -52,6 +52,12 @@
   font-weight: 700 !important;
 }
 
+/* モバイルナビゲーションのセクションタイトル（戻るボタン部分） */
+.md-nav__title {
+  color: var(--md-primary-fg-color) !important;
+  font-weight: 700 !important;
+}
+
 /* セクションの上に区切り線を追加 */
 .md-nav--primary > .md-nav__list > .md-nav__item--section,
 .md-nav--primary > .md-nav__list > .md-nav__item--nested {
