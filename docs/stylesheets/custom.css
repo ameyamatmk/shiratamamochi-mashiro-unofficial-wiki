@@ -1,9 +1,33 @@
-/* ページ全体の背景色 */
+/* =========================================
+   ましろさんイメージカラー - ラベンダーピンク
+   ========================================= */
+
+/* カスタムカラーパレット - ライトモード */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #c8a0b8;
+  --md-primary-fg-color--light: #e0c8d8;
+  --md-primary-fg-color--dark: #a888a0;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #f8f5f8;
+  --md-accent-fg-color: #b090a8;
+  --md-accent-fg-color--transparent: #b090a820;
+}
+
+/* カスタムカラーパレット - ダークモード */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #a08090;
+  --md-primary-fg-color--light: #b898a8;
+  --md-primary-fg-color--dark: #887080;
+  --md-accent-fg-color: #b090a0;
+  --md-accent-fg-color--transparent: #b090a020;
+}
+
+/* ページ全体の背景色 - ラベンダーピンクがかった白 */
 .md-main {
-  background: #f5f5f5;
+  background: #f8f5f8;
 }
 [data-md-color-scheme="slate"] .md-main {
-  background: #1a1a1a;
+  background: #1e1a1c;
 }
 
 /* メインコンテンツをカード風に */
