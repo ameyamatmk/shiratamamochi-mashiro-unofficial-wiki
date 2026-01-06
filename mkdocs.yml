@@ -49,9 +49,10 @@ markdown_extensions:
 
 nav:
   - ホーム: index.md
-  - プロフィール: profile.md
-  - 衣装・モデル: costume.md
-  - 活動年表: history.md
+  - 概要:
+    - プロフィール: profile.md
+    - 衣装・モデル: costume.md
+    - 活動年表: history.md
   - 歌枠・楽曲:
     - まとめ: music/index.md
     - 美少女ゲーム楽曲: music/bishoujo.md
@@ -62,8 +63,9 @@ nav:
     - ASMR: stream/asmr.md
     - ゲーム: stream/game.md
     - 雑談: stream/talk.md
-  - コラボ: collab.md
-  - グッズ: goods.md
+  - その他:
+    - コラボ: collab.md
+    - グッズ: goods.md
   - 外部リンク:
     - YouTube: https://www.youtube.com/@shiratamamochi_mashiro
     - X (Twitter): https://x.com/umamochi_shiro
