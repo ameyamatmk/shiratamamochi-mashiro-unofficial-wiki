@@ -21,7 +21,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -68,7 +67,9 @@ nav:
     - 雑談: stream/talk.md
   - コラボ: collab.md
   - グッズ: goods.md
-  - 免責事項: disclaimer.md
+
+copyright: >
+  <a href="/disclaimer/">免責事項</a>
 
 extra:
   social:
@@ -78,6 +79,9 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/umamochi_shiro
       name: X (Twitter)
+
+extra_css:
+  - stylesheets/custom.css
 
 extra_javascript:
   - javascripts/external-links.js
