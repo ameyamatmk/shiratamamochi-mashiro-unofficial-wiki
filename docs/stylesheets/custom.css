@@ -93,3 +93,23 @@
   border-radius: 4px;
   margin-top: 1.2em;
 }
+
+/* =========================================
+   フッター - 軽めの背景色
+   ========================================= */
+
+/* ライトモード: 落ち着いたラベンダーピンク（白文字が映える程度の濃さ） */
+[data-md-color-scheme="default"] .md-footer {
+  background: #a08898;
+}
+[data-md-color-scheme="default"] .md-footer-meta {
+  background: #907888;
+}
+
+/* ダークモード: 少し明るめのダークグレー */
+[data-md-color-scheme="slate"] .md-footer {
+  background: #2d2830;
+}
+[data-md-color-scheme="slate"] .md-footer-meta {
+  background: #252028;
+}
