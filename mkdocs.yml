@@ -64,18 +64,16 @@ nav:
     - 雑談: stream/talk.md
   - コラボ: collab.md
   - グッズ: goods.md
+  - 外部リンク:
+    - YouTube: https://www.youtube.com/@shiratamamochi_mashiro
+    - X (Twitter): https://x.com/umamochi_shiro
 
 copyright: >
-  <a href="/disclaimer/">免責事項</a>
+  <span class="footer-left">Made with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></span>
+  <span class="footer-right"><a href="/disclaimer/">免責事項</a></span>
 
 extra:
-  social:
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@shiratamamochi_mashiro
-      name: YouTube
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/umamochi_shiro
-      name: X (Twitter)
+  generator: false
 
 extra_css:
   - stylesheets/custom.css
