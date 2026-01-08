@@ -146,3 +146,11 @@
   height: auto;
   aspect-ratio: 16 / 9;
 }
+
+/* =========================================
+   テーブル - ヘッダ行に背景色
+   ========================================= */
+
+.md-typeset th {
+  background: var(--md-accent-fg-color--transparent);
+}
