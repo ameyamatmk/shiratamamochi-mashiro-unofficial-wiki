@@ -7,6 +7,7 @@ dependencies = [
     "mkdocs>=1.6",
     "mkdocs-material>=9.5",
     "mkdocs-macros-plugin>=1.0",
+    "mkdocs-minify-plugin>=0.8",
 ]
 
 [build-system]

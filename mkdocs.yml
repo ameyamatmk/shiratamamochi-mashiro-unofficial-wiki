@@ -31,6 +31,16 @@ theme:
 
 plugins:
   - macros
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      js_files:
+        - javascripts/external-links.js
+      css_files:
+        - stylesheets/custom.css
 
 markdown_extensions:
   - tables
