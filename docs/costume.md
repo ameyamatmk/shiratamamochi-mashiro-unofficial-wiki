@@ -2,36 +2,36 @@
 
 ## 衣装一覧
 
-| 衣装名 | 初公開日 | 備考 | 参考 |
+| 衣装名 | 初公開日 | お披露目配信 | 備考 |
 |--------|----------|------|------|
-| 初期衣装 | 2024/11/xx | デビュー時 | [初配信](URL) |
-| 部屋着 | 2025/xx/xx | | [お披露目配信](URL) |
-| 通常衣装（アプデ後） | 2025/xx/xx | 衣装アップデート | [配信](URL) |
-| シスター | 2025/11/xx | 1周年記念衣装 | [お披露目配信](URL) |
+| 初期衣装 | 2024/11/19 | | |
+| ルームウェア | 2025/10/4 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=AlcsUxSn9II) | |
+| 通常衣装 | 2025/10/4 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=AlcsUxSn9II) | 初期衣装アップデート |
+| 白シスター | 2025/12/3 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=zMeM-DwVhOU) | 1周年記念衣装 |
 
 ## 衣装詳細
 
 ### 初期衣装
 
-- 初公開: 2024/11/xx
-- デザイン: 成宮もも
+- 初公開: 2024/11/19
 
-デビュー時の衣装。
+{{ twitter("https://x.com/umamochi_shiro/status/1858799641304899875") }}
 
-### 部屋着
+### ルームウェア
 
-お部屋でくつろぐ姿の衣装。
+- 公開日: 2025/10/4
 
-### 通常衣装（アップデート後）
+{{ twitter("https://x.com/umamochi_shiro/status/1974464247305515090") }}
 
-新衣装お披露目後にアップデートされた通常衣装。
+### 通常衣装（アップデート）
 
-### シスター（1周年衣装）
+- 公開日: 2025/10/4
 
-1周年を記念して公開された衣装。
+{{ twitter("https://x.com/umamochi_shiro/status/1974464378746585277") }}
+{{ twitter("https://x.com/umamochi_shiro/status/1977298033466646678") }}
 
-## 関連グッズ
+### 白シスター（1周年衣装）
 
-- 新衣装記念壁紙
-- 新衣装記念グッズ
-- 半年＆夏グッズ
+- 公開日: 2025/12/3
+
+{{ twitter("https://x.com/umamochi_shiro/status/1996205643708109160") }}

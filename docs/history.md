@@ -2,30 +2,23 @@
 
 ## 2025年
 
-| 日付 | 出来事 | 参考 |
+| 日付 | 出来事 | リンク |
 |------|--------|------|
-| xx/xx | 1000人耐久ASMR | [X](https://x.com/umamochi_shiro/status/1999854918006632494) |
-| xx/xx | 1000人耐久歌枠 | [X](https://x.com/umamochi_shiro/status/1999644311252848908) |
-| xx/xx | 1000人達成 | [X](https://x.com/umamochi_shiro/status/1999882880080822737) |
-| 11/xx | 1周年衣装（シスター）お披露目 | [X](https://x.com/umamochi_shiro/status/1996205643708109160) |
-| 11/xx | 1周年 | [X](https://x.com/umamochi_shiro/status/1995871313274302966) |
-| xx/xx | 900人達成 | [X](https://x.com/umamochi_shiro/status/1995806358885855300) |
-| xx/xx | アニソン30曲耐久 | [X](https://x.com/umamochi_shiro/status/1991387671458115895) |
-| xx/xx | 何度目かのはじめまして感想会 | [X](https://x.com/umamochi_shiro/status/1984502885401706689) |
-| xx/xx | 部屋着お披露目 | [X](https://x.com/umamochi_shiro/status/1979455512862429619) |
-| xx/xx | 通常衣装アップデート | [X](https://x.com/umamochi_shiro/status/1977298033466646678) |
-| xx/xx | 777人達成 | [X](https://x.com/umamochi_shiro/status/1977291063447765095) |
-| xx/xx | 新衣装お披露目 | [X](https://x.com/umamochi_shiro/status/1974464247305515090) |
-| xx/xx | 半年記念 & 夏グッズ | [X](https://x.com/umamochi_shiro/status/1934079054480842811) |
-| xx/xx | 500人達成 & メンバーシップ開設 | [X](https://x.com/umamochi_shiro/status/1935701828974616849) |
-| xx/xx | りーみんさんラジオゲスト出演 | [X](https://x.com/umamochi_shiro/status/1911372827372007508) |
-| xx/xx | BOOTH開設 | [X](https://x.com/umamochi_shiro/status/1908886405977415876) |
-| xx/xx | 誕生日配信 | [X](https://x.com/umamochi_shiro/status/1908760666594566475) |
-| 02/14 | バレンタイン配信 | [X](https://x.com/umamochi_shiro/status/1890324106345681024) |
+| 12/14 | チャンネル登録者 1000人 | [X](https://x.com/umamochi_shiro/status/1999882880080822737) |
+| 12/03 | 活動開始 1周年 | [X](https://x.com/umamochi_shiro/status/1995871313274302966) |
+| 12/02 | チャンネル登録者 900人 | [X](https://x.com/umamochi_shiro/status/1995806358885855300) |
+| 10/12 | チャンネル登録者 777人 | [X](https://x.com/umamochi_shiro/status/1977291063447765095) |
+| 10/04 | 通常衣装アップデート | [X](https://x.com/umamochi_shiro/status/1974464378746585277) |
+| 10/04 | ルームウェアお披露目 | [X](https://x.com/umamochi_shiro/status/1974464247305515090) |
+| 06/19 | 500人達成 & メンバーシップ開設 | [X](https://x.com/umamochi_shiro/status/1935701828974616849) / [youtube](https://www.youtube.com/watch?v=CFjVfcceqSM) |
+| 06/03 | 活動半年イラスト | [X](https://x.com/umamochi_shiro/status/1929909639531176046) |
+| 04/06 | 誕生日配信 | [X](https://x.com/umamochi_shiro/status/1908535468880445934) / [X](https://x.com/umamochi_shiro/status/1908760666594566475) / [youtube](https://www.youtube.com/watch?v=67gu4lC4M9Q) |
+| 04/06 | オリジナル曲『ましろもちもちわーるど！』公開 | [youtube](https://www.youtube.com/watch?v=WKXoqdLelzY) |
+| 01/03 | BOOTH開設 | [X](https://x.com/umamochi_shiro/status/1908886405977415876) |
 
 ## 2024年
 
-| 日付 | 出来事 | 参考 |
+| 日付 | 出来事 | リンク |
 |------|--------|------|
-| 12/25 | メリークリスマス配信 | [X](https://x.com/umamochi_shiro/status/1871197883141337266) |
-| 11/xx | 初配信 | [配信](URL) |
+| 12/03 | 初配信 | [youtube](https://www.youtube.com/watch?v=E7cJ584iqa4) |
+| 11/19 | 準備中 | [X]([URL](https://x.com/umamochi_shiro/status/1858799641304899875)) |
