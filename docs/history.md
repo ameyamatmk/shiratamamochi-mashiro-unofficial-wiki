@@ -17,9 +17,9 @@
 | 10/04 | ルームウェアお披露目 | [X](https://x.com/umamochi_shiro/status/1974464247305515090) |
 | 06/19 | 500人達成 & メンバーシップ開設 | [X](https://x.com/umamochi_shiro/status/1935701828974616849) / [youtube](https://www.youtube.com/watch?v=CFjVfcceqSM) |
 | 06/03 | 活動半年イラスト | [X](https://x.com/umamochi_shiro/status/1929909639531176046) |
-| 04/06 | 誕生日配信 | [X](https://x.com/umamochi_shiro/status/1908535468880445934) / [X](https://x.com/umamochi_shiro/status/1908760666594566475) / [youtube](https://www.youtube.com/watch?v=67gu4lC4M9Q) |
+| 04/06 | BOOTH開設 | [X](https://x.com/umamochi_shiro/status/1908886405977415876) |
+| 04/06 | 誕生日 | [X](https://x.com/umamochi_shiro/status/1908535468880445934) / [X](https://x.com/umamochi_shiro/status/1908760666594566475) / [youtube](https://www.youtube.com/watch?v=67gu4lC4M9Q) |
 | 04/06 | オリジナル曲『ましろもちもちわーるど！』公開 | [youtube](https://www.youtube.com/watch?v=WKXoqdLelzY) |
-| 01/03 | BOOTH開設 | [X](https://x.com/umamochi_shiro/status/1908886405977415876) |
 
 ## 2024年
 

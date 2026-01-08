@@ -66,6 +66,10 @@
 
     {{ twitter("https://x.com/umamochi_shiro/status/1958737009230717098") }}
 
+    ### 溶けた餅（2025/07/13）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/1944294999811928109") }}
+
     ### 髪を下ろした姿（2025/06/05）
 
     {{ twitter("https://x.com/umamochi_shiro/status/1930523885818286482") }}

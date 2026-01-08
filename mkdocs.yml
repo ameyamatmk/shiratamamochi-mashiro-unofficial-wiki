@@ -63,26 +63,26 @@ markdown_extensions:
 nav:
   - ホーム: index.md
   - 概要:
-    - プロフィール: profile.md
-    - 衣装・モデル: costume.md
-    - イラスト: illustrations.md
-    - 活動年表: history.md
+      - プロフィール: profile.md
+      - 衣装・モデル: costume.md
+      - イラスト: illustrations.md
+      - 活動年表: history.md
   - 歌枠・楽曲:
-    - まとめ: music/index.md
-    - 美少女ゲーム楽曲: music/bishoujo.md
-    - アニソン: music/anison.md
-    - その他: music/other.md
+      - （工事中）まとめ: music/index.md
+      - （工事中）美少女ゲーム楽曲: music/bishoujo.md
+      - （工事中）アニソン: music/anison.md
+      - （工事中）その他: music/other.md
   - 配信アーカイブ:
-    - おえかき: stream/drawing.md
-    - ASMR: stream/asmr.md
-    - ゲーム: stream/game.md
-    - 雑談: stream/talk.md
+      - （工事中）おえかき: stream/drawing.md
+      - （工事中）ASMR: stream/asmr.md
+      - （工事中）ゲーム: stream/game.md
+      - （工事中）雑談: stream/talk.md
   - その他:
-    - コラボ: collab.md
-    - グッズ: goods.md
+      - （工事中）コラボ: collab.md
+      - グッズ等: goods.md
   - 外部リンク:
-    - YouTube: https://www.youtube.com/@shiratamamochi_mashiro
-    - X (Twitter): https://x.com/umamochi_shiro
+      - YouTube: https://www.youtube.com/@shiratamamochi_mashiro
+      - X (Twitter): https://x.com/umamochi_shiro
 
 copyright: >
   <span class="footer-left">Made with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></span>
