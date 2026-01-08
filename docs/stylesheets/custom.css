@@ -131,3 +131,18 @@
   align-items: center;
   width: 100%;
 }
+
+/* =========================================
+   YouTube埋め込み - コンパクトサイズ
+   ========================================= */
+
+.video-wrapper {
+  max-width: 480px;
+  margin: 0.5em 0 1em;
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}

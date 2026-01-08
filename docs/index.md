@@ -7,27 +7,22 @@
 
 ## 白玉餅ましろとは
 
-美少女ゲームと百合が大好きな個人VTuber。2024年11月にデビュー。
+美少女ゲームと百合が大好きな個人VTuber。2024年12月にデビュー。
 歌枠、おえかき配信、ASMR、ゲーム実況など幅広いコンテンツを配信している。
 
 ## 公式リンク
 
-- :fontawesome-brands-youtube: [YouTube](https://www.youtube.com/@shiratamamochi_mashiro)
-- :fontawesome-brands-x-twitter: [X (Twitter)](https://x.com/umamochi_shiro)
-- :fontawesome-solid-shop: [BOOTH](https://shiratamamochi-mashiro.booth.pm/)
+- :fontawesome-brands-youtube: [YouTube / @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro)
+- :fontawesome-brands-x-twitter: [X (Twitter) / @umamochi_shiro](https://x.com/umamochi_shiro)
+- :fontawesome-solid-shop: [BOOTH / shiratamamochima](https://shiratamamochima.booth.pm/)
 
-## 最近の活動
+## おすすめ動画
 
-| 日付 | 内容 |
-|------|------|
-| 2025/11/xx | 1周年 |
-| 2025/11/xx | 1000人達成 |
-| 2025/11/xx | 1周年衣装（シスター）お披露目 |
-| 2025/xx/xx | 新衣装お披露目 |
+### 初配信
+{{ youtube("https://www.youtube.com/watch?v=E7cJ584iqa4") }}
 
-## 注目の配信
+### ASMR
+{{ youtube("https://www.youtube.com/watch?v=ebyhZfceIVQ") }}
 
-{# デビュー配信などの重要な配信を埋め込み #}
-{# {{ youtube("VIDEO_ID") }} #}
-
-*（デビュー配信・記念配信のURLが分かり次第追加）*
+### ビンゴ大会
+{{ youtube("https://www.youtube.com/watch?v=8sItihRhBv0") }}

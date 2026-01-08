@@ -82,7 +82,7 @@ def define_env(env):
             src += "?" + "&".join(params)
 
         return f'''<div class="video-wrapper">
-<iframe width="560" height="315" src="{src}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="{src}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>'''
 
     # ビルド開始時に一度だけ読み込み
