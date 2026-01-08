@@ -97,3 +97,4 @@ extra_css:
 extra_javascript:
   - javascripts/external-links.js
   - https://platform.twitter.com/widgets.js
+  - javascripts/twitter-widgets.js
