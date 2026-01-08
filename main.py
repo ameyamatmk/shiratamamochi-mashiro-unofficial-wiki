@@ -96,25 +96,33 @@ def define_env(env):
             tweet_url: ツイートの URL
 
         Returns:
-            埋め込み用 HTML
+            埋め込み用 HTML（script タグは除去済み）
         """
         tweet_id = _extract_tweet_id(tweet_url)
 
         if tweet_id in cache:
-            return cache[tweet_id]["html"]
+            html = cache[tweet_id]["html"]
+        else:
+            # キャッシュになければ API を叩く
+            api_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode({
+                "url": tweet_url,
+                "lang": "ja",
+            })
+            with urllib.request.urlopen(api_url) as res:
+                data = json.loads(res.read())
 
-        # キャッシュになければ API を叩く
-        api_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode({
-            "url": tweet_url,
-            "lang": "ja",
-        })
-        with urllib.request.urlopen(api_url) as res:
-            data = json.loads(res.read())
+            cache[tweet_id] = {
+                "url": tweet_url,
+                "html": data["html"],
+            }
+            _save_cache(cache)
+            html = data["html"]
 
-        cache[tweet_id] = {
-            "url": tweet_url,
-            "html": data["html"],
-        }
-        _save_cache(cache)
-
-        return data["html"]
+        # script タグを除去（widgets.js は別途1回だけ読み込む）
+        html = re.sub(
+            r'<script[^>]*twitter\.com/widgets\.js[^>]*></script>',
+            '',
+            html,
+            flags=re.IGNORECASE,
+        )
+        return html

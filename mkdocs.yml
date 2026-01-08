@@ -65,6 +65,7 @@ nav:
   - 概要:
     - プロフィール: profile.md
     - 衣装・モデル: costume.md
+    - イラスト: illustrations.md
     - 活動年表: history.md
   - 歌枠・楽曲:
     - まとめ: music/index.md
@@ -95,3 +96,4 @@ extra_css:
 
 extra_javascript:
   - javascripts/external-links.js
+  - https://platform.twitter.com/widgets.js
