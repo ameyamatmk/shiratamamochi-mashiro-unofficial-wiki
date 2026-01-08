@@ -8,7 +8,7 @@
 | 誕生日 | 4月6日 |
 | デビュー日 | 2024年12月3日 |
 | デザイン | 白玉餅ましろ |
-| Live2D | 成宮もも [(@narimiya_momo)](https://x.com/narimiya_momo/status/2007063071240659027) |
+| Live2D | 成宮もも [( :simple-x: @narimiya_momo)](https://x.com/narimiya_momo/status/2007063071240659027) |
 
 ## パーソナル情報
 
@@ -22,7 +22,7 @@
 
 ## ハッシュタグ一覧
 
-| 用途 | タグ (X 検索リンク) |
+| 用途 | タグ（ :simple-x: 検索リンク） |
 |------|------|
 | 総合タグ | [#白玉餅ましろ](https://x.com/search?q=%23白玉餅ましろ) |
 | 配信タグ | [#生白玉餅](https://x.com/search?q=%23生白玉餅) |
@@ -34,8 +34,8 @@
 
 | サービス | リンク |
 |----------|--------|
-| YouTube | [@shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro) |
-| X (Twitter) | [@umamochi_shiro](https://x.com/umamochi_shiro) |
+| YouTube | [:simple-youtube: @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro) |
+| X (旧Twitter) | [:simple-x: @umamochi_shiro](https://x.com/umamochi_shiro) |
 | BOOTH | [shiratamamochima](https://shiratamamochi-mashiro.booth.pm/) |
 | マシュマロ | [メッセージを送る](https://marshmallow-qa.com/captxiloq5czcnx) |
 | lit.link | [リンク集](https://lit.link/shiratamamochimashiro) |
