@@ -7,7 +7,7 @@
 | 初期衣装 | 2024/11/19 | | |
 | ルームウェア | 2025/10/4 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=AlcsUxSn9II) | |
 | 通常衣装 | 2025/10/4 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=AlcsUxSn9II) | 初期衣装アップデート |
-| 白シスター | 2025/12/3 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=zMeM-DwVhOU) | 1周年記念衣装 |
+| 白シスター風 | 2025/12/3 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=zMeM-DwVhOU) | 1周年記念衣装 |
 
 ## 衣装詳細
 
@@ -30,7 +30,7 @@
 {{ twitter("https://x.com/umamochi_shiro/status/1974464378746585277") }}
 {{ twitter("https://x.com/umamochi_shiro/status/1977298033466646678") }}
 
-### 白シスター（1周年衣装）
+### 白シスター風（1周年衣装）
 
 - 公開日: 2025/12/3
 

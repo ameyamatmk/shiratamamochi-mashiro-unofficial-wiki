@@ -10,6 +10,10 @@
 
     {{ twitter("https://x.com/umamochi_shiro/status/2008580000992440701") }}
 
+    関連配信:
+
+    - [聖癖ビンゴ大会](https://www.youtube.com/watch?v=8sItihRhBv0)
+
     ### 新年イラスト（2026/01/01）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2006632631539216843") }}
@@ -22,7 +26,7 @@
 
     {{ twitter("https://x.com/umamochi_shiro/status/1999644983335489786") }}
 
-    ### 1年ありがとう（2025/12/04）
+    ### 1年間ありがとう（2025/12/04）
 
     {{ twitter("https://x.com/umamochi_shiro/status/1996233117107990531") }}
 
