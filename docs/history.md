@@ -12,7 +12,7 @@
 | 12/14 | チャンネル登録者 1000人 | [:simple-x:](https://x.com/umamochi_shiro/status/1999882880080822737) |
 | 12/03 | 活動開始 1周年 | [:simple-x:](https://x.com/umamochi_shiro/status/1995871313274302966) |
 | 12/02 | チャンネル登録者 900人 | [:simple-x:](https://x.com/umamochi_shiro/status/1995806358885855300) |
-| 10/12 | チャンネル登録者 777人 | [:simple-x:](https://x.com/umamochi_shiro/status/1977291063447765095) |
+| 10/10 | チャンネル登録者 777人 | [:simple-x:](https://x.com/umamochi_shiro/status/1977291063447765095) |
 | 10/04 | 通常衣装アップデート | [:simple-x:](https://x.com/umamochi_shiro/status/1974464378746585277) |
 | 10/04 | ルームウェアお披露目 | [:simple-x:](https://x.com/umamochi_shiro/status/1974464247305515090) |
 | 06/19 | 500人達成 & メンバーシップ開設 | [:simple-x:](https://x.com/umamochi_shiro/status/1935701828974616849) / [:simple-youtube:](https://www.youtube.com/watch?v=CFjVfcceqSM) |
