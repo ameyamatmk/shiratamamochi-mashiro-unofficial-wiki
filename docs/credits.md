@@ -19,20 +19,6 @@
 
 {{ twitter("https://x.com/umamochi_shiro/status/1996205851326271604") }}
 
-## オリジナル曲
-
-### ましろもちもちわーるど！
-
-{{ youtube("https://www.youtube.com/watch?v=WKXoqdLelzY") }}
-
-| 担当 | 制作者 | リンク |
-|------|--------|--------|
-| 作詞作曲 | 壱子 | [:simple-x: @ichigo69tabetai](https://x.com/ichigo69tabetai) / [:fontawesome-brands-youtube: @tamayura16channel](https://www.youtube.com/channel/UCJXXPVyLXW2jjoCRs2N74kg) |
-| MIX | 六印 | [:simple-x: @6_jirushi](https://x.com/6_jirushi) / [:fontawesome-brands-youtube: @tamayura16channel](https://www.youtube.com/channel/UCJXXPVyLXW2jjoCRs2N74kg) |
-| 動画 | パオンヌ | [:simple-x: @Paonnnu_](https://x.com/Paonnnu_) |
-| イラストアシスタント | とわたり | |
-| 歌・イラスト | 白玉餅ましろ | [:simple-x: @umamochi_shiro](https://x.com/umamochi_shiro) |
-
 ## その他
 
 | 担当 | 制作者 | リンク | 告知 |

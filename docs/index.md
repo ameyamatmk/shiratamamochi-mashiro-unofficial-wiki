@@ -18,8 +18,15 @@
 
 ## おすすめ動画
 
+### 白玉餅ましろってどんな子？👀🤍
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3y0Xo541sGKcfsAg2X2gvE)
+
 ### 初配信
 {{ youtube("https://www.youtube.com/watch?v=E7cJ584iqa4") }}
+
+### 持ってる美少女ゲームを一緒に見よう！
+{{ youtube("https://www.youtube.com/watch?v=N1_vtwLZ7vE") }}
 
 ### ASMR
 {{ youtube("https://www.youtube.com/watch?v=ebyhZfceIVQ") }}
