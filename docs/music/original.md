@@ -9,7 +9,7 @@
 
 | サムネイル | 投稿日 | 曲名 | 長さ | リンク |
 |:----------:|--------|------|:----:|:------:|
-| ![](https://img.youtube.com/vi/WKXoqdLelzY/mqdefault.jpg){ width=120 } | 2025/04/06 | ましろもちもちわーるど！ | 3:00 | [:simple-youtube:](https://www.youtube.com/watch?v=WKXoqdLelzY) |
+| [![](https://img.youtube.com/vi/WKXoqdLelzY/mqdefault.jpg){ width=120 }](https://www.youtube.com/watch?v=WKXoqdLelzY) | 2025/04/06 | ましろもちもちわーるど！ | 3:00 | [:simple-youtube:](https://www.youtube.com/watch?v=WKXoqdLelzY) |
 
 ## 楽曲詳細
 
