@@ -1,0 +1,618 @@
+# 歌枠セットリスト
+
+[:simple-youtube: 歌枠まとめ再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3V409HLVJ4WhOCnKifXh4I){ .md-button }
+
+歌枠配信のセットリストをまとめています。  
+サムネイル画像をクリックすると動画ページを開きます。
+
+!!! info ""
+    サムネイル画像は img.youtube.com から取得しています。
+
+---
+
+## #1 美少女ゲームソングを歌います♡
+
+[![](https://img.youtube.com/vi/TWB3vz2Nw2k/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=TWB3vz2Nw2k)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | アルカテイル | 鈴木このみ | Summer Pockets OP |
+| 2 | 空気力学少女と少年の詩 | はな | 素晴らしき日々 不連続存在 OP |
+| 3 | 夢の無限回廊 | 橋本みゆき | ハピメア OP |
+| 4 | マリンブルーに沿って | 佐咲紗花 | ちいさな彼女の小夜曲 OP |
+| 5 | 雪は何色 | Kotoha | ましろ色シンフォニー SANA EDITION OP |
+| 6 | 夜明けのベルが鳴る | 安田みずほ | 彼女のセイイキ ED |
+| 7 | 一冊のアロー | 櫻川めぐ | ハミダシクリエイティブ凸 OP |
+| 8 | 新世界のα | Luna | アインシュタインより愛を込めて OP |
+| 9 | さくら、Reincarnation | 佐咲紗花 | さくら、もゆ。-as the Night's, Reincarnation- OP |
+| 10 | 二人だけのカーテンコール | 浅葉リオ | アオイトリ 挿入歌 |
+| 11 | 刻ト詩 | Luna | サクラノ刻 －櫻の森の下を歩む－ OP |
+
+---
+
+## #2 アイマス限定の歌枠します♡
+
+[![](https://img.youtube.com/vi/MiE66vg7P_0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=MiE66vg7P_0)
+
+| # | 曲名 |
+|---|------|
+| 1 | GO MY WAY‼ |
+| 2 | 初 |
+| 3 | アタシポンコツアンドロイド |
+| 4 | バベルシティ・グレイス |
+| 5 | マリオネットの心 |
+| 6 | アルストロメリア |
+| 7 | エヴリデイドリーム |
+| 8 | 空 |
+| 9 | 約束 |
+| 10 | 世界一可愛い私 |
+
+---
+
+## #3 ちょっと遅めの夜にしっとり曲多めの歌枠
+
+[![](https://img.youtube.com/vi/rKxP_L32KT0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=rKxP_L32KT0)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | ダイアモンド クレバス | シェリル・ノーム(May'n) |
+| 2 | 小さなてのひら | riya |
+| 3 | Departures あなたにおくるアイの歌 | EGOIST |
+| 4 | Sincerely | TRUE |
+| 5 | song for you | - |
+| 6 | 夏影 | Lia |
+| 7 | これくらいで | 藍月なくる |
+| 8 | ALIVE〜祈りの歌〜 | - |
+| 9 | シリウスの心臓 | ヰ世界情緒 |
+
+---
+
+## #4 平成アニソン祭り JOYSOUND
+
+[![](https://img.youtube.com/vi/7sknELYplgI/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=7sknELYplgI)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | 残酷な天使のテーゼ | 高橋洋子 |
+| 2 | おジャ魔女カーニバル！！ | MAHO堂 |
+| 3 | ハレ晴レユカイ | 平野綾、茅原実里、後藤邑子 |
+| 4 | 空色デイズ | 中川翔子 |
+| 5 | Paradise Lost | 茅原実里 |
+| 6 | Agape | メロキュア |
+| 7 | 奈落の花 | 島みやえい子 |
+| 8 | ループ | 坂本真綾 |
+| 9 | 君の知らない物語 | supercell |
+| 10 | 創聖のアクエリオン | AKINO from bless4 |
+| 11 | Shangri-La | angela |
+| 12 | ノーザンクロス | シェリル・ノーム(May'n) |
+| 13 | 深愛 | 水樹奈々 |
+| 14 | God knows... | 涼宮ハルヒ(平野綾) |
+| 15 | 魂のルフラン | 高橋洋子 |
+
+---
+
+## #5 美少女ゲームソング歌枠をします！
+
+[![](https://img.youtube.com/vi/4uDG1t9pLaY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=4uDG1t9pLaY)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | 野良猫ハート | パトリシア・オブ・エンド、黒木未知、夕莉シャチ、明日原ユウキ | ノラと皇女と野良猫ハート OP, ED |
+| 2 | Golden Mission | 佐咲紗花 | 金色ラブリッチェ OP |
+| 3 | さくらとことり | はな | 向日葵の教会と長い夏休み ED |
+| 4 | 櫻ノ詩 | はな | サクラノ詩 -櫻の森の上を舞う- OP, ED |
+| 5 | 冬に咲く華 | 美月琴音 | 彼女のセイイキ OP |
+| 6 | 届かない恋 | 上原れな | WHITE ALBUM2 OP |
+| 7 | アオイトリ | 橋本みゆき | アオイトリ OP |
+| 8 | コトダマ紡ぐ未来 | 山崎もえ | アマツツミ 挿入歌 |
+| 9 | First Love | 夢乃ゆき | ヒマワリと恋の記憶 ED |
+| 10 | ナグルファルの船上にて | monet | 素晴らしき日々 ～不連続存在～ ED |
+
+---
+
+## #6 Key作品限定の歌枠します
+
+[![](https://img.youtube.com/vi/tZZKLk_2lIY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=tZZKLk_2lIY)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | 鳥の詩 | Lia | AIR |
+| 2 | Little Busters! | Rita | リトルバスターズ！ |
+| 3 | Alicemagic | Rita | リトルバスターズ！ |
+| 4 | My Soul,Your Beats! | Lia | Angel Beats! |
+| 5 | アスタロア | 鈴木このみ | Summer Pockets REFLECTION BLUE |
+| 6 | Philosophyz | 水谷瑠奈 | Rewrite |
+| 7 | だんご大家族 | 茶太 | CLANNAD |
+| 8 | 紬の夏休み | 紬ヴェンダース(CV.岩井映美里) | Summer Pockets |
+| 9 | 恋文 | やなぎなぎ | Rewrite |
+| 10 | 夏影 ～Cornwall summer mix～ | Lia | AIR |
+| 11 | 一番の宝物 〜Yui final ver.〜 | LiSA | Angel Beats! |
+| 12 | 時を刻む唄 | Lia | CLANNAD AFTER STORY |
+
+---
+
+## #7 美少女ゲームソングを歌います
+
+[![](https://img.youtube.com/vi/ZiF_H7VwTXQ/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=ZiF_H7VwTXQ)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | allegretto～そらときみ～ | KOTOKO | この青空に約束を― OP |
+| 2 | Unreal Creation! | 櫻川めぐ | ハミダシクリエイティブ OP |
+| 3 | Girls' Carnival | ユウカ | Making*Lovers OP |
+| 4 | Sign | 夢乃ゆき | ソラコイ OP |
+| 5 | 華嵐 | 片桐ユイ、守屋ミク、姫乃アカリ | オトメ世界の歩き方 OP |
+| 6 | Hesitation Snow | fripSide | はつゆきさくら OP |
+| 7 | 幻想楼閣 | 橋本みゆき | ハピメア Fragmentation Dream OP |
+| 8 | ユーフォリアム | 鈴湯 | アストラエアの白き永遠 Finale 白き星の夢 OP |
+| 9 | ラストタイム | 夢乃ゆき | ゴールデンアワー ED |
+| 10 | ダ・カーポ5〜メグリメグル世界〜 | yozuca* | D.C.5 ダ・カーポ5 OP |
+
+---
+
+## #8 好きなアニソンを歌います！
+
+[![](https://img.youtube.com/vi/bSzrxhsJV1c/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=bSzrxhsJV1c)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | プラチナ | 坂本真綾 | カードキャプターさくら OP |
+| 2 | 乙女のポリシー | 石田燿子 | 美少女戦士セーラームーンR ED |
+| 3 | プレパレード | 逢坂大河・櫛枝実乃梨・川嶋亜美 | トラドラ！ OP |
+| 4 | only my railgun | fripSide | とある科学の超電磁砲 OP |
+| 5 | 少年よ我に帰れ | やくしまるえつこメトロオーケストラ | 輪るピングドラム OP |
+| 6 | 星のダイアローグ | スタァライト九九組 | 少女☆歌劇 レヴュー・スタァライト OP |
+| 7 | 七色シンフォニー | コアラモード． | 四月は君の嘘 OP |
+| 8 | 教室モノクローム | 雪音クリス | 戦姫絶唱シンフォギアG 挿入歌 |
+| 9 | Wishing | レム | Re:ゼロから始める異世界生活 挿入歌 |
+
+---
+
+## #9 美少女ゲームソング歌枠
+
+[![](https://img.youtube.com/vi/M9YpktDRCyk/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=M9YpktDRCyk)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | 足りないハートビート | i.o | 異世界の三姉妹さんが嫁いできました!? OP |
+| 2 | 夢と色でできている | 佐咲紗花 | 夢と色でできている OP |
+| 3 | 悠久の翼 07. mix | 雨宮優子(cv:中嶋裕美子) | ef-a tale of memories. ED |
+| 4 | DEAR MY WAKER | 米倉千尋 | 9-nine- ゆきいろゆきはなゆきのあと OP |
+| 5 | アマオト | Duca | アメサラサ ～雨と、不思議な君に、恋をする～ OP |
+| 6 | さよなら君の声 | 美郷あき | ましろ色シンフォニー Love is Pure White 挿入歌 |
+| 7 | ヒマワリ | Kicco | 銀色、遥か ED |
+| 8 | 二人だけのカーテンコール | 浅葉リオ | アオイトリ 挿入歌 |
+| 9 | キスのひとつで | 佐咲紗花 | ちいさな彼女の小夜曲 ED |
+| 10 | Re:TrymenT | 紫咲ほたる | Re:LieF ～親愛なるあなたへ～ OP |
+| 11 | Lasting Moment | 鈴木このみ | Summer Pockets ED |
+
+---
+
+## #10 アイマスシリーズ限定の歌枠！！
+
+[![](https://img.youtube.com/vi/smRpC9uqffo/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=smRpC9uqffo)
+
+| # | 曲名 |
+|---|------|
+| 1 | READY!! |
+| 2 | Orange Sapphire |
+| 3 | 日々、発見的ステップ！ |
+| 4 | ヒカリのdestination |
+| 5 | エージェント夜を往く |
+| 6 | Wandering Dream Chaser |
+| 7 | Love∞Destiny |
+| 8 | Little Match Girl |
+| 9 | 小さな野望 |
+| 10 | M@STERPIECE |
+
+---
+
+## #11 美少女ゲームソング歌枠！
+
+[![](https://img.youtube.com/vi/bmmSSA-NdYY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=bmmSSA-NdYY)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | カーニバル | NANA | CARNIVAL OP |
+| 2 | 瞬間スプライン | Kicco | タユタマ kiss on my Deity OP |
+| 3 | Girl meets Love | 片霧烈火、鈴湯 | 花咲ワークスプリング! OP |
+| 4 | アインシュタインより愛を込めて | Luna | アインシュタインより愛を込めて APOLLOCRISIS OP |
+| 5 | ハレノヒステップ | 佐々木詩織 | カノジョ＊ステップ OP |
+| 6 | Answer | 片霧烈火 | G線上の魔王 OP |
+| 7 | With Tomorrow | 夢乃ゆき | 月の彼方で逢いましょう 挿入歌 |
+| 8 | Memoria | Duca | アマカノ2+ OP |
+| 9 | 葬送の旋律 | 紫咲ほたる | ムーン・ゴースト OP |
+| 10 | 瑠璃ノ鳥 | 霜月はるか | 殻ノ少女 OP |
+
+---
+
+## #12 アゲアゲ↑↑アニソン歌枠 JOYSOUND
+
+[![](https://img.youtube.com/vi/V7KcC3r_rV0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=V7KcC3r_rV0)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | Utauyo!!MIRACLE | 放課後ティータイム |
+| 2 | 花ハ踊レヤいろはにほ | チーム"ハナヤマタ" |
+| 3 | ようこそジャパリパークへ | どうぶつビスケッツ×PPP |
+| 4 | 青空のラプソディ | fhána |
+| 5 | かくしん的☆めたまるふぉ～ぜっ! | 土間うまる(田中あいみ) |
+| 6 | 夏色えがおで1,2,Jump! | μ's |
+| 7 | そばかす | JUDY AND MARY |
+| 8 | Over Soul | 林原めぐみ |
+| 9 | 徒花ネクロマンシー | フランシュシュ |
+| 10 | 光るなら | Goose house |
+| 11 | gift | りんね(佐倉綾音) |
+| 12 | 君の神話 ～アクエリオン第二章 | AKINO with bless4 |
+| 13 | ETERNAL BLAZE | 水樹奈々 |
+| 14 | ライオン | May'n / 中島愛 |
+| 15 | コネクト | ClariS |
+| 16 | シュガーソングとビターステップ | UNISON SQUARE GARDEN |
+| 17 | ダイアモンド クレバス | シェリル・ノーム(May'n) |
+
+---
+
+## #13 美少女ゲームソングをいろいろ歌います！
+
+[![](https://img.youtube.com/vi/A5eX_boJra0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=A5eX_boJra0)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | 一冊のアロー | 櫻川めぐ | ハミダシクリエイティブ凸 OP |
+| 2 | 未来への咆哮 | JAM Project | マブラヴ オルタネイティヴ OP |
+| 3 | さくら、Reincarnation | 佐咲紗花 | さくら、もゆ。 -as the Night's, Reincarnation- OP |
+| 4 | アペイリア | 薬師るり | 景の海のアペイリア OP |
+| 5 | 祝福のカンパネラ | 佐藤ひろ美・NANA | 祝福のカンパネラ -la campanella della benedizione- OP |
+| 6 | タビダチノトリ | 山崎もえ | アオイトリ ED |
+| 7 | 新世界のα | Luna | アインシュタインより愛を込めて OP |
+| 8 | キミガタメ | Suara | うたわれるもの -散りゆく者への子守唄- ED |
+| 9 | 楽園の扉 | 青葉りんご | euphoria OP |
+| 10 | これくらいで | 藍月なくる | 夢と色でできている ED |
+| 11 | First Love | 夢乃ゆき | ヒマワリと恋の記憶 ED |
+| 12 | Close Your Eyes | 彩音 | G線上の魔王 ED |
+
+---
+
+## #14 静かな夜の、ゆるゆる歌枠 JOYSOUND
+
+[![](https://img.youtube.com/vi/a9UGoXNMHQ0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=a9UGoXNMHQ0)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | 君の知らない物語 | supercell |
+| 2 | 秒針を噛む | ずっと真夜中でいいのに。 |
+| 3 | プラネタリウム | 大塚愛 |
+| 4 | Beautiful World | 宇多田ヒカル |
+| 5 | 花に亡霊 | ヨルシカ |
+| 6 | secret base 〜君がくれたもの〜 | ZONE |
+| 7 | 小学館 | 相対性理論 |
+| 8 | ノルニル | やくしまるえつこメトロオーケストラ |
+| 9 | スパークル | RADWIMPS |
+| 10 | Planetes | EGOIST |
+| 11 | 風になる | つじあやの |
+
+---
+
+## #15 夏の美少女ゲームソング歌枠
+
+[![](https://img.youtube.com/vi/JDDIIIdhBNI/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=JDDIIIdhBNI)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | 鳥の詩 | Lia | AIR OP |
+| 2 | allegretto～そらときみ～ | KOTOKO | この青空に約束を― OP |
+| 3 | マリンブルーに沿って | 佐咲紗花 | ちいさな彼女の小夜曲 OP |
+| 4 | アルカテイル | 鈴木このみ | Summer Pockets OP |
+| 5 | bumpy-Jumpy! | KOTOKO | ナツユメナギサ OP |
+| 6 | こころに響く恋ほたる | 橋本みゆき | アマツツミ OP |
+| 7 | コトダマ紡ぐ未来 | 山崎もえ | アマツツミ 挿入歌 |
+| 8 | Memoria | Duca | アマカノ2+ OP |
+| 9 | 希望の前で待ち合わせ | はな | 向日葵の教会と長い夏休み ED |
+| 10 | 夏影 ～Cornwall summer mix～ | Lia | AIR |
+| 11 | ポケットをふくらませて | rionos | Summer Pockets ED |
+| 12 | キスのひとつで | 佐咲紗花 | ちいさな彼女の小夜曲 ED |
+
+---
+
+## #16 男性ボーカル曲限定の歌枠します JOYSOUND
+
+[![](https://img.youtube.com/vi/f2MLKPZeZ-s/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=f2MLKPZeZ-s)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | 空も飛べるはず | スピッツ |
+| 2 | ギルド | BUMP OF CHICKEN |
+| 3 | オリオンをなぞる | UNISON SQUARE GARDEN |
+| 4 | Butter-Fly | 和田光司 |
+| 5 | おやすみ泣き声、さよなら歌姫 | クリープハイプ |
+| 6 | Rain | 秦基博 |
+| 7 | タユタ | RADWIMPS |
+| 8 | 白日 | King Gnu |
+| 9 | アイネクライネ | 米津玄師 |
+| 10 | 夏の終わり | 森山直太朗 |
+| 11 | 115万キロのフィルム | Official髭男dism |
+| 12 | ray | BUMP OF CHICKEN |
+
+---
+
+## #17 アニソンフェスティバル開催
+
+[![](https://img.youtube.com/vi/bQpf46tKwmU/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=bQpf46tKwmU)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | UNION | OxT | SSSS.GRIDMAN |
+| 2 | 恋は渾沌の隷也 | 後ろから這いより隊G | 這いよれ！ニャル子さんW |
+| 3 | マジックナンバー | 坂本真綾 | こばと。 |
+| 4 | 晴る | ヨルシカ | 葬送のフリーレン |
+| 5 | プライド革命 | CHiCO with HoneyWorks | 銀魂° |
+| 6 | アイマイモコ | 水瀬いのり | 徒然チルドレン |
+| 7 | God knows... | 涼宮ハルヒ(平野綾) | 涼宮ハルヒの憂鬱 |
+| 8 | 甲賀忍法帖 | 陰陽座 | バジリスク〜甲賀忍法帖〜 |
+| 9 | アンインストール | 石川智晶 | ぼくらの |
+| 10 | My Soul,Your Beats! | Lia | Angel Beats! |
+| 11 | sakura | NIRGILIS | 交響詩篇エウレカセブン |
+| 12 | 深愛 | 水樹奈々 | WHITE ALBUM |
+| 13 | 星座になれたら | 結束バンド | ぼっち・ざ・ろっく |
+| 14 | Catch the Moment | LiSA | 劇場版ソードアート・オンライン-オーディナル・スケール- |
+| 15 | 天使にふれたよ! | 放課後ティータイム | けいおん!! |
+
+---
+
+## #18 美少女ゲームソング歌枠します♡
+
+[![](https://img.youtube.com/vi/Em-N28KbXv4/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=Em-N28KbXv4)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | raspberry cube | 松下 | ラズベリーキューブ OP |
+| 2 | Wings of Courage 空を超えて | - | 蒼の彼方のフォーリズム OP |
+| 3 | 野良猫ハート | パトリシア・オブ・エンド、黒木未知、夕莉シャチ、明日原ユウキ | ノラと皇女と野良猫ハート OP, ED |
+| 4 | 観覧車～あの日と、昨日と今日と明日と～ | Duca | めぐる季節の約束と、つないだその手のぬくもりと / アマカノ2 挿入歌 |
+| 5 | PicaPica | monet | サクラノ詩 櫻の森の上を舞う ED |
+| 6 | Answer | Duca | アインシュタインより愛を込めて OP |
+| 7 | アオイトリ | 橋本みゆき | アオイトリ OP |
+| 8 | ラストタイム | 夢乃ゆき | ゴールデンアワー ED |
+| 9 | 夜奏花 | YURiKA | Summer Pockets 挿入歌 |
+| 10 | Into Gray | yuki | 白昼夢の青写真 OP |
+| 11 | Re:TrymenT | 紫咲ほたる | Re:LieF ～親愛なるあなたへ～ OP |
+| 12 | Re:何度目かのはじめまして | 紫咲ほたる | 何度目かのはじめまして OP |
+
+---
+
+## #19 お仕事や作業のおともに！歌います JOYSOUND
+
+[![](https://img.youtube.com/vi/KYYYSQRqJqY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=KYYYSQRqJqY)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | やさしさに包まれたなら | 松任谷由実 | 魔女の宅急便 |
+| 2 | Gift | 坂本真綾 | CLAMP学園探偵団 |
+| 3 | 晴れてハレルヤ | 奥井亜紀 | 魔法陣グルグル |
+| 4 | SHINY DAYS | 亜咲花 | ゆるキャン△ |
+| 5 | ヴィーナスとジーザス | やくしまるえつこ | 荒川アンダー ザ ブリッジ |
+| 6 | 脳裏上のクラッカー | ずっと真夜中でいいのに。 | - |
+| 7 | 幻の命 | SEKAI NO OWARI | - |
+| 8 | Agape | メロキュア | 円盤皇女ワるきゅーレ |
+| 9 | This Love | アンジェラ・アキ | BLOOD+ |
+| 10 | Home Sweet Home | YUKI | 劇場版 NARUTO |
+| 11 | ループ | 坂本真綾 | ツバサ・クロニクル |
+| 12 | だから僕は音楽を辞めた | ヨルシカ | - |
+
+---
+
+## #20 お昼の美少女ゲームソング歌枠
+
+[![](https://img.youtube.com/vi/WPS5QLIw9PI/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=WPS5QLIw9PI)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | Little Busters! | Rita | リトルバスターズ! OP |
+| 2 | カーニバル | NANA | CARNIVAL OP |
+| 3 | 夢と色でできている | 佐咲紗花 | 夢と色でできている OP |
+| 4 | 非実空想アムネジア | 橋本みゆき | ハピメア REGRET END OP |
+| 5 | ハレノヒステップ | 佐々木詩織 | カノジョ＊ステップ OP |
+| 6 | 5分前の恋心 | 橋本みゆき | クロノクロック OP |
+| 7 | 恋するキリギリス | yuki | 白昼夢の青写真 OP |
+| 8 | WHITE ALBUM Live at Campus Fes | 小木曽雪菜(米澤円) | WHITE ALBUM2 挿入歌 |
+| 9 | アマオト | Duca | アメサラサ ～雨と、不思議な君に、恋をする～ OP |
+| 10 | 櫻ノ詩 | はな | サクラノ詩 櫻の森の上を舞う OP |
+| 11 | ユーフォリアム | 鈴湯 | アストラエアの白き永遠 Finale 白き星の夢 OP |
+| 12 | 夜明けのベルが鳴る | 安田みずほ | 彼女のセイイキ ED |
+| 13 | ナグルファルの船上にて | monet | 素晴らしき日々 ～不連続存在～ ED |
+| 14 | 小さなてのひら | riya | CLANNAD ED |
+
+---
+
+## #21 アニソン30曲耐久！！ JOYSOUND
+
+[![](https://img.youtube.com/vi/Nn8BMGqI67M/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=Nn8BMGqI67M)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | ふわふわ時間 | 放課後ティータイム | けいおん! |
+| 2 | ようこそジャパリパークへ | どうぶつビスケッツ×PPP | けものフレンズ |
+| 3 | 冒険でしょでしょ？ | 平野綾 | 涼宮ハルヒの憂鬱 |
+| 4 | シュガーソングとビターステップ | UNISON SQUARE GARDEN | 血界戦線 |
+| 5 | Together | あきよしふみえ | ポケットモンスターダイヤモンド＆パール |
+| 6 | ファッとして桃源郷 | 新庄かなえ(三森すずこ) | てーきゅう |
+| 7 | 撲殺天使ドクロちゃん | ドクロちゃん(千葉紗子) | 撲殺天使ドクロちゃん |
+| 8 | ちゅ、多様性。 | ano | チェンソーマン |
+| 9 | 快眠！安眠！スヤリスト生活 | スヤリス姫(水瀬いのり) | 魔王城でおやすみ |
+| 10 | 虹いろ・クマクマ | ランカ・リー(中島愛) | マクロスフロンティア |
+| 11 | カラフル | ClariS | 劇場版 魔法少女まどか☆マギカ【新編】叛逆の物語 |
+| 12 | 青空のナミダ | 高橋瞳 | BLOOD+ |
+| 13 | 告白 | supercell | ギルティクラウン |
+| 14 | ひぐらしのなく頃に | 島みやえい子 | ひぐらしのなく頃に |
+| 15 | Sincerely | TRUE | ヴァイオレット・エヴァーガーデン |
+| 16 | 逆夢 | King Gnu | 劇場版 呪術廻戦0 |
+| 17 | フリージア | Uru | 機動戦士ガンダム 鉄血のオルフェンズ |
+| 18 | 英雄 運命の詩 | EGOIST | Fate/Apocrypha |
+| 19 | 大河よ共に泣いてくれ | フランシュシュ | ゾンビランドサガ リベンジ |
+| 20 | ヘミソフィア | 坂本真綾 | ラーゼフォン |
+| 21 | F.D.D | いとうかなこ | CHAOS;HEAD |
+| 22 | 輪舞-revolution | 奥井雅美 | 少女革命ウテナ |
+| 23 | ETERNAL BLAZE | 水樹奈々 | 魔法少女リリカルなのはA's |
+| 24 | ノーザンクロス | シェリル・ノーム(May'n) | マクロスフロンティア |
+| 25 | Shangri-La | angela | 蒼穹のファフナー |
+| 26 | ファティマ | いとうかなこ | シュタインズ・ゲート ゼロ |
+| 27 | 魂のルフラン | 高橋洋子 | 新世紀エヴァンゲリオン劇場版シト新生 |
+| 28 | 逆光のフリューゲル | ツヴァイウィング | 戦姫絶唱シンフォギア |
+| 29 | 花の塔 | さユり | リコリス・リコイル |
+| 30 | 創聖のアクエリオン | AKINO from bless4 | 創聖のアクエリオン |
+
+---
+
+## #22 『白昼夢の青写真』楽曲限定歌枠
+
+[![](https://img.youtube.com/vi/WNGzGXCfOZE/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=WNGzGXCfOZE)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | いつかの白昼夢 | yuki |
+| 2 | 恋するキリギリス | yuki |
+| 3 | 夏のタイムカプセル | yuki |
+| 4 | 冷たい壁のむこうに | yuki |
+| 5 | 夜明けの片隅で | yuki |
+| 6 | クラムボン | yuki |
+| 7 | ブルカニロ | yuki |
+| 8 | Into Gray | yuki |
+| 9 | 凪いだ海のように | yuki |
+
+---
+
+## #23 ボカロだけ歌う日！ JOYSOUND
+
+[![](https://img.youtube.com/vi/1fuRUJpA5Jo/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=1fuRUJpA5Jo)
+
+| # | 曲名 | ボカロP | 投稿年 |
+|---|------|---------|--------|
+| 1 | フォニイ | ツミキ | 2021年 |
+| 2 | オツキミリサイタル | じん | 2013年 |
+| 3 | 嗚呼、素晴らしきニャン生 | Nem | 2011年 |
+| 4 | モニタリング | DECO*27 | 2024年 |
+| 5 | 少女レイ | みきとP | 2018年 |
+| 6 | 深海少女 | ゆうゆ | 2010年 |
+| 7 | カミサマネジマキ | kemu | 2012年 |
+| 8 | 東京テディベア | Neru | 2011年 |
+| 9 | セツナトリップ | Last Note. | 2012年 |
+| 10 | 地球最後の告白を | kemu | 2012年 |
+| 11 | 炉心融解 | Iroha(sasaki) | 2008年 |
+
+---
+
+## #24 美少女ゲームソング限定歌枠♡１周年記念
+
+[![](https://img.youtube.com/vi/IQKzrV_VyXc/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=IQKzrV_VyXc)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | さくら、Reincarnation | 佐咲紗花 | さくら、もゆ。 -as the Night's, Reincarnation- OP |
+| 2 | 一冊のアロー | 櫻川めぐ | ハミダシクリエイティブ凸 OP |
+| 3 | 鳥の詩 | Lia | AIR OP |
+| 4 | 新世界のα | Luna | アインシュタインより愛を込めて OP |
+| 5 | 在りし日のために | monet | サクラノ詩 ED |
+| 6 | 夢の無限回廊 | 橋本みゆき | ハピメア OP |
+| 7 | 葬送の旋律 | 紫咲ほたる | ムーン・ゴースト OP |
+| 8 | With Tomorrow | 夢乃ゆき | 月の彼方で逢いましょう 挿入歌 |
+| 9 | 恋文 | やなぎなぎ | Rewrite ED |
+| 10 | キミガタメ | Suara | うたわれるもの -散りゆく者への子守唄- ED |
+| 11 | 二人だけのカーテンコール | 浅葉リオ | アオイトリ 挿入歌 |
+| 12 | キスのひとつで | 佐咲紗花 | ちいさな彼女の小夜曲 ED |
+| 13 | ダ・カーポ5〜メグリメグル世界〜 | yozuca* | D.C.5 ダ・カーポ5 OP |
+
+---
+
+## #25 お昼過ぎのまったりチルな歌枠 JOYSOUND
+
+[![](https://img.youtube.com/vi/4SFH0RrUL6I/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=4SFH0RrUL6I)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | 雨とカプチーノ | ヨルシカ |
+| 2 | ジュゴンの見える丘 | Cocco |
+| 3 | マリンブルーの庭園 | ずっと真夜中でいいのに。 |
+| 4 | 蝶々結び | Aimer |
+| 5 | 言って。 | ヨルシカ |
+| 6 | プロポーズ | 内緒のピアス |
+| 7 | 繰り返す収穫 | ずっと真夜中でいいのに。 |
+| 8 | Planetes | EGOIST |
+| 9 | なんでもないや (movie ver.) | RADWIMPS |
+| 10 | いつも何度でも | 木村弓 |
+
+---
+
+## #26 ch登録１０００人目指して歌います JOYSOUND
+
+[![](https://img.youtube.com/vi/BPaWnH2SzM0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=BPaWnH2SzM0)
+
+| # | 曲名 | アーティスト |
+|---|------|--------------|
+| 1 | 明日の私に幸あれ | ナナヲアカリ |
+| 2 | アイマイモコ | 水瀬いのり |
+| 3 | かくしん的☆めたまるふぉ～ぜっ! | 土間うまる(田中あいみ) |
+| 4 | 七色シンフォニー | コアラモード. |
+| 5 | 檄！帝国華撃団 | 横山智佐＆帝国歌劇団 |
+| 6 | いけないボーダーライン | ワルキューレ |
+| 7 | オベリスク | シェリル・ノーム(May'n) |
+| 8 | 射手座☆午後九時Don't be late | シェリル・ノーム(May'n) |
+| 9 | ノーザンクロス | シェリル・ノーム(May'n) |
+| 10 | ダイアモンド クレバス | シェリル・ノーム(May'n) |
+| 11 | 星間飛行 | ランカ・リー(中島愛) |
+| 12 | お勉強しといてよ | ずっと真夜中でいいのに。 |
+| 13 | カブトムシ | aiko |
+| 14 | 歌舞伎町の女王 | 椎名林檎 |
+| 15 | 丸の内サディスティック | 椎名林檎 |
+| 16 | 群青日和 | 東京事変 |
+| 17 | 閃光少女 | 東京事変 |
+| 18 | 木綿のハンカチーフ | 太田裕美 |
+| 19 | トライアングル・スター | SoLaMi♡SMILE |
+| 20 | Dreaming bird | ななせ from AIKATSU☆STARS! |
+| 21 | gift | りんね(佐倉綾音) |
+| 22 | フレンドパスワード | だいあ(佐々木李子) |
+| 23 | 特攻DANCE～DAWN OF THE BAD～ | フランシュシュ |
+| 24 | ヨミガエレ | フランシュシュ |
+| 25 | 大河よ共に泣いてくれ | フランシュシュ |
+| 26 | ドーナツホール 2024 | ハチ |
+| 27 | ロストワンの号哭 | Neru |
+| 28 | え？あぁ、そう。 | 蝶々P |
+| 29 | サリシノハラ | みきとP |
+| 30 | ハロ／ハワユ | ナノウ |
+| 31 | 脳漿炸裂ガール | れるりり |
+| 32 | タユタ | RADWIMPS |
+| 33 | Hello,world！ | BUMP OF CHICKEN |
+| 34 | シュガーソングとビターステップ | UNISON SQUARE GARDEN |
+| 35 | 繰り返す収穫 | ずっと真夜中でいいのに。 |
+| 36 | 逆夢 | King Gnu |
+| 37 | 白日 | King Gnu |
+| 38 | ビビデバ | 星街すいせい |
+| 39 | 気まぐれロマンティック | いきものがかり |
+| 40 | ブルーバード | いきものがかり |
+| 41 | 葛飾ラプソディー | 堂島孝平 |
+| 42 | 青空のラプソディ | fhána |
+| 43 | 再会系女子はどうすりゃいいですか？ | 夢乃ゆき |
+| 44 | 紬の夏休み | 紬ヴェンダース(岩井映美里) |
+| 45 | 沙耶の唄 | いとうかなこ |
+| 46 | 甲賀忍法帖 | 陰陽座 |
+
+---
+
+## #27 新しい年のはじまりに、歌います
+
+[![](https://img.youtube.com/vi/56CPNGJUi6w/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=56CPNGJUi6w)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | First Step | 長瀬麻奈(神田沙也加) | IDOLY PRIDE |
+| 2 | プラチナ | 坂本真綾 | カードキャプターさくら OP |
+| 3 | もうそう⭐︎えくすぷれす | 千石撫子(花澤香菜) | 〈物語〉シリーズ セカンドシーズン |
+| 4 | 名前のない怪物 | EGOIST | PSYCHO-PASS サイコパス ED |
+| 5 | カラカラ | 結束バンド | ぼっち・ざ・ろっく！ |
+| 6 | 月のワルツ | 諫山実生 | - |
+| 7 | シリウスの心臓 | ヰ世界情緒 | - |
+| 8 | 隣に… | 三浦あずさ(たかはし智秋) | アイドルマスター |
+| 9 | 約束 | 如月千早(今井麻美) | アイドルマスター |
+| 10 | 小さなてのひら | Lia | CLANNAD ED |
+| 11 | 悪魔の子 | ヒグチアイ | 進撃の巨人 The Final Season Part 2 ED |
+| 12 | 小さな野望 | 十王星南(陽高真白) | 学園アイドルマスター |
+| 13 | ましろもちもちわーるど！ | 白玉餅ましろ | オリジナル曲 |

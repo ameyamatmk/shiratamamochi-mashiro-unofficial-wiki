@@ -12,15 +12,17 @@
 
 ## 公式リンク
 
-- :fontawesome-brands-youtube: [YouTube / @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro)
-- :fontawesome-brands-x-twitter: [X (Twitter) / @umamochi_shiro](https://x.com/umamochi_shiro)
-- :fontawesome-solid-shop: [BOOTH / shiratamamochima](https://shiratamamochima.booth.pm/)
+[:fontawesome-brands-youtube: YouTube / @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro){ .md-button }
+
+[:fontawesome-brands-x-twitter: X (Twitter) / @umamochi_shiro](https://x.com/umamochi_shiro){ .md-button }
+
+[:fontawesome-solid-shop: BOOTH / shiratamamochima](https://shiratamamochima.booth.pm/){ .md-button }
 
 ## おすすめ動画
 
 ### 白玉餅ましろってどんな子？👀🤍
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3y0Xo541sGKcfsAg2X2gvE)
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3y0Xo541sGKcfsAg2X2gvE){ .md-button }
 
 ### 初配信
 {{ youtube("https://www.youtube.com/watch?v=E7cJ584iqa4") }}

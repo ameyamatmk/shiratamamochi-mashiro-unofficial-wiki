@@ -2,9 +2,11 @@
 
 投稿された歌ってみた動画の一覧です。
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0pqXLx1ISHqqCEcHjthpl5)
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0pqXLx1ISHqqCEcHjthpl5){ .md-button }
 
 ## 投稿一覧
+
+サムネイル画像をクリックすると動画ページを開きます。
 
 !!! info ""
     サムネイル画像は img.youtube.com から取得しています。
