@@ -1,6 +1,6 @@
 # 歌枠楽曲リスト
 
-歌枠配信で1回以上歌ったことのある楽曲リストです。
+歌枠配信で1回以上歌ったことのある楽曲リストです。五十音。
 
 ## 美少女ゲーム
 
@@ -109,22 +109,22 @@
 
 | 作品 | アーティスト | 楽曲名 |
 |-----------|------------------|--------|
-| THE IDOLM@STER | 765PRO | GO MY WAY‼ |
-| THE IDOLM@STER | 765PRO ALLSTARS | READY!! |
-| THE IDOLM@STER | 音無小鳥 | 空 |
-| THE IDOLM@STER | 菊地真 | エージェント夜を往く |
-| THE IDOLM@STER | 三浦あずさ | 隣に… |
-| THE IDOLM@STER | 星井美希 | マリオネットの心 |
-| THE IDOLM@STER | 如月千早 | 約束 |
-| THE IDOLM@STER | 如月千早、萩原雪歩 | Little Match Girl |
-| THE IDOLM@STER CINDERELLA GIRLS | Masque:Rade | Love∞Destiny |
-| THE IDOLM@STER CINDERELLA GIRLS | 佐久間まゆ | エヴリデイドリーム |
-| THE IDOLM@STER CINDERELLA GIRLS | 城ヶ崎莉嘉、諸星きらり、城ヶ崎美嘉、本田未央、赤城みりあ | Orange Sapphire |
-| THE IDOLM@STER CINDERELLA GIRLS | 双葉杏、前川みく、島村卯月、小日向美穂、安部菜々 | アタシポンコツアンドロイド |
-| THE IDOLM@STER SHINY COLORS | アルストロメリア | アルストロメリア |
-| THE IDOLM@STER SHINY COLORS | アンティーカ | バベルシティ・グレイス |
-| THE IDOLM@STER SHINY COLORS | イルミネーションスターズ | ヒカリのdestination |
-| THE IDOLM@STER SHINY COLORS | ストレイライト | Wandering Dream Chaser |
+| アイドルマスター | 765PRO | GO MY WAY‼ |
+| アイドルマスター | 765PRO ALLSTARS | READY!! |
+| アイドルマスター | 音無小鳥 | 空 |
+| アイドルマスター | 菊地真 | エージェント夜を往く |
+| アイドルマスター | 三浦あずさ | 隣に… |
+| アイドルマスター | 星井美希 | マリオネットの心 |
+| アイドルマスター | 如月千早 | 約束 |
+| アイドルマスター | 如月千早、萩原雪歩 | Little Match Girl |
+| シンデレラガールズ | Masque:Rade | Love∞Destiny |
+| シンデレラガールズ | 佐久間まゆ | エヴリデイドリーム |
+| シンデレラガールズ | 城ヶ崎莉嘉、諸星きらり、城ヶ崎美嘉、本田未央、赤城みりあ | Orange Sapphire |
+| シンデレラガールズ | 双葉杏、前川みく、島村卯月、小日向美穂、安部菜々 | アタシポンコツアンドロイド |
+| シャイニーカラーズ | アルストロメリア | アルストロメリア |
+| シャイニーカラーズ | アンティーカ | バベルシティ・グレイス |
+| シャイニーカラーズ | イルミネーションスターズ | ヒカリのdestination |
+| シャイニーカラーズ | ストレイライト | Wandering Dream Chaser |
 | 学園アイドルマスター | 十王星南 | 小さな野望 |
 | 学園アイドルマスター | 初星学園 | 初 |
 | 学園アイドルマスター | 倉本千奈 | 日々、発見的ステップ！ |
