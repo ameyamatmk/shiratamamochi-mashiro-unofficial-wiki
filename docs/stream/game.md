@@ -11,6 +11,8 @@
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2SLVy59ZZ4rQkeOtdCMtbj){ .md-button }
 
+おねショタにおたけびを上げるましろさんを刮目して見よ
+
 - 全7回
 - 2025/05/16 ～ 2025/06/04
 
@@ -29,6 +31,8 @@
 ## ToHeart❤️
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1wyRZyUI4WoeKt04D-xb_f){ .md-button }
+
+金髪ギャル最高
 
 - 全6回
 - 2025/06/26 ～ 2025/07/29
@@ -50,6 +54,8 @@
 ## なつのさがしもの～Healthy～🎐
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1hsL94oQuQ3TUHw_FB8XFl){ .md-button }
+
+田舎の夏といえばお姉さん
 
 - 全6回
 - 2025/08/04 ～ 2025/08/24
@@ -73,6 +79,8 @@
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
 
+いろんな白玉餅さんを描いて観よう！
+
 - 参加型
 - 2025/06/07 ～
 
@@ -91,6 +99,12 @@
 ## gogh: Focus with Your Avatar🖼
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2vk8p5WFA_68TD1Ts4vns1){ .md-button }
+
+ルームに参加したい場合は gogh をインストールしよう！
+
+[公式サイト](https://gogh.gg/jp){ .md-button }
+
+[Steam](https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/){ .md-button }
 
 - 作業雑談
 - 2025/12/29 ～
