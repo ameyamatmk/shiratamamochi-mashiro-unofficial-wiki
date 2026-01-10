@@ -1,5 +1,8 @@
 # メンバーシップ特典
 
+{{ youtube("https://www.youtube.com/watch?v=CFjVfcceqSM") }}
+
+2025/06/19 開設  
 もっちり会 月額290円
 
 ## バッジ
