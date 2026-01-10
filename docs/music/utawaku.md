@@ -2,7 +2,7 @@
 
 [:simple-youtube: 歌枠｜好きな曲を歌った配信🎤（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3V409HLVJ4WhOCnKifXh4I){ .md-button }
 
-歌枠配信のセットリストをまとめています。  
+歌枠配信のセットリストをまとめています。
 サムネイル画像をクリックすると動画ページを開きます。
 
 !!! info ""
@@ -14,7 +14,7 @@
 
 ### 美少女ゲームソングを歌います♡
 
-[![](https://img.youtube.com/vi/TWB3vz2Nw2k/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=TWB3vz2Nw2k)
+{{ youtube_thumbnail("TWB3vz2Nw2k", 240) }}
 
 配信日: 2025/01/03
 
@@ -36,7 +36,7 @@
 
 ### アイマス限定の歌枠します♡
 
-[![](https://img.youtube.com/vi/MiE66vg7P_0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=MiE66vg7P_0)
+{{ youtube_thumbnail("MiE66vg7P_0", 240) }}
 
 配信日: 2025/01/21
 
@@ -57,7 +57,7 @@
 
 ### ちょっと遅めの夜にしっとり曲多めの歌枠
 
-[![](https://img.youtube.com/vi/rKxP_L32KT0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=rKxP_L32KT0)
+{{ youtube_thumbnail("rKxP_L32KT0", 240) }}
 
 配信日: 2025/01/31
 
@@ -77,7 +77,7 @@
 
 ### 平成アニソン祭り JOYSOUND
 
-[![](https://img.youtube.com/vi/7sknELYplgI/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=7sknELYplgI)
+{{ youtube_thumbnail("7sknELYplgI", 240) }}
 
 配信日: 2025/02/10
 
@@ -103,7 +103,7 @@
 
 ### 美少女ゲームソング歌枠をします！
 
-[![](https://img.youtube.com/vi/4uDG1t9pLaY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=4uDG1t9pLaY)
+{{ youtube_thumbnail("4uDG1t9pLaY", 240) }}
 
 配信日: 2025/02/22
 
@@ -124,7 +124,7 @@
 
 ### Key作品限定の歌枠します
 
-[![](https://img.youtube.com/vi/tZZKLk_2lIY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=tZZKLk_2lIY)
+{{ youtube_thumbnail("tZZKLk_2lIY", 240) }}
 
 配信日: 2025/03/12
 
@@ -147,7 +147,7 @@
 
 ### 美少女ゲームソングを歌います
 
-[![](https://img.youtube.com/vi/ZiF_H7VwTXQ/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=ZiF_H7VwTXQ)
+{{ youtube_thumbnail("ZiF_H7VwTXQ", 240) }}
 
 配信日: 2025/03/28
 
@@ -168,7 +168,7 @@
 
 ### 好きなアニソンを歌います！
 
-[![](https://img.youtube.com/vi/bSzrxhsJV1c/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=bSzrxhsJV1c)
+{{ youtube_thumbnail("bSzrxhsJV1c", 240) }}
 
 配信日: 2025/04/11
 
@@ -188,7 +188,7 @@
 
 ### 美少女ゲームソング歌枠
 
-[![](https://img.youtube.com/vi/M9YpktDRCyk/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=M9YpktDRCyk)
+{{ youtube_thumbnail("M9YpktDRCyk", 240) }}
 
 配信日: 2025/05/08
 
@@ -210,7 +210,7 @@
 
 ### アイマスシリーズ限定の歌枠！！
 
-[![](https://img.youtube.com/vi/smRpC9uqffo/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=smRpC9uqffo)
+{{ youtube_thumbnail("smRpC9uqffo", 240) }}
 
 配信日: 2025/05/23
 
@@ -231,7 +231,7 @@
 
 ### 美少女ゲームソング歌枠！
 
-[![](https://img.youtube.com/vi/bmmSSA-NdYY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=bmmSSA-NdYY)
+{{ youtube_thumbnail("bmmSSA-NdYY", 240) }}
 
 配信日: 2025/05/31
 
@@ -252,7 +252,7 @@
 
 ### アゲアゲ↑↑アニソン歌枠 JOYSOUND
 
-[![](https://img.youtube.com/vi/V7KcC3r_rV0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=V7KcC3r_rV0)
+{{ youtube_thumbnail("V7KcC3r_rV0", 240) }}
 
 配信日: 2025/06/13
 
@@ -280,7 +280,7 @@
 
 ### 美少女ゲームソングをいろいろ歌います！
 
-[![](https://img.youtube.com/vi/A5eX_boJra0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=A5eX_boJra0)
+{{ youtube_thumbnail("A5eX_boJra0", 240) }}
 
 配信日: 2025/06/28
 
@@ -303,7 +303,7 @@
 
 ### 静かな夜の、ゆるゆる歌枠 JOYSOUND
 
-[![](https://img.youtube.com/vi/a9UGoXNMHQ0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=a9UGoXNMHQ0)
+{{ youtube_thumbnail("a9UGoXNMHQ0", 240) }}
 
 配信日: 2025/07/30
 
@@ -325,7 +325,7 @@
 
 ### 夏の美少女ゲームソング歌枠
 
-[![](https://img.youtube.com/vi/JDDIIIdhBNI/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=JDDIIIdhBNI)
+{{ youtube_thumbnail("JDDIIIdhBNI", 240) }}
 
 配信日: 2025/08/17
 
@@ -348,7 +348,7 @@
 
 ### 男性ボーカル曲限定の歌枠します JOYSOUND
 
-[![](https://img.youtube.com/vi/f2MLKPZeZ-s/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=f2MLKPZeZ-s)
+{{ youtube_thumbnail("f2MLKPZeZ-s", 240) }}
 
 配信日: 2025/08/26
 
@@ -371,7 +371,7 @@
 
 ### アニソンフェスティバル開催
 
-[![](https://img.youtube.com/vi/bQpf46tKwmU/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=bQpf46tKwmU)
+{{ youtube_thumbnail("bQpf46tKwmU", 240) }}
 
 配信日: 2025/09/09
 
@@ -397,7 +397,7 @@
 
 ### 美少女ゲームソング歌枠します♡
 
-[![](https://img.youtube.com/vi/Em-N28KbXv4/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=Em-N28KbXv4)
+{{ youtube_thumbnail("Em-N28KbXv4", 240) }}
 
 配信日: 2025/10/05
 
@@ -420,7 +420,7 @@
 
 ### お仕事や作業のおともに！歌います JOYSOUND
 
-[![](https://img.youtube.com/vi/KYYYSQRqJqY/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=KYYYSQRqJqY)
+{{ youtube_thumbnail("KYYYSQRqJqY", 240) }}
 
 配信日: 2025/10/15
 
@@ -443,7 +443,7 @@
 
 ### お昼の美少女ゲームソング歌枠
 
-[![](https://img.youtube.com/vi/WPS5QLIw9PI/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=WPS5QLIw9PI)
+{{ youtube_thumbnail("WPS5QLIw9PI", 240) }}
 
 配信日: 2025/10/25
 
@@ -468,7 +468,7 @@
 
 ### アニソン30曲耐久！！ JOYSOUND
 
-[![](https://img.youtube.com/vi/Nn8BMGqI67M/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=Nn8BMGqI67M)
+{{ youtube_thumbnail("Nn8BMGqI67M", 240) }}
 
 配信日: 2025/11/20
 
@@ -509,7 +509,7 @@
 
 ### 『白昼夢の青写真』楽曲限定歌枠
 
-[![](https://img.youtube.com/vi/WNGzGXCfOZE/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=WNGzGXCfOZE)
+{{ youtube_thumbnail("WNGzGXCfOZE", 240) }}
 
 配信日: 2025/11/27
 
@@ -529,7 +529,7 @@
 
 ### ボカロだけ歌う日！ JOYSOUND
 
-[![](https://img.youtube.com/vi/1fuRUJpA5Jo/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=1fuRUJpA5Jo)
+{{ youtube_thumbnail("1fuRUJpA5Jo", 240) }}
 
 配信日: 2025/11/29
 
@@ -551,7 +551,7 @@
 
 ### 美少女ゲームソング限定歌枠♡１周年記念
 
-[![](https://img.youtube.com/vi/IQKzrV_VyXc/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=IQKzrV_VyXc)
+{{ youtube_thumbnail("IQKzrV_VyXc", 240) }}
 
 配信日: 2025/12/04
 
@@ -575,7 +575,7 @@
 
 ### お昼過ぎのまったりチルな歌枠 JOYSOUND
 
-[![](https://img.youtube.com/vi/4SFH0RrUL6I/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=4SFH0RrUL6I)
+{{ youtube_thumbnail("4SFH0RrUL6I", 240) }}
 
 配信日: 2025/12/06
 
@@ -596,7 +596,7 @@
 
 ### ch登録１０００人目指して歌います JOYSOUND
 
-[![](https://img.youtube.com/vi/BPaWnH2SzM0/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=BPaWnH2SzM0)
+{{ youtube_thumbnail("BPaWnH2SzM0", 240) }}
 
 配信日: 2025/12/13
 
@@ -655,7 +655,7 @@
 
 ### 新しい年のはじまりに、歌います
 
-[![](https://img.youtube.com/vi/56CPNGJUi6w/mqdefault.jpg){ width=240 }](https://www.youtube.com/watch?v=56CPNGJUi6w)
+{{ youtube_thumbnail("56CPNGJUi6w", 240) }}
 
 配信日: 2026/01/03
 

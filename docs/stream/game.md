@@ -1,5 +1,10 @@
 # ゲーム配信
 
+サムネイル画像をクリックすると動画ページを開きます。
+
+!!! info ""
+    サムネイル画像は img.youtube.com から取得しています。
+
 ## フォレスティア🌱
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2SLVy59ZZ4rQkeOtdCMtbj){ .md-button }
@@ -7,7 +12,7 @@
 - 全7回
 - 2025/05/16 ～ 2025/06/04
 
-{{ youtube("https://www.youtube.com/watch?v=_5-kb45moTg") }}
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=_5-kb45moTg", 320) }}
 
 ## ToHeart❤️
 
@@ -16,10 +21,11 @@
 - 全6回
 - 2025/06/26 ～ 2025/07/29
 
-{{ youtube("https://www.youtube.com/watch?v=l0QwoBEdNlI") }}
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=l0QwoBEdNlI", 320) }}
 
 第5回※再生リストに追加されていません
-{{ youtube("https://www.youtube.com/watch?v=mtqbb1Kumyk") }}
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=mtqbb1Kumyk", 320) }}
 
 ## なつのさがしもの～Healthy～🎐
 
@@ -28,7 +34,7 @@
 - 全6回
 - 2025/08/04 ～ 2025/08/24
 
-{{ youtube("https://www.youtube.com/watch?v=piQ0FTQaSU4") }}
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=piQ0FTQaSU4", 320) }}
 
 ## けものティータイム☕
 
@@ -37,7 +43,7 @@
 - 全4回
 - 2025/09/04 ～ 2025/10/07
 
-{{ youtube("https://www.youtube.com/watch?v=mbWp3f94Ryk") }}
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=mbWp3f94Ryk", 320) }}
 
 ## ガーティックフォン（Gartic Phone）☎
 
@@ -47,7 +53,7 @@
 - 4回
 - 2025/06/07 ～
 
-{{ youtube("https://www.youtube.com/watch?v=2Hy-PahEwb0") }}
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=2Hy-PahEwb0", 320) }}
 
 ## 単発ゲーム
 
