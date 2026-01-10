@@ -37,5 +37,5 @@
 | YouTube | [:simple-youtube: @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro) |
 | X (旧Twitter) | [:simple-x: @umamochi_shiro](https://x.com/umamochi_shiro) |
 | BOOTH | [shiratamamochima](https://shiratamamochi-mashiro.booth.pm/) |
-| マシュマロ | [メッセージを送る](https://marshmallow-qa.com/captxiloq5czcnx) |
+| マシュマロ | [メッセージをおくる](https://marshmallow-qa.com/captxiloq5czcnx) |
 | lit.link | [リンク集](https://lit.link/shiratamamochimashiro) |

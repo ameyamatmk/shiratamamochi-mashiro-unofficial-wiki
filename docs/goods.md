@@ -2,11 +2,11 @@
 
 ## BOOTH
 
-[BOOTH リンク](https://shiratamamochima.booth.pm/)
+[BOOTH リンク](https://shiratamamochima.booth.pm/){ .md-button }
 
 ### 常設
 
-[紹介配信（ :simple-youtube:, 2025/04/06 誕生日配信）](https://www.youtube.com/live/67gu4lC4M9Q?si=dkAAqGmXDFHO0Pve&t=959)
+[:simple-youtube: 紹介配信（2025/04/06 誕生日配信内）](https://www.youtube.com/live/67gu4lC4M9Q?si=dkAAqGmXDFHO0Pve&t=959){ .md-button }
 
 ### 記念グッズ
 
@@ -18,8 +18,18 @@
 
 ## メンバーシップ特典
 
-| 特典 | 備考 |
-|------|------|
-| マウスカーソル | [:simple-x:](https://x.com/umamochi_shiro/status/1935935956730986779) |
-| 新衣装（ルームウェア）記念壁紙 | [:simple-x:](https://x.com/umamochi_shiro/status/1974507645605412882) |
-| バッジ | [:simple-x:](https://x.com/umamochi_shiro/status/1937756378808127730) |
+### バッジ
+
+{{ twitter("https://x.com/umamochi_shiro/status/1937756378808127730") }}
+
+### マウスカーソル
+
+{{ twitter("https://x.com/umamochi_shiro/status/1935935956730986779") }}
+
+### 壁紙
+
+メンバーシップ限定投稿にて期間限定配布（不定期）
+
+[:simple-youtube: 投稿](https://www.youtube.com/@shiratamamochi_mashiro/posts){ .md-button }
+
+{{ twitter("https://x.com/umamochi_shiro/status/1974507645605412882") }}
