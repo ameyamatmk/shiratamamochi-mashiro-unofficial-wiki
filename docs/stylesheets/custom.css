@@ -85,11 +85,12 @@
   margin-bottom: 0.8em;
 }
 
-/* h2: 左ボーダーでセクション感 */
+/* h2: 左ボーダー + 背景グラデーションでセクション感 */
 .md-typeset h2 {
   border-left: 4px solid var(--md-primary-fg-color);
   border-bottom: 1px solid var(--md-primary-fg-color);
-  padding-left: 0.6em;
+  background: linear-gradient(90deg, var(--md-accent-fg-color--transparent) 0%, transparent 100%);
+  padding: 0.4em 0.6em;
   margin-top: 1.5em;
 }
 
@@ -97,7 +98,8 @@
 .md-typeset h3,
 .md-typeset h4 {
   border-left: 3px solid var(--md-accent-fg-color);
-  padding-left: 0.5em;
+  background: linear-gradient(90deg, var(--md-accent-fg-color--transparent) 0%, transparent 60%);
+  padding: 0.3em 0.5em;
   margin-top: 1.2em;
 }
 
