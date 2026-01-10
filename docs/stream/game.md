@@ -91,11 +91,11 @@
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3MLEKuU0w9YEIywn50IIhc){ .md-button }
 
-| サムネイル | 配信日 | ゲーム名 | 備考 | リンク |
-|:----------:|--------|----------|------|:------:|
-| {{ youtube_thumbnail("K6qHTe-lQnk") }} | 2025/01/11 | MiSide：ミサイド | 前編 | [:simple-youtube:](https://www.youtube.com/watch?v=K6qHTe-lQnk) |
-| {{ youtube_thumbnail("K9706_IqMzo") }} | 2025/01/12 | MiSide：ミサイド | 後編 | [:simple-youtube:](https://www.youtube.com/watch?v=K9706_IqMzo) |
-| {{ youtube_thumbnail("Lz2v2HpuDK4") }} | 2025/04/04 | ドーナツの穴 | | [:simple-youtube:](https://www.youtube.com/watch?v=Lz2v2HpuDK4) |
-| {{ youtube_thumbnail("kjUUgrPRmmM") }} | 2025/07/11 | 何度目かのはじめまして | 体験版 | [:simple-youtube:](https://www.youtube.com/watch?v=kjUUgrPRmmM) |
-| {{ youtube_thumbnail("PZqH-BtefCk") }} | 2025/11/02 | ライブピクト | 参加型 | [:simple-youtube:](https://www.youtube.com/watch?v=PZqH-BtefCk) |
-| {{ youtube_thumbnail("IpfcOaREXpI") }} | 2025/11/23 | テトリス99 | 参加型 | [:simple-youtube:](https://www.youtube.com/watch?v=IpfcOaREXpI) |
+| サムネイル | 配信日 | ゲーム名 | 備考 |
+|:----------:|--------|----------|------|
+| {{ youtube_thumbnail("K6qHTe-lQnk") }} | 2025/01/11 | MiSide：ミサイド | 前編 |
+| {{ youtube_thumbnail("K9706_IqMzo") }} | 2025/01/12 | MiSide：ミサイド | 後編 |
+| {{ youtube_thumbnail("Lz2v2HpuDK4") }} | 2025/04/04 | ドーナツの穴 | |
+| {{ youtube_thumbnail("kjUUgrPRmmM") }} | 2025/07/11 | 何度目かのはじめまして | 体験版 |
+| {{ youtube_thumbnail("PZqH-BtefCk") }} | 2025/11/02 | ライブピクト | 参加型 |
+| {{ youtube_thumbnail("IpfcOaREXpI") }} | 2025/11/23 | テトリス99 | 参加型 |

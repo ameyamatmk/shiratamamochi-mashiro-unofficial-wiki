@@ -1,5 +1,10 @@
 # 雑談配信
 
+サムネイル画像をクリックすると動画ページを開きます。
+
+!!! info ""
+    サムネイル画像は img.youtube.com から取得しています。
+
 ## 美少女ゲーム関連
 
 | 日付 | テーマ | リンク |
@@ -12,11 +17,14 @@
 
 ## 『作品』を語る会
 
-| 日付 | 作品 | リンク |
-|------|------|--------|
-| 2025/09/24 | 白昼夢の青写真 | [:simple-youtube:](https://www.youtube.com/watch?v=_J-aNHfCkeY) |
-| 2025/11/01 | 何度目かのはじめまして | [:simple-youtube:](https://www.youtube.com/watch?v=vom8MyHpcko) |
-| 2026/01/24 | エヴァーメイデン | [:simple-youtube:](https://www.youtube.com/watch?v=55xlI3cuM4c) |
+作品についてネタバレありで語る配信  
+イラストの巧さやキャラクターについての言及が多め
+
+| サムネイル | 配信日 | 作品 |
+|:----------:|------|------|
+| {{ youtube_thumbnail("_J-aNHfCkeY") }} | 2025/09/24 | 白昼夢の青写真 |
+| {{ youtube_thumbnail("vom8MyHpcko") }} | 2025/11/01 | 何度目かのはじめまして |
+| {{ youtube_thumbnail("55xlI3cuM4c") }} | 2026/01/24 | エヴァーメイデン |
 
 ## 趣味・その他
 
@@ -28,17 +36,25 @@
 
 ## 芋活
 
+お芋を食べながら雑談  
+みんなでお芋を食べよう
+
 [芋活｜さつまいもを食べよう🍠（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2pHc-kBXV-PP_ggdiNIus-){ .md-button }
 
-### 第1回：【芋活】今日はさつまいもの日！夜だけど焼き芋を食べよう🍠💛【白玉餅ましろ】（2025/10/13）
-
-{{ youtube("https://www.youtube.com/watch?v=ScKCNpoqZcA") }}
+| サムネイル | 配信日 | タイトル |
+|:----------:|------|------|
+| {{ youtube_thumbnail("ScKCNpoqZcA") }} | 2025/10/13 | 今日はさつまいもの日！夜だけど焼き芋を食べよう🍠💛 |
+| {{ youtube_thumbnail("DiiptsFYHE8") }} | 2025/10/19 | おやつに焼き芋を食べよう🍠 |
+| {{ youtube_thumbnail("CsdLKXNihO4") }} | 2025/11/15 | ざつだんしながらおいも食べる🍠 |
 
 ## スナックたまもち
 
-| 日付 | リンク |
-|------|--------|
-| 2025/xx/xx | [▶️](URL) |
+飲酒雑談とちょっと大人なマシュマロ読み
+
+| サムネイル | 配信日 | タイトル |
+|:----------:|------|------|
+| {{ youtube_thumbnail("8JdaLeeKYU8") }} | 2025/08/30 | スナックたまもち、開店しました🍶まったりおしゃべりしよ💓 |
+| {{ youtube_thumbnail("NJaSIWD_ksw") }} | 2025/11/29 | スナックたまもち、開店🍶もうすぐ１周年…だね♡ |
 
 ## マシュマロ企画
 

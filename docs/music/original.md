@@ -9,9 +9,9 @@
 !!! info ""
     サムネイル画像は img.youtube.com から取得しています。
 
-| サムネイル | 投稿日 | 曲名 | 長さ | リンク |
-|:----------:|--------|------|:----:|:------:|
-| {{ youtube_thumbnail("WKXoqdLelzY") }} | 2025/04/06 | ましろもちもちわーるど！ | 3:00 | [:simple-youtube:](https://www.youtube.com/watch?v=WKXoqdLelzY) |
+| サムネイル | 投稿日 | 曲名 |
+|:----------:|--------|------|
+| {{ youtube_thumbnail("WKXoqdLelzY") }} | 2025/04/06 | ましろもちもちわーるど！ |
 
 ## 楽曲詳細
 

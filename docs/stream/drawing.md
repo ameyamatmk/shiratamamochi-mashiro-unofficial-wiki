@@ -11,10 +11,10 @@
 
 ### ゆる～くおしゃべりしながら自画像を描きます！
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| その① | {{ youtube_thumbnail("_1JFydytayE") }} | 2024/12/10 | [:simple-youtube:](https://www.youtube.com/watch?v=_1JFydytayE) |
-| その② | {{ youtube_thumbnail("N27R3S2KQlw") }} | 2024/12/23 | [:simple-youtube:](https://www.youtube.com/watch?v=N27R3S2KQlw) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| その① | {{ youtube_thumbnail("_1JFydytayE") }} | 2024/12/10 |
+| その② | {{ youtube_thumbnail("N27R3S2KQlw") }} | 2024/12/23 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1871197883141337266") }}
 
@@ -22,14 +22,14 @@
 
 ### フォロワーさんの推しを描く！
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| ♯１ | {{ youtube_thumbnail("Q0eB6g3Dxqc") }} | 2025/02/07 | [:simple-youtube:](https://www.youtube.com/watch?v=Q0eB6g3Dxqc) |
-| ♯２ | {{ youtube_thumbnail("petrdx9NMdA") }} | 2025/02/16 | [:simple-youtube:](https://www.youtube.com/watch?v=petrdx9NMdA) |
-| ♯３ | {{ youtube_thumbnail("PkfgoFJvYYg") }} | 2025/02/23 | [:simple-youtube:](https://www.youtube.com/watch?v=PkfgoFJvYYg) |
-| ♯４ | {{ youtube_thumbnail("fxwOWj5IR1s") }} | 2025/03/03 | [:simple-youtube:](https://www.youtube.com/watch?v=fxwOWj5IR1s) |
-| ♯５ | {{ youtube_thumbnail("aItXEfLATWg") }} | 2025/03/09 | [:simple-youtube:](https://www.youtube.com/watch?v=aItXEfLATWg) |
-| ♯６ | {{ youtube_thumbnail("ErrBOb250Gc") }} | 2025/03/17 | [:simple-youtube:](https://www.youtube.com/watch?v=ErrBOb250Gc) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("Q0eB6g3Dxqc") }} | 2025/02/07 |
+| ♯２ | {{ youtube_thumbnail("petrdx9NMdA") }} | 2025/02/16 |
+| ♯３ | {{ youtube_thumbnail("PkfgoFJvYYg") }} | 2025/02/23 |
+| ♯４ | {{ youtube_thumbnail("fxwOWj5IR1s") }} | 2025/03/03 |
+| ♯５ | {{ youtube_thumbnail("aItXEfLATWg") }} | 2025/03/09 |
+| ♯６ | {{ youtube_thumbnail("ErrBOb250Gc") }} | 2025/03/17 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1903371659551322306") }}
 
@@ -44,46 +44,46 @@
 
 ### 黒ゴシックな白玉餅を描く！✝
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| ♯１ | {{ youtube_thumbnail("xm1RpzyNVew") }} | 2025/03/26 | [:simple-youtube:](https://www.youtube.com/watch?v=xm1RpzyNVew) |
-| ♯２ | {{ youtube_thumbnail("sXXicoIMGNs") }} | 2025/04/01 | [:simple-youtube:](https://www.youtube.com/watch?v=sXXicoIMGNs) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("xm1RpzyNVew") }} | 2025/03/26 |
+| ♯２ | {{ youtube_thumbnail("sXXicoIMGNs") }} | 2025/04/01 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1907078558302015903") }}
 
 ### サマポケのアニメが始まるまで絵を描きます🍉
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| ♯１ | {{ youtube_thumbnail("rzmuLSiJgkY") }} | 2025/04/07 | [:simple-youtube:](https://www.youtube.com/watch?v=rzmuLSiJgkY) |
-| ♯２ | {{ youtube_thumbnail("sjvX1BmPJvw") }} | 2025/04/14 | [:simple-youtube:](https://www.youtube.com/watch?v=sjvX1BmPJvw) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("rzmuLSiJgkY") }} | 2025/04/07 |
+| ♯２ | {{ youtube_thumbnail("sjvX1BmPJvw") }} | 2025/04/14 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1912827871699276286") }}
 
 ### ♯１ 好きな美少女ゲームのキャラを描く！（サクラノ詩／里奈）
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| その① | {{ youtube_thumbnail("81gDCVn4lok") }} | 2025/04/27 | [:simple-youtube:](https://www.youtube.com/watch?v=81gDCVn4lok) |
-| その② | {{ youtube_thumbnail("yECqQuvSyvo") }} | 2025/05/11 | [:simple-youtube:](https://www.youtube.com/watch?v=yECqQuvSyvo) |
-| その③ | {{ youtube_thumbnail("UU8ZLC2lTA8") }} | 2025/05/19 | [:simple-youtube:](https://www.youtube.com/watch?v=UU8ZLC2lTA8) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("81gDCVn4lok") }} | 2025/04/27 |
+| ♯２ | {{ youtube_thumbnail("yECqQuvSyvo") }} | 2025/05/11 |
+| ♯３ | {{ youtube_thumbnail("UU8ZLC2lTA8") }} | 2025/05/19 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1925157798150873142") }}
 
 ### ♯２ 好きな美少女ゲームのキャラを描く！（アマカノ２／ちとせ）
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| その① | {{ youtube_thumbnail("nLqjIVts0hg") }} | 2025/06/09 | [:simple-youtube:](https://www.youtube.com/watch?v=nLqjIVts0hg) |
-| その② | {{ youtube_thumbnail("TRJb-ALNujs") }} | 2025/06/22 | [:simple-youtube:](https://www.youtube.com/watch?v=TRJb-ALNujs) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("nLqjIVts0hg") }} | 2025/06/09 |
+| ♯２ | {{ youtube_thumbnail("TRJb-ALNujs") }} | 2025/06/22 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1937135286355673159") }}
 
 ### ♯３ 好きな美少女ゲームのキャラを描く！（ぬきたし／奈々瀬）
 
-| # | サムネイル | 配信日 | リンク |
-|---|:----------:|--------|:------:|
-| その① | {{ youtube_thumbnail("Nxu4lxHz350") }} | 2025/08/20 | [:simple-youtube:](https://www.youtube.com/watch?v=Nxu4lxHz350) |
-| その② | {{ youtube_thumbnail("qEUtXfOMgeI") }} | 2025/09/01 | [:simple-youtube:](https://www.youtube.com/watch?v=qEUtXfOMgeI) |
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("Nxu4lxHz350") }} | 2025/08/20 |
+| ♯２ | {{ youtube_thumbnail("qEUtXfOMgeI") }} | 2025/09/01 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1962455287186837850") }}

@@ -11,11 +11,11 @@
 !!! info ""
     サムネイル画像は img.youtube.com から取得しています。
 
-| サムネイル | 投稿日 | 曲名 | 原曲 | リンク |
-|:----------:|--------|------|------|:------:|
-| {{ youtube_thumbnail("gBCjuK_skZE") }} | 2024/12/18 | U&I | 放課後ティータイム（けいおん!） | [:simple-youtube:](https://www.youtube.com/watch?v=gBCjuK_skZE) |
-| {{ youtube_thumbnail("KlVk5oS-hxc") }} | 2025/02/27 | なにが悪い | 結束バンド（ぼっち・ざ・ろっく!） | [:simple-youtube:](https://www.youtube.com/watch?v=KlVk5oS-hxc) |
-| {{ youtube_thumbnail("iQhmradGlcc") }} | 2025/04/07 | アルカテイル | 鈴木このみ（Summer Pockets） | [:simple-youtube:](https://www.youtube.com/watch?v=iQhmradGlcc) |
-| {{ youtube_thumbnail("us4KMKd6Jzg") }} | 2025/05/24 | Wonder Scale | 倉本千奈（学園アイドルマスター） | [:simple-youtube:](https://www.youtube.com/watch?v=us4KMKd6Jzg) |
-| {{ youtube_thumbnail("1Fm7AEoNa6o") }} | 2025/07/20 | ナグルファルの船上にて | monet（素晴らしき日々～不連続存在～） | [:simple-youtube:](https://www.youtube.com/watch?v=1Fm7AEoNa6o) |
-| {{ youtube_thumbnail("qFEl9ljMLFk") }} | 2025/12/24 | 二人だけのカーテンコール | 浅葉リオ（アオイトリ） | [:simple-youtube:](https://www.youtube.com/watch?v=qFEl9ljMLFk) |
+| サムネイル | 投稿日 | 曲名 | 原曲 |
+|:----------:|--------|------|------|
+| {{ youtube_thumbnail("gBCjuK_skZE") }} | 2024/12/18 | U&I | 放課後ティータイム（けいおん!） |
+| {{ youtube_thumbnail("KlVk5oS-hxc") }} | 2025/02/27 | なにが悪い | 結束バンド（ぼっち・ざ・ろっく!） |
+| {{ youtube_thumbnail("iQhmradGlcc") }} | 2025/04/07 | アルカテイル | 鈴木このみ（Summer Pockets） |
+| {{ youtube_thumbnail("us4KMKd6Jzg") }} | 2025/05/24 | Wonder Scale | 倉本千奈（学園アイドルマスター） |
+| {{ youtube_thumbnail("1Fm7AEoNa6o") }} | 2025/07/20 | ナグルファルの船上にて | monet（素晴らしき日々～不連続存在～） |
+| {{ youtube_thumbnail("qFEl9ljMLFk") }} | 2025/12/24 | 二人だけのカーテンコール | 浅葉リオ（アオイトリ） |
