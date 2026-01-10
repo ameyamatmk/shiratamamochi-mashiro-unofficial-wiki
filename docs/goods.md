@@ -1,14 +1,12 @@
 # グッズ
 
-## BOOTH
-
 [BOOTH リンク](https://shiratamamochima.booth.pm/){ .md-button }
 
-### 常設
+## 常設
 
 [:simple-youtube: 紹介配信（2025/04/06 誕生日配信内）](https://www.youtube.com/live/67gu4lC4M9Q?si=dkAAqGmXDFHO0Pve&t=959){ .md-button }
 
-### 記念グッズ
+## 記念グッズ
 
 | 商品名 | 発売日 | 告知画像 |
 |--------|--------|------|

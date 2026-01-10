@@ -4,8 +4,6 @@ ASMR 配信アーカイブ一覧です。
 
 [:simple-youtube: ASMR｜眠れない夜に🌙（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0UwEq2jJe10fDa0j8EcgFz){ .md-button }
 
-## ASMR配信一覧
-
 サムネイル画像をクリックすると動画ページを開きます。
 
 !!! info ""

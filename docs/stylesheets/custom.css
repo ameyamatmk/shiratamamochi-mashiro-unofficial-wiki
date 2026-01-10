@@ -93,8 +93,9 @@
   margin-top: 1.5em;
 }
 
-/* h3: 控えめにして h2 との差をつける */
-.md-typeset h3 {
+/* h3, h4: 控えめにして h2 との差をつける（h4 は目次非表示ページ用） */
+.md-typeset h3,
+.md-typeset h4 {
   border-left: 3px solid var(--md-accent-fg-color);
   padding-left: 0.5em;
   margin-top: 1.2em;
@@ -162,4 +163,19 @@
 .md-typeset img[src*="img.youtube.com"] {
   border: 2px solid var(--md-default-fg-color--lighter);
   border-radius: 4px;
+}
+
+/* =========================================
+   右サイドパネル（TOC）- 項目の区切り線
+   ========================================= */
+
+/* 目次の各項目を区切り線で分離 */
+.md-nav--secondary .md-nav__item {
+  border-bottom: 1px solid var(--md-default-fg-color--lighter);
+  padding: 0.15em 0;
+}
+
+/* 最後の項目は線なし */
+.md-nav--secondary .md-nav__item:last-child {
+  border-bottom: none;
 }
