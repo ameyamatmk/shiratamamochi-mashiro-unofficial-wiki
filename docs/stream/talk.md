@@ -41,7 +41,7 @@
 お芋を食べながら雑談  
 みんなでお芋を食べよう
 
-[芋活｜さつまいもを食べよう🍠（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2pHc-kBXV-PP_ggdiNIus-){ .md-button }
+[:simple-youtube: 芋活｜さつまいもを食べよう🍠（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2pHc-kBXV-PP_ggdiNIus-){ .md-button }
 
 | サムネイル | 配信日 | タイトル |
 |:----------:|------|------|
