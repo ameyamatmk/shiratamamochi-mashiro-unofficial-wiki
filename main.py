@@ -63,6 +63,22 @@ def define_env(env):
     """MkDocs マクロを定義する"""
 
     @env.macro
+    def youtube_thumbnail(video_id_or_url: str, width: int = 120) -> str:
+        """YouTube サムネイル画像リンク
+
+        Args:
+            video_id_or_url: YouTube の VIDEO_ID または URL
+            width: サムネイル画像の幅（デフォルト: 120）
+
+        Returns:
+            サムネイル画像付きリンクの Markdown
+        """
+        video_id = _extract_video_id(video_id_or_url)
+        url = f"https://www.youtube.com/watch?v={video_id}"
+        thumb_url = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
+        return f"[![]({thumb_url}){{ width={width} }}]({url})"
+
+    @env.macro
     def youtube(video_id_or_url: str, start: int = 0) -> str:
         """YouTube 埋め込み（VIDEO_ID または URL を指定可能）
 

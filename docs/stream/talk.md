@@ -1,8 +1,6 @@
 # 雑談配信
 
-## カテゴリ別
-
-### 美少女ゲーム関連
+## 美少女ゲーム関連
 
 | 日付 | テーマ | リンク |
 |------|--------|--------|
@@ -12,14 +10,15 @@
 | 2025/xx/xx | 持ってるゲーム | [▶️](URL) |
 | 2025/xx/xx | 持ってるグッズ | [▶️](URL) |
 
-### 感想会
+## 『作品』を語る会
 
 | 日付 | 作品 | リンク |
 |------|------|--------|
-| 2025/xx/xx | 何度目かのはじめまして | [▶️](URL) |
-| 2025/xx/xx | 白昼夢の青写真 | [▶️](URL) |
+| 2025/09/24 | 白昼夢の青写真 | [:simple-youtube:](https://www.youtube.com/watch?v=_J-aNHfCkeY) |
+| 2025/11/01 | 何度目かのはじめまして | [:simple-youtube:](https://www.youtube.com/watch?v=vom8MyHpcko) |
+| 2026/01/24 | エヴァーメイデン | [:simple-youtube:](https://www.youtube.com/watch?v=55xlI3cuM4c) |
 
-### 趣味・その他
+## 趣味・その他
 
 | 日付 | テーマ | リンク |
 |------|--------|--------|
@@ -27,7 +26,15 @@
 | 2025/xx/xx | 思い出のゲーム | [▶️](URL) |
 | 2025/xx/xx | 百合 | [▶️](URL) |
 
-### スナックたまもち
+## 芋活
+
+[芋活｜さつまいもを食べよう🍠（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2pHc-kBXV-PP_ggdiNIus-){ .md-button }
+
+### 第1回：【芋活】今日はさつまいもの日！夜だけど焼き芋を食べよう🍠💛【白玉餅ましろ】（2025/10/13）
+
+{{ youtube("https://www.youtube.com/watch?v=ScKCNpoqZcA") }}
+
+## スナックたまもち
 
 | 日付 | リンク |
 |------|--------|

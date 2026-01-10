@@ -1,26 +1,54 @@
 # ゲーム配信
 
-## プレイしたゲーム一覧
+## フォレスティア🌱
 
-| タイトル | ジャンル | 配信期間 | 再生リスト |
-|----------|----------|----------|------------|
-| けものティータイム | | 2025/xx～ | [▶️](URL) |
-| ガーティックフォン | パーティー | 2025/xx | [▶️](URL) |
-| なつのさがしもの～Healty～ | | 2025/xx | [▶️](URL) |
-| ToHeart | 美少女ゲーム | 2025/xx | [▶️](URL) |
-| フォレスティア | | 2025/xx | [▶️](URL) |
-| ナグルファルの船上にて | | 2025/xx | [▶️](URL) |
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2SLVy59ZZ4rQkeOtdCMtbj){ .md-button }
 
-## 芋活
+- 全7回
+- 2025/05/16 ～ 2025/06/04
 
-芋掘り配信シリーズ。
+{{ youtube("https://www.youtube.com/watch?v=_5-kb45moTg") }}
 
-| 日付 | リンク |
-|------|--------|
-| 2025/xx/xx | [▶️](URL) |
+## ToHeart❤️
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1wyRZyUI4WoeKt04D-xb_f){ .md-button }
+
+- 全6回
+- 2025/06/26 ～ 2025/07/29
+
+{{ youtube("https://www.youtube.com/watch?v=l0QwoBEdNlI") }}
+
+第5回※再生リストに追加されていません
+{{ youtube("https://www.youtube.com/watch?v=mtqbb1Kumyk") }}
+
+## なつのさがしもの～Healthy～🎐
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1hsL94oQuQ3TUHw_FB8XFl){ .md-button }
+
+- 全6回
+- 2025/08/04 ～ 2025/08/24
+
+{{ youtube("https://www.youtube.com/watch?v=piQ0FTQaSU4") }}
+
+## けものティータイム☕
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2_-IevOtnqnX-6MAMqknQW){ .md-button }
+
+- 全4回
+- 2025/09/04 ～ 2025/10/07
+
+{{ youtube("https://www.youtube.com/watch?v=mbWp3f94Ryk") }}
+
+## ガーティックフォン（Gartic Phone）☎
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
+
+- 参加型
+- 4回
+- 2025/06/07 ～
+
+{{ youtube("https://www.youtube.com/watch?v=2Hy-PahEwb0") }}
 
 ## 単発ゲーム
 
-| 日付 | タイトル | リンク |
-|------|----------|--------|
-| 2025/xx/xx | （タイトル） | [▶️](URL) |
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3MLEKuU0w9YEIywn50IIhc){ .md-button }
