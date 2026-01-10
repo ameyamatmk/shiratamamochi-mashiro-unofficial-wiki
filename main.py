@@ -63,6 +63,17 @@ def define_env(env):
     """MkDocs マクロを定義する"""
 
     @env.macro
+    def thumbnail_notice() -> str:
+        """サムネイル画像の説明文
+
+        Returns:
+            サムネイル画像についての説明文（admonition付き）
+        """
+        return """!!! info ""
+    サムネイル画像をクリックすると動画ページを開きます。  
+    サムネイル画像は img.youtube.com から取得しています。"""
+
+    @env.macro
     def youtube_thumbnail(video_id_or_url: str, width: int = 120) -> str:
         """YouTube サムネイル画像リンク
 
@@ -97,9 +108,9 @@ def define_env(env):
         if params:
             src += "?" + "&".join(params)
 
-        return f'''<div class="video-wrapper">
+        return f"""<div class="video-wrapper">
 <iframe src="{src}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>'''
+</div>"""
 
     # ビルド開始時に一度だけ読み込み
     cache = _load_cache()
@@ -120,10 +131,12 @@ def define_env(env):
             html = cache[tweet_id]["html"]
         else:
             # キャッシュになければ API を叩く
-            api_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode({
-                "url": tweet_url,
-                "lang": "ja",
-            })
+            api_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode(
+                {
+                    "url": tweet_url,
+                    "lang": "ja",
+                }
+            )
             with urllib.request.urlopen(api_url) as res:
                 data = json.loads(res.read())
 
@@ -136,8 +149,8 @@ def define_env(env):
 
         # script タグを除去（widgets.js は別途1回だけ読み込む）
         html = re.sub(
-            r'<script[^>]*twitter\.com/widgets\.js[^>]*></script>',
-            '',
+            r"<script[^>]*twitter\.com/widgets\.js[^>]*></script>",
+            "",
             html,
             flags=re.IGNORECASE,
         )

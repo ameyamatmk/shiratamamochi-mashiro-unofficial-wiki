@@ -4,12 +4,7 @@
 
 [:simple-youtube: 歌枠｜好きな曲を歌った配信🎤（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3V409HLVJ4WhOCnKifXh4I){ .md-button }
 
-サムネイル画像をクリックすると動画ページを開きます。
-
-!!! info ""
-    サムネイル画像は img.youtube.com から取得しています。
-
----
+{{ thumbnail_notice() }}
 
 ## 2025年
 

@@ -4,10 +4,7 @@
 
 [:simple-youtube: おえかき｜のんびりおえかき✏️（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv02u3bS1pJTOWbqTpeUkYGk){ .md-button }
 
-サムネイル画像をクリックすると動画ページを開きます。
-
-!!! info ""
-    サムネイル画像は img.youtube.com から取得しています。
+{{ thumbnail_notice() }}
 
 ## 2024年
 
