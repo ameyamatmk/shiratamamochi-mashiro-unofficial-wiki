@@ -2,7 +2,7 @@
 
 !!! warning "このサイトについて"
     本サイトは**非公式のファンサイト**です。
-    白玉餅ましろさん本人および関係者とは一切関係ありません。
+    白玉餅ましろさん本人および関係者とは一切関係ありません。  
     [免責事項](disclaimer.md)をご確認ください。
 
 ## 白玉餅ましろとは
@@ -12,17 +12,15 @@
 
 ## 公式リンク
 
-[:fontawesome-brands-youtube: YouTube / @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro){ .md-button }
+[:simple-youtube: YouTube / @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro){ .md-button }
 
-[:fontawesome-brands-x-twitter: X (Twitter) / @umamochi_shiro](https://x.com/umamochi_shiro){ .md-button }
+[:simple-x: (Twitter) / @umamochi_shiro](https://x.com/umamochi_shiro){ .md-button }
 
 [:fontawesome-solid-shop: BOOTH / shiratamamochima](https://shiratamamochima.booth.pm/){ .md-button }
 
 ## おすすめ動画
 
-### 白玉餅ましろってどんな子？👀🤍
-
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3y0Xo541sGKcfsAg2X2gvE){ .md-button }
+[:simple-youtube: 白玉餅ましろってどんな子？👀🤍（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3y0Xo541sGKcfsAg2X2gvE){ .md-button }
 
 ### 初配信
 {{ youtube("https://www.youtube.com/watch?v=E7cJ584iqa4") }}

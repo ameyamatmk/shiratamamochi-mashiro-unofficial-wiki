@@ -6,12 +6,12 @@
 
 ## フォレスティア🌱
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2SLVy59ZZ4rQkeOtdCMtbj){ .md-button }
-
 おねショタにおたけびを上げるましろさんを刮目して見よ
 
 - 全7回
 - 2025/05/16 ～ 2025/06/04
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2SLVy59ZZ4rQkeOtdCMtbj){ .md-button }
 
 #### ＃１　かわいい女の子だらけの本格牧場シミュレーションゲームですって…！？
 
@@ -27,12 +27,12 @@
 
 ## ToHeart❤️
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1wyRZyUI4WoeKt04D-xb_f){ .md-button }
-
 金髪ギャル最高
 
 - 全6回
 - 2025/06/26 ～ 2025/07/29
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1wyRZyUI4WoeKt04D-xb_f){ .md-button }
 
 #### ＃１　あの不朽の名作！リメイク版をプレイします♡
 
@@ -50,12 +50,12 @@
 
 ## なつのさがしもの～Healthy～🎐
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1hsL94oQuQ3TUHw_FB8XFl){ .md-button }
-
 田舎の夏といえばお姉さん
 
 - 全6回
 - 2025/08/04 ～ 2025/08/24
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1hsL94oQuQ3TUHw_FB8XFl){ .md-button }
 
 #### ＃１　夏、探しにいこ？🎐
 
@@ -63,10 +63,10 @@
 
 ## けものティータイム☕
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2_-IevOtnqnX-6MAMqknQW){ .md-button }
-
 - 全4回
 - 2025/09/04 ～ 2025/10/07
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2_-IevOtnqnX-6MAMqknQW){ .md-button }
 
 #### #１　ケモミミ×喫茶店×ASMR…！？👀❤️ ※ネタバレ注意
 
@@ -74,12 +74,12 @@
 
 ## ガーティックフォン（Gartic Phone）☎
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
-
 いろんな白玉餅さんを描いて観よう！
 
 - 参加型
 - 2025/06/07 ～
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
 
 #### 半年記念&初参加型！おえかき伝言ゲーム！
 
@@ -95,8 +95,6 @@
 
 ## gogh: Focus with Your Avatar🖼
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2vk8p5WFA_68TD1Ts4vns1){ .md-button }
-
 ルームに参加したい場合は gogh をインストールしよう！
 
 [公式サイト](https://gogh.gg/jp){ .md-button }
@@ -105,6 +103,8 @@
 
 - 作業雑談
 - 2025/12/29 ～
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2vk8p5WFA_68TD1Ts4vns1){ .md-button }
 
 #### みんなで作業できる、かわいいお部屋を作りたい！✨
 
@@ -122,7 +122,7 @@
 
 {{ twitter("https://x.com/umamochi_shiro/status/2008577649338437913") }}
 
-## 単発ゲーム
+## 単発ゲーム🎮
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3MLEKuU0w9YEIywn50IIhc){ .md-button }
 
