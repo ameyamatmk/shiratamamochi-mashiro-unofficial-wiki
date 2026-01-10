@@ -1,6 +1,6 @@
 # ゲーム配信
 
-サムネイル画像をクリックすると第1回の動画ページを開きます。
+サムネイル画像をクリックすると動画ページを開きます。
 
 !!! info ""
     サムネイル画像は img.youtube.com から取得しています。
@@ -12,7 +12,13 @@
 - 全7回
 - 2025/05/16 ～ 2025/06/04
 
+### 【フォレスティア】＃１　かわいい女の子だらけの本格牧場シミュレーションゲームですって…！？【白玉餅ましろ】
+
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=_5-kb45moTg", 320) }}
+
+### 【フォレスティア①まとめ】ましろ、運命の女性と出会う【白玉餅ましろ切り抜き】#vtuber #切り抜き #フォレスティア
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=dlzlzng1AIA", 320) }}
 
 ## ToHeart❤️
 
@@ -21,9 +27,13 @@
 - 全6回
 - 2025/06/26 ～ 2025/07/29
 
+### 【ToHeart】＃１　あの不朽の名作！リメイク版をプレイします♡【白玉餅ましろ】
+
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=l0QwoBEdNlI", 320) }}
 
-第5回※再生リストに追加されていません
+### 【ToHeart】＃５　修学旅行があるらしいですよ！(ノーマルエンド…？)【白玉餅ましろ】
+
+※再生リストに追加されていません
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=mtqbb1Kumyk", 320) }}
 
@@ -34,6 +44,8 @@
 - 全6回
 - 2025/08/04 ～ 2025/08/24
 
+### 【なつのさがしもの Healthy】＃１　夏、探しにいこ？🎐【白玉餅ましろ】
+
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=piQ0FTQaSU4", 320) }}
 
 ## けものティータイム☕
@@ -42,6 +54,8 @@
 
 - 全4回
 - 2025/09/04 ～ 2025/10/07
+
+### 【けものティータイム】 #１　ケモミミ×喫茶店×ASMR…！？👀❤️ ※ネタバレ注意【白玉餅ましろ】
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=mbWp3f94Ryk", 320) }}
 
@@ -53,7 +67,17 @@
 - 4回
 - 2025/06/07 ～
 
+### 【ガーティックフォン（Gartic Phone）】半年記念&初参加型！おえかき伝言ゲーム！【白玉餅ましろ】
+
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=2Hy-PahEwb0", 320) }}
+
+### 【ガーティックフォン（Gartic Phone）】これは、伝説の始まり──ましろ画伯、爆誕💥【白玉餅ましろ切り抜き】　#vtuber #切り抜き　#ガーティックフォン
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=nAXcwizgtY0", 320) }}
+
+### 【ガーティックフォン（Gartic Phone）】集え、神絵師たち✨【白玉餅ましろ切り抜き】　#vtuber #切り抜き　#ガーティックフォン
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=H5dM6LOrv-s", 320) }}
 
 ## 単発ゲーム
 
