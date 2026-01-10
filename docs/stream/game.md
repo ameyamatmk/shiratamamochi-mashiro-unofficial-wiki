@@ -20,6 +20,10 @@
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=dlzlzng1AIA", 320) }}
 
+### ファンアート
+
+{{ twitter("https://x.com/umamochi_shiro/status/1923030992429744363") }}
+
 ## ToHeart❤️
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1wyRZyUI4WoeKt04D-xb_f){ .md-button }
@@ -36,6 +40,10 @@
 ※再生リストに追加されていません
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=mtqbb1Kumyk", 320) }}
+
+### ファンアート
+
+{{ twitter("https://x.com/umamochi_shiro/status/1940350280803201067") }}
 
 ## なつのさがしもの～Healthy～🎐
 
