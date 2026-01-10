@@ -154,3 +154,12 @@
 .md-typeset th {
   background: var(--md-accent-fg-color--transparent);
 }
+
+/* =========================================
+   YouTube サムネイル - 枠線
+   ========================================= */
+
+.md-typeset img[src*="img.youtube.com"] {
+  border: 2px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+}
