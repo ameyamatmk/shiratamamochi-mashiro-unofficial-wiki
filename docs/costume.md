@@ -2,12 +2,17 @@
 
 ## 衣装一覧
 
+サムネイル画像をクリックすると動画ページを開きます。
+
+!!! info ""
+    サムネイル画像は img.youtube.com から取得しています。
+
 | 衣装名 | 初公開日 | お披露目配信 | 備考 |
 |--------|----------|------|------|
 | 初期衣装 | 2024/11/19 | | |
-| ルームウェア | 2025/10/4 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=AlcsUxSn9II) | |
-| 通常衣装 | 2025/10/4 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=AlcsUxSn9II) | 初期衣装アップデート |
-| 白シスター風 | 2025/12/3 | [:fontawesome-brands-youtube: youtube](https://www.youtube.com/watch?v=zMeM-DwVhOU) | 1周年記念衣装 |
+| ルームウェア | 2025/10/4 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AlcsUxSn9II") }} | |
+| 通常衣装 | 2025/10/4 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AlcsUxSn9II") }} | 初期衣装アップデート |
+| 白シスター風 | 2025/12/3 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=zMeM-DwVhOU") }} | 1周年記念衣装 |
 
 ## 衣装詳細
 

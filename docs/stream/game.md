@@ -72,7 +72,6 @@
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
 
 - 参加型
-- 4回
 - 2025/06/07 ～
 
 ### 半年記念&初参加型！おえかき伝言ゲーム！
@@ -86,6 +85,29 @@
 ### 集え、神絵師たち✨【白玉餅ましろ切り抜き】
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=H5dM6LOrv-s", 320) }}
+
+## gogh: Focus with Your Avatar🖼
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2vk8p5WFA_68TD1Ts4vns1){ .md-button }
+
+- 作業雑談
+- 2025/12/29 ～
+
+### みんなで作業できる、かわいいお部屋を作りたい！✨
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=y0ufYZgw9CQ", 320) }}
+
+### 【作業雑談】チルな夜をいっしょに過ごそ？🌃
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=Mq0OovxC0QQ", 320) }}
+
+### スクリーンショット
+
+{{ twitter("https://x.com/umamochi_shiro/status/2002295089276788943") }}
+
+{{ twitter("https://x.com/umamochi_shiro/status/2005559267760415112") }}
+
+{{ twitter("https://x.com/umamochi_shiro/status/2008577649338437913") }}
 
 ## 単発ゲーム
 
