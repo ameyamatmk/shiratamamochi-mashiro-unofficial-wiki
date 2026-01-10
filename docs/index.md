@@ -16,7 +16,7 @@
 
 [:simple-x: (Twitter) / @umamochi_shiro](https://x.com/umamochi_shiro){ .md-button }
 
-[:fontawesome-solid-shop: BOOTH / shiratamamochima](https://shiratamamochima.booth.pm/){ .md-button }
+[:simple-homeassistantcommunitystore: BOOTH / shiratamamochima](https://shiratamamochima.booth.pm/){ .md-button }
 
 ## おすすめ動画
 
