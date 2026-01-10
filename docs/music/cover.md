@@ -2,7 +2,7 @@
 
 投稿された歌ってみた動画の一覧です。
 
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0pqXLx1ISHqqCEcHjthpl5){ .md-button }
+[:simple-youtube: 歌ってみた｜好きな曲を歌った動画🌟（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0pqXLx1ISHqqCEcHjthpl5){ .md-button }
 
 ## 投稿一覧
 
