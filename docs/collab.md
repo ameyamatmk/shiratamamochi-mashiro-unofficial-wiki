@@ -1,11 +1,14 @@
-# コラボまとめ
+# コラボ
 
-敬称略
+コラボ企画の配信、動画まとめです。
 
-## コラボ相手一覧
+サムネイル画像をクリックすると動画ページを開きます。
 
-| 相手 | 日付 | 内容 | リンク |
-|------|------|------|--------|
-| ズズ・エンマ | 2025/01/17 | お絵かき | [:simple-youtube:](https://www.youtube.com/watch?v=Dedffd1JojU) / [:simple-youtube: ズズ・エンマ視点](https://www.youtube.com/watch?v=EUbfRrma73A)|
-| まさんのだべり動画 | 2025/03/29 | インタビュー | [:simple-youtube:](https://www.youtube.com/watch?v=IKXERwJW6ag) / [:simple-youtube: 振り返り](https://www.youtube.com/watch?v=CsRrcChI0C8) |
-| 古城りーみん | 2025/04/18 | ラジオゲスト | [:simple-youtube:](https://www.youtube.com/watch?v=mRnt8qXnsF4) / [:simple-x: 告知](https://x.com/umamochi_shiro/status/1911372827372007508) |
+!!! info ""
+    サムネイル画像は img.youtube.com から取得しています。
+
+| サムネイル | 配信日 | 相手 | 内容 | その他リンク |
+|:----------:|--------|------|------|------|
+| {{ youtube_thumbnail("Dedffd1JojU") }} | 2025/01/17 | ズズ・エンマ 様 | お絵かき配信 | [:simple-youtube: ズズ・エンマ 様視点](https://www.youtube.com/watch?v=EUbfRrma73A) |
+| {{ youtube_thumbnail("IKXERwJW6ag") }} | 2025/03/29 | まさんのだべり動画 様 | インタビュー動画 | [:simple-youtube: 振り返り配信](https://www.youtube.com/watch?v=CsRrcChI0C8) |
+| {{ youtube_thumbnail("mRnt8qXnsF4") }} | 2025/04/18 | 古城りーみん 様 | ラジオ配信ゲスト | [:simple-x: 告知](https://x.com/umamochi_shiro/status/1911372827372007508) |
