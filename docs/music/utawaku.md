@@ -55,7 +55,7 @@
 
 ---
 
-### ちょっと遅めの夜にしっとり曲多めの歌枠
+### ちょっと遅めの夜にしっとり曲多めの歌枠✨
 
 {{ youtube_thumbnail("rKxP_L32KT0", 240) }}
 
@@ -75,7 +75,7 @@
 
 ---
 
-### 平成アニソン祭り JOYSOUND
+### 平成アニソン祭り✨懐かしめのアニソンを歌います！JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("7sknELYplgI", 240) }}
 
@@ -122,7 +122,7 @@
 
 ---
 
-### Key作品限定の歌枠します
+### Key作品限定の歌枠します🌸
 
 {{ youtube_thumbnail("tZZKLk_2lIY", 240) }}
 
@@ -145,7 +145,7 @@
 
 ---
 
-### 美少女ゲームソングを歌います
+### 美少女ゲームソングを歌います💘
 
 {{ youtube_thumbnail("ZiF_H7VwTXQ", 240) }}
 
@@ -166,7 +166,7 @@
 
 ---
 
-### 好きなアニソンを歌います！
+### 好きなアニソンを歌います！🎤
 
 {{ youtube_thumbnail("bSzrxhsJV1c", 240) }}
 
@@ -186,7 +186,7 @@
 
 ---
 
-### 美少女ゲームソング歌枠
+### ♡美少女ゲームソング歌枠♡
 
 {{ youtube_thumbnail("M9YpktDRCyk", 240) }}
 
@@ -250,7 +250,7 @@
 
 ---
 
-### アゲアゲ↑↑アニソン歌枠 JOYSOUND
+### アゲアゲ↑↑アニソン歌枠✨JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("V7KcC3r_rV0", 240) }}
 
@@ -301,7 +301,7 @@
 
 ---
 
-### 静かな夜の、ゆるゆる歌枠 JOYSOUND
+### 静かな夜の、ゆるゆる歌枠🌠JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("a9UGoXNMHQ0", 240) }}
 
@@ -323,7 +323,7 @@
 
 ---
 
-### 夏の美少女ゲームソング歌枠
+### 夏の美少女ゲームソング歌枠🌻
 
 {{ youtube_thumbnail("JDDIIIdhBNI", 240) }}
 
@@ -346,7 +346,7 @@
 
 ---
 
-### 男性ボーカル曲限定の歌枠します JOYSOUND
+### 男性ボーカル曲限定の歌枠します✨JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("f2MLKPZeZ-s", 240) }}
 
@@ -369,7 +369,7 @@
 
 ---
 
-### アニソンフェスティバル開催
+### アニソンフェスティバル開催🔥たくさん歌います！
 
 {{ youtube_thumbnail("bQpf46tKwmU", 240) }}
 
@@ -418,7 +418,7 @@
 
 ---
 
-### お仕事や作業のおともに！歌います JOYSOUND
+### お仕事や作業のおともに！歌います✨JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("KYYYSQRqJqY", 240) }}
 
@@ -441,7 +441,7 @@
 
 ---
 
-### お昼の美少女ゲームソング歌枠
+### お昼の美少女ゲームソング歌枠💖好きな曲歌います！
 
 {{ youtube_thumbnail("WPS5QLIw9PI", 240) }}
 
@@ -466,7 +466,7 @@
 
 ---
 
-### アニソン30曲耐久！！ JOYSOUND
+### 【耐久】アニソン30曲耐久！！たくさん歌います！！🎤✨JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("Nn8BMGqI67M", 240) }}
 
@@ -507,7 +507,7 @@
 
 ---
 
-### 『白昼夢の青写真』楽曲限定歌枠
+### 『白昼夢の青写真』楽曲限定歌枠🌃※メンギフ禁止
 
 {{ youtube_thumbnail("WNGzGXCfOZE", 240) }}
 
@@ -527,7 +527,7 @@
 
 ---
 
-### ボカロだけ歌う日！ JOYSOUND
+### 【初縦型】ボカロだけ歌う日！💕JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("1fuRUJpA5Jo", 240) }}
 
@@ -549,7 +549,7 @@
 
 ---
 
-### 美少女ゲームソング限定歌枠♡１周年記念
+### 美少女ゲームソング限定歌枠♡１周年記念にたくさん歌うよ🎤✨※メンギフ禁止
 
 {{ youtube_thumbnail("IQKzrV_VyXc", 240) }}
 
@@ -573,7 +573,7 @@
 
 ---
 
-### お昼過ぎのまったりチルな歌枠 JOYSOUND
+### お昼過ぎのまったりチルな歌枠✨JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("4SFH0RrUL6I", 240) }}
 
@@ -594,7 +594,7 @@
 
 ---
 
-### ch登録１０００人目指して歌います JOYSOUND
+### 【耐久】ch登録１０００人目指して歌います💞✨JOYSOUND for STREAMER
 
 {{ youtube_thumbnail("BPaWnH2SzM0", 240) }}
 
@@ -653,7 +653,7 @@
 
 ## 2026年
 
-### 新しい年のはじまりに、歌います
+### 新しい年のはじまりに、歌います✨　※メンギフ禁止
 
 {{ youtube_thumbnail("56CPNGJUi6w", 240) }}
 
