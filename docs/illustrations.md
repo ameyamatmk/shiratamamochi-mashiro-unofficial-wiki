@@ -6,14 +6,6 @@
 
 ???+ note "展開"
 
-    ### ビンゴ大会賞状（2026/01/07）
-
-    {{ twitter("https://x.com/umamochi_shiro/status/2008580000992440701") }}
-
-    関連配信:
-
-    - [聖癖ビンゴ大会](https://www.youtube.com/watch?v=8sItihRhBv0)
-
     ### 新年イラスト（2026/01/01）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2006632631539216843") }}
@@ -37,14 +29,6 @@
     ### 一周年アイコン（2025/12/03）
 
     {{ twitter("https://x.com/umamochi_shiro/status/1995877330666095002") }}
-
-    ### ライブピクト表彰状（2025/11/03）
-
-    {{ twitter("https://x.com/umamochi_shiro/status/1985043772879831248") }}
-
-    関連配信:
-
-    - [ライブピクト配信](https://www.youtube.com/watch?v=PZqH-BtefCk)
 
     ### ドカ泣き餅ましろ（2025/10/31）
 

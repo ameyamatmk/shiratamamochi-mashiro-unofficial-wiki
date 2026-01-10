@@ -1,7 +1,5 @@
 # ゲーム配信
 
-ゲーム配信アーカイブ一覧です。
-
 {{ thumbnail_notice() }}
 
 ## フォレスティア🌱
@@ -92,6 +90,16 @@
 #### 集え、神絵師たち✨【白玉餅ましろ切り抜き】
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=H5dM6LOrv-s", 320) }}
+
+## ライブピクト
+
+- 2025/11/02
+
+#### 描いた絵を当ててもらう参加型ゲームをやろう✏💕
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=PZqH-BtefCk", 320) }}
+
+{{ twitter("https://x.com/umamochi_shiro/status/1985043772879831248") }}
 
 ## gogh: Focus with Your Avatar🖼
 

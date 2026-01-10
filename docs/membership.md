@@ -5,6 +5,10 @@
 2025/06/19 開設  
 もっちり会 月額290円
 
+## メンバーシップ限定配信
+
+[:simple-youtube: メン限｜ましろと、ないしょ話🤫](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1ztRso0EtYR5wyf_1qNClR){ .md-button }
+
 ## バッジ
 
 {{ twitter("https://x.com/umamochi_shiro/status/1937756378808127730") }}

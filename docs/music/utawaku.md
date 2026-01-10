@@ -1,6 +1,4 @@
-# 歌枠セットリスト
-
-歌枠配信のセットリストです。
+# 歌枠配信セットリスト
 
 [:simple-youtube: 歌枠｜好きな曲を歌った配信🎤（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3V409HLVJ4WhOCnKifXh4I){ .md-button }
 

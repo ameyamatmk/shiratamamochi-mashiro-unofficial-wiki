@@ -76,10 +76,10 @@ nav:
           - セットリスト: music/utawaku.md
           - 楽曲リスト: music/songlist.md
   - 配信アーカイブ:
+      - 雑談: stream/talk.md
       - おえかき: stream/drawing.md
-      - （工事中）ASMR: stream/asmr.md
       - ゲーム: stream/game.md
-      - （工事中）雑談: stream/talk.md
+      - ASMR: stream/asmr.md
   - その他:
       - コラボ: collab.md
       - グッズ: goods.md
