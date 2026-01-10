@@ -4,8 +4,6 @@
 
 [:simple-youtube: 歌ってみた｜好きな曲を歌った動画🌟（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0pqXLx1ISHqqCEcHjthpl5){ .md-button }
 
-## 投稿一覧
-
 サムネイル画像をクリックすると動画ページを開きます。
 
 !!! info ""

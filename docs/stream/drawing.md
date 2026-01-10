@@ -1,5 +1,7 @@
 # おえかき配信
 
+おえかき配信アーカイブ一覧です。
+
 [:simple-youtube: おえかき｜のんびりおえかき✏️（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv02u3bS1pJTOWbqTpeUkYGk){ .md-button }
 
 サムネイル画像をクリックすると動画ページを開きます。
