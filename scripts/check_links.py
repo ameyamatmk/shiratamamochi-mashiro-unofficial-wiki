@@ -71,8 +71,9 @@ PATTERNS = {
     "twitter_macro": re.compile(
         r'\{\{\s*twitter\s*\(\s*["\']([^"\']+)["\']\s*\)', re.IGNORECASE
     ),
+    # 第2引数（width等）があってもマッチするように修正
     "youtube_macro": re.compile(
-        r'\{\{\s*youtube(?:_thumbnail)?\s*\(\s*["\']([^"\']+)["\']\s*\)', re.IGNORECASE
+        r'\{\{\s*youtube(?:_thumbnail)?\s*\(\s*["\']([^"\']+)["\']', re.IGNORECASE
     ),
     "twitter_link": re.compile(
         r"\]\((https?://(?:twitter\.com|x\.com)/[^)]+)\)", re.IGNORECASE
@@ -97,12 +98,14 @@ SKIP_PATTERNS = [
     re.compile(r"x\.com/hashtag/", re.IGNORECASE),
     re.compile(r"twitter\.com/search\?", re.IGNORECASE),
     re.compile(r"twitter\.com/hashtag/", re.IGNORECASE),
-    # YouTube チャンネル・プレイリスト（oEmbed非対応）
+    # YouTube チャンネル（oEmbed非対応）
     re.compile(r"youtube\.com/@", re.IGNORECASE),
     re.compile(r"youtube\.com/channel/", re.IGNORECASE),
-    re.compile(r"youtube\.com/playlist\?", re.IGNORECASE),
     re.compile(r"youtube\.com/c/", re.IGNORECASE),
 ]
+
+# YouTubeプレイリストパターン（別途チェック）
+YOUTUBE_PLAYLIST_PATTERN = re.compile(r"youtube\.com/playlist\?", re.IGNORECASE)
 
 
 def should_skip_url(url: str) -> bool:
@@ -176,12 +179,17 @@ def extract_links_from_file(file_path: Path, docs_root: Path) -> list[LinkInfo]:
         for match in PATTERNS["youtube_link"].finditer(line):
             url = match.group(1)
             if not should_skip_url(url):
+                # プレイリストか動画かを判定
+                if YOUTUBE_PLAYLIST_PATTERN.search(url):
+                    link_type = "youtube_playlist"
+                else:
+                    link_type = "youtube"
                 links.append(
                     LinkInfo(
                         file=relative_path,
                         line=line_num,
                         url=url,
-                        link_type="youtube",
+                        link_type=link_type,
                     )
                 )
 
@@ -300,6 +308,34 @@ async def check_youtube_link(client: httpx.AsyncClient, link: LinkInfo) -> None:
         link.error = str(e)
 
 
+async def check_youtube_playlist(client: httpx.AsyncClient, link: LinkInfo) -> None:
+    """YouTubeプレイリストをチェック（ページ内容から非公開を検出）"""
+    try:
+        response = await client.get(link.url)
+        if response.status_code != 200:
+            link.status = "invalid"
+            link.error = f"HTTP {response.status_code}"
+            return
+
+        content = response.text
+        # 正常なプレイリストには動画一覧がある
+        has_videos = '"playlistVideoRenderer":' in content
+        # 非公開・削除されたプレイリストにはアラートがある
+        has_alert = '"alertRenderer":' in content
+
+        if has_alert and not has_videos:
+            link.status = "invalid"
+            link.error = "非公開または削除されたプレイリスト"
+        else:
+            link.status = "valid"
+    except httpx.TimeoutException:
+        link.status = "error"
+        link.error = "Timeout"
+    except Exception as e:
+        link.status = "error"
+        link.error = str(e)
+
+
 async def check_link(
     client: httpx.AsyncClient, link: LinkInfo, semaphore: asyncio.Semaphore
 ) -> None:
@@ -309,6 +345,8 @@ async def check_link(
             await check_twitter_link(client, link)
         elif link.link_type == "youtube":
             await check_youtube_link(client, link)
+        elif link.link_type == "youtube_playlist":
+            await check_youtube_playlist(client, link)
 
         # レート制限対策
         await asyncio.sleep(0.3)
