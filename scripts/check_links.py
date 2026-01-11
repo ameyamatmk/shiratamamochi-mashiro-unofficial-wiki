@@ -368,7 +368,7 @@ async def create_issue(result: CheckResult) -> None:
             json={
                 "title": issue_title,
                 "body": issue_body,
-                "labels": [label],
+                "labels": ["link-check"],
             },
         )
         if response.status_code == 201:
