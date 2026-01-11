@@ -10,10 +10,8 @@ on:
 jobs:
   check-links:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      contents: read
-
+    outputs:
+      invalid_count: ${{ steps.check.outputs.invalid_count }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,13 +26,50 @@ jobs:
         run: uv sync --extra dev
 
       - name: Run link checker
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: uv run python scripts/check_links.py --create-issue
+        id: check
+        run: |
+          uv run python scripts/check_links.py
+          # 結果JSONからinvalid数を取得
+          INVALID_COUNT=$(jq '.invalid' link-check-results.json)
+          echo "invalid_count=$INVALID_COUNT" >> $GITHUB_OUTPUT
 
       - name: Upload results
-        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: link-check-results
           path: link-check-results.json
+
+  report:
+    needs: check-links
+    runs-on: ubuntu-latest
+    if: needs.check-links.outputs.invalid_count != '0'
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download results
+        uses: actions/download-artifact@v4
+        with:
+          name: link-check-results
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --extra dev
+
+      - name: Create issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: uv run python scripts/check_links.py --create-issue
+
+      - name: Fail if broken links found
+        run: |
+          echo "::error::リンク切れが ${{ needs.check-links.outputs.invalid_count }} 件見つかりました"
+          exit 1
