@@ -199,6 +199,56 @@ def deduplicate_links(links: list[LinkInfo]) -> list[LinkInfo]:
     return unique
 
 
+async def resolve_tco_link(client: httpx.AsyncClient, tco_url: str) -> str | None:
+    """t.coリンクをリダイレクト先に解決"""
+    try:
+        # リダイレクトを追跡せずにLocationヘッダを取得
+        response = await client.head(tco_url, follow_redirects=False)
+        if response.status_code in (301, 302, 303, 307, 308):
+            return response.headers.get("location")
+    except Exception:
+        pass
+    return None
+
+
+async def check_quoted_tweet(client: httpx.AsyncClient, html: str) -> str | None:
+    """HTML内の引用ツイートをチェックし、削除されていればエラーメッセージを返す"""
+    # HTML内のt.coリンクを抽出
+    tco_pattern = re.compile(r'href="(https://t\.co/[a-zA-Z0-9]+)"')
+    tco_links = tco_pattern.findall(html)
+
+    for tco_url in tco_links:
+        # t.coリンクを解決
+        resolved_url = await resolve_tco_link(client, tco_url)
+        if not resolved_url:
+            continue
+
+        # 画像/動画への直リンクは除外
+        if "/photo/" in resolved_url or "/video/" in resolved_url:
+            continue
+
+        # ツイートURLかどうかチェック（末尾がステータスIDで終わるもののみ）
+        tweet_pattern = re.compile(
+            r"https?://(?:twitter\.com|x\.com)/[^/]+/status/(\d+)$"
+        )
+        match = tweet_pattern.match(resolved_url)
+        if not match:
+            continue
+
+        # 引用ツイートをoEmbedでチェック
+        oembed_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode(
+            {"url": resolved_url}
+        )
+        try:
+            response = await client.get(oembed_url)
+            if response.status_code == 404:
+                return f"引用先ポストが削除済み ({resolved_url})"
+        except Exception:
+            pass
+
+    return None
+
+
 async def check_twitter_link(client: httpx.AsyncClient, link: LinkInfo) -> None:
     """Twitter/X リンクをoEmbed APIでチェック"""
     oembed_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode(
@@ -207,7 +257,15 @@ async def check_twitter_link(client: httpx.AsyncClient, link: LinkInfo) -> None:
     try:
         response = await client.get(oembed_url)
         if response.status_code == 200:
-            link.status = "valid"
+            # ツイート自体は存在する。引用ツイートもチェック
+            data = response.json()
+            html = data.get("html", "")
+            quote_error = await check_quoted_tweet(client, html)
+            if quote_error:
+                link.status = "invalid"
+                link.error = quote_error
+            else:
+                link.status = "valid"
         else:
             link.status = "invalid"
             link.error = f"HTTP {response.status_code}"
