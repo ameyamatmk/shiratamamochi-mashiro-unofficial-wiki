@@ -88,6 +88,7 @@ nav:
       - YouTube: https://www.youtube.com/@shiratamamochi_mashiro
       - X (旧Twitter): https://x.com/umamochi_shiro
       - lit.link: https://lit.link/shiratamamochimashiro
+  - 更新履歴: changelog.md
 
 copyright: >
   <span class="footer-left">Made with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></span>

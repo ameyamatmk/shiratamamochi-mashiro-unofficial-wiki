@@ -20,7 +20,7 @@
 
 | サムネイル | 配信日 | タイトル |
 |:----------:|------|------|
-| {{ youtube_thumbnail("E7cJ584iqa4") }} | 2024/12/03 | 【初配信】はじめまして白玉餅ましろです！【新人Vtuber】 |
+| {{ youtube_thumbnail("E7cJ584iqa4") }} | 2024/12/03 | 【初配信】はじめまして白玉餅ましろです！【新人Vtuber】<br><br>・はじまりはここから |
 | {{ youtube_thumbnail("lqIdBJsr4SY") }} | 2025/01/01 | 【あけおめ】新年のご挨拶といろいろなおはなし！ |
 | {{ youtube_thumbnail("67gu4lC4M9Q") }} | 2025/04/06 | 【白玉餅爆誕2025】お誕生日配信！！🎂 |
 | {{ youtube_thumbnail("mInkryVjXHI") }} | 2025/06/03 | 【半年記念】活動を始めて半年が経ちました！ |
@@ -35,9 +35,9 @@
 
 | サムネイル | 配信日 | タイトル |
 |:----------:|------|------|
-| {{ youtube_thumbnail("HxbPyZumubg") }} | 2024/12/14 | 美少女ゲームについて語る会をします！<br><br>初めての美少女ゲーム語り配信。好きなゲームなど |
-| {{ youtube_thumbnail("N1_vtwLZ7vE") }} | 2025/01/13 | 白玉餅が持ってる美少女ゲームを一緒に見よう！<br><br>持ってる美少女ゲームのパッケージを見ながら語る配信 | 
-| {{ youtube_thumbnail("--f-z-XdLTo") }} | 2025/02/14 | 美少女ゲームに出てくる好きな制服を紹介します♡<br><br>ましろさんがいろんな制服を着てます |
+| {{ youtube_thumbnail("HxbPyZumubg") }} | 2024/12/14 | 美少女ゲームについて語る会をします！<br><br>・初めての美少女ゲーム語り配信。好きなゲームなど |
+| {{ youtube_thumbnail("N1_vtwLZ7vE") }} | 2025/01/13 | 白玉餅が持ってる美少女ゲームを一緒に見よう！<br><br>・持ってる美少女ゲームのパッケージを見ながら語る配信 | 
+| {{ youtube_thumbnail("--f-z-XdLTo") }} | 2025/02/14 | 美少女ゲームに出てくる好きな制服を紹介します♡<br><br>・ましろさんがいろんな制服を着ます。制服はロマン |
 | {{ youtube_thumbnail("yaNBOazojM0") }} | 2025/03/06 | 美少女ゲーム初心者におすすめしたい作品を語る会！！！ |
 | {{ youtube_thumbnail("p7c7Gm2lY04") }} | 2025/03/20 | 白玉餅がとても好きな美少女ゲームを語る会！！！ |
 | {{ youtube_thumbnail("nHIAbYfjPY0") }} | 2025/04/13 | 白玉餅が持ってる美少女ゲームグッズを一緒に見よう！ |
@@ -47,11 +47,15 @@
 | {{ youtube_thumbnail("a5AJtxx_TIU") }} | 2025/07/19 | お話しよ！美少女ゲームの話もしたい！お知らせもあるよ✨ |
 | {{ youtube_thumbnail("w1GnyTYBgkc") }} | 2025/07/27 | 白玉餅が持ってる美少女ゲームを一緒に見よう！② |
 | {{ youtube_thumbnail("Actz5do64aw") }} | 2025/09/06 | 好きな美少女ゲームのヒロインを語りたい💖 |
-| {{ youtube_thumbnail("U2qjXVG4bAk") }} | 2025/10/12 | 好きなアニメについて語る会！！！！！<br><br>ましろさんを作り上げたアニメ10選 |
+| {{ youtube_thumbnail("U2qjXVG4bAk") }} | 2025/10/12 | 好きなアニメについて語る会！！！！！<br><br>・ましろさんを作り上げたアニメ10選 |
 | {{ youtube_thumbnail("DoHC1Kby31I") }} | 2025/11/16 | 思い出&懐かしのゲームについて語ろう🎮 |
 | {{ youtube_thumbnail("rtw3t5ixPEE") }} | 2025/11/27 | 美少女ゲームの話がしたいです💟 |
-| {{ youtube_thumbnail("8sItihRhBv0") }} | 2025/12/24 | 聖なる夜の性癖ビンゴ大会！🎄(ケーキもあるよ♡)<br><br>ハッシュタグは [:simple-x: ＃2025白玉餅聖癖ビンゴ大会](https://x.com/hashtag/2025白玉餅聖癖ビンゴ大会)<br>上位3名の[:simple-x: 大会賞状イラスト](https://x.com/umamochi_shiro/status/2008580000992440701) |
+| {{ youtube_thumbnail("8sItihRhBv0") }} | 2025/12/24 | 聖なる夜の性癖ビンゴ大会！🎄(ケーキもあるよ♡)<br><br>・ハッシュタグは [:simple-x: ＃2025白玉餅聖癖ビンゴ大会](https://x.com/hashtag/2025白玉餅聖癖ビンゴ大会)<br>・上位3名の[:simple-x: 大会賞状イラスト](https://x.com/umamochi_shiro/status/2008580000992440701) |
 | {{ youtube_thumbnail("nZujx13fF1Y") }} | 2025/12/27 | 2025年に出会えてよかった美少女ゲームのいろいろTOP5！！！ |
+
+#### 百合まんがを描きたい
+
+{{ twitter("https://x.com/umamochi_shiro/status/1919393620878033210") }}
 
 #### ビンゴカード（性癖ビンゴ大会）
 
