@@ -312,7 +312,7 @@ def create_issue_body(result: CheckResult, run_url: str = "") -> str:
         # ファイルパスをGitHubリンクに変換
         file_path = link.file.replace("\\", "/")  # Windows対応
         if github_repository:
-            file_link = f"[{file_path}:{link.line}]({github_server_url}/{github_repository}/blob/{github_ref}/{file_path}#L{link.line})"
+            file_link = f"[{file_path}:{link.line}]({github_server_url}/{github_repository}/blob/{github_ref}/{file_path}?plain=1#L{link.line})"
         else:
             file_link = f"{file_path}:{link.line}"
 
