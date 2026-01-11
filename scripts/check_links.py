@@ -355,7 +355,8 @@ def create_issue_body(result: CheckResult, run_url: str = "") -> str:
     # GitHubリポジトリ情報を取得（ファイルリンク生成用）
     github_repository = os.environ.get("GITHUB_REPOSITORY", "")
     github_server_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com")
-    github_ref = os.environ.get("GITHUB_REF_NAME", "main")
+    # コミットハッシュを使用
+    github_sha = os.environ.get("GITHUB_SHA", "main")
 
     lines = [
         "## リンク切れレポート",
@@ -370,7 +371,7 @@ def create_issue_body(result: CheckResult, run_url: str = "") -> str:
         # ファイルパスをGitHubリンクに変換
         file_path = link.file.replace("\\", "/")  # Windows対応
         if github_repository:
-            file_link = f"[{file_path}:{link.line}]({github_server_url}/{github_repository}/blob/{github_ref}/{file_path}?plain=1#L{link.line})"
+            file_link = f"[{file_path}:{link.line}]({github_server_url}/{github_repository}/blob/{github_sha}/{file_path}?plain=1#L{link.line})"
         else:
             file_link = f"{file_path}:{link.line}"
 
