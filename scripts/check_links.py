@@ -455,7 +455,9 @@ def main() -> int:
             print("=" * 60)
             print(create_issue_body(result))
 
-    # 常に成功で終了（結果はJSONで判定）
+    # 無効なリンクがあれば終了コード1
+    if result.invalid > 0:
+        return 1
     return 0
 
 
