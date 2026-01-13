@@ -144,6 +144,8 @@
 
 - 2026/01/12
 
+#### 【参加型絵チャ】夜のまったりおえかき雑談🌙【白玉餅ましろ】
+
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=UWWyJqz5Ous", 320) }}
 
 {{ twitter("https://x.com/umamochi_shiro/status/2010371590060667013") }}
