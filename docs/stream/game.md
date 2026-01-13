@@ -85,6 +85,7 @@
 いろんな白玉餅さんを描いて観よう！
 
 - 参加型
+- 4回（2026/01/01 現在）
 - 2025/06/07 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
