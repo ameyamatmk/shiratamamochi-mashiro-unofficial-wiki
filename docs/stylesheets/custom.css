@@ -181,3 +181,65 @@
 .md-nav--secondary .md-nav__item:last-child {
   border-bottom: none;
 }
+
+/* =========================================
+   X(Twitter) シェアボタン
+   ========================================= */
+
+.share-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.share-button__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.2rem 0.5rem;
+  background: var(--md-primary-fg-color);
+  color: #fff !important;
+  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.share-button__link:hover {
+  background: var(--md-primary-fg-color--dark);
+  transform: translateY(-1px);
+}
+
+.share-button__link:active {
+  transform: translateY(0);
+}
+
+.share-button__icon {
+  flex-shrink: 0;
+}
+
+/* =========================================
+   ヘッダー X シェアアイコン
+   ========================================= */
+
+.header-share-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  color: currentColor;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.header-share-icon:hover {
+  opacity: 1;
+}
+
+.header-share-icon svg {
+  display: block;
+}

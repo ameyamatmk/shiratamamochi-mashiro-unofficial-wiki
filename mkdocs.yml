@@ -102,5 +102,6 @@ extra_css:
 
 extra_javascript:
   - javascripts/external-links.js
+  - javascripts/header-share.js
   - https://platform.twitter.com/widgets.js
   - javascripts/twitter-widgets.js
