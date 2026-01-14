@@ -171,12 +171,66 @@
 }
 
 /* =========================================
-   YouTube サムネイル - 枠線
+   YouTube サムネイル - 再生ボタンオーバーレイ
    ========================================= */
 
+/* YouTube サムネイルを含むリンク */
+a:has(img[src*="img.youtube.com"]) {
+  position: relative;
+  display: inline-block;
+  line-height: 0;
+}
+
+/* サムネイル画像 */
 .md-typeset img[src*="img.youtube.com"] {
   border: 2px solid var(--md-default-fg-color--lighter);
   border-radius: 4px;
+  transition: filter 0.2s ease;
+}
+
+/* 再生ボタン（通常時は非表示） */
+a:has(img[src*="img.youtube.com"])::after {
+  content: "▶";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  font-size: 1.5rem;
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}
+
+/* 「YouTubeで開く」テキスト（通常時は非表示） */
+a:has(img[src*="img.youtube.com"])::before {
+  content: "YouTubeで開く";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0.8rem);
+  font-size: 0.6rem;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 2px 6px;
+  border-radius: 3px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}
+
+/* ホバー時：暗くして再生ボタンとテキストを表示 */
+a:has(img[src*="img.youtube.com"]):hover img {
+  filter: brightness(0.6);
+}
+
+a:has(img[src*="img.youtube.com"]):hover::after,
+a:has(img[src*="img.youtube.com"]):hover::before {
+  opacity: 1;
 }
 
 /* =========================================
