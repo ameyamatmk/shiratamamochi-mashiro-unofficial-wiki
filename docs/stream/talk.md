@@ -2,11 +2,11 @@
 
 [:simple-youtube: 雑談｜まったりおしゃべり☕️（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv14zj7PLzq4SCgSt-ULgkcQ){ .md-button }
 
-{{ thumbnail_notice() }}
-
 !!! tip ""
     **gogh** や **お絵かきチャット** の配信は [ゲーム配信](game.md) ページに掲載しています。  
     **ASMR雑談** の配信は [ASMR配信](asmr.md) ページに掲載しています。
+
+{{ thumbnail_notice() }}
 
 ??? note "目次"
     - [記念配信](#_2)
