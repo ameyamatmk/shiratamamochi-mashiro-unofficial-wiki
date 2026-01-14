@@ -23,4 +23,4 @@
 | {{ youtube_thumbnail("jRi7mgGiF3Q") }} | 2026/01/05 | ねむくなるまで、小さな声でおはなし🌙(囁き声/心音/睡眠導入)<br><span class="content-sub">雑談・バドミントンと卓球・手汗・絵描き・心音</span> |
 | {{ youtube_thumbnail("B33VvU8ert4") }} | 2026/01/07 | 何も考えずに眠れる耳かき♡(耳かき/囁き声/睡眠導入)<br><span class="content-sub">耳かき（竹の安心感、ナイロンポリポリ、ステンレスひんやり、ピンセットカリカリ）・ブラシ・梵天</span> |
 | {{ youtube_thumbnail("uesszmQPuPU") }} | 2026/01/14 | 『よだかの星』を朗読します🌌(朗読/囁き声/睡眠導入) <br><span class="content-sub">宮沢賢治</span> |
-| {{ youtube_thumbnail("rfSLmgciUGE") }} | 2026/01/14 | 今日もお疲れさま♡やさしく寝かしつけ♡(枕ぽんぽん/囁き声/睡眠導入) <br><span class="content-sub">2枠目・枕ぽんぽんなでなで・おやすみ</span> |
+| {{ youtube_thumbnail("rfSLmgciUGE") }} | 2026/01/14 | 今日もお疲れさま♡やさしく寝かしつけ♡(枕ぽんぽん/囁き声/睡眠導入) <br><span class="content-sub">2枠目・枕ぽんぽんなでなで・世界で一番優しい手刀</span> |
