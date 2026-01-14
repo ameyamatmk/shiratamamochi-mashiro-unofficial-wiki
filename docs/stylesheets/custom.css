@@ -3,7 +3,7 @@
    ========================================= */
 
 html {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .md-typeset {
@@ -191,8 +191,8 @@ twitter-widget {
 /* テーブルセルの上下余白を狭く */
 .md-typeset td,
 .md-typeset th {
-  padding-top: 0.7em !important;
-  padding-bottom: 0.7em !important;
+  padding-top: 0.8em !important;
+  padding-bottom: 0.8em !important;
 }
 
 /* =========================================
