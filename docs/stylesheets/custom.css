@@ -188,6 +188,13 @@ twitter-widget {
   background: var(--md-accent-fg-color--transparent);
 }
 
+/* テーブルセルの上下余白を狭く */
+.md-typeset td,
+.md-typeset th {
+  padding-top: 0.7em !important;
+  padding-bottom: 0.7em !important;
+}
+
 /* =========================================
    テーブル - 縦スタックセル
    ========================================= */
