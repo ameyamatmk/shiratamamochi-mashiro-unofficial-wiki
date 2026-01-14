@@ -1,4 +1,28 @@
 /* =========================================
+   基本タイポグラフィ - フォントサイズ・行間
+   ========================================= */
+
+html {
+  font-size: 18px;
+}
+
+.md-typeset {
+  line-height: 1.3;
+}
+
+/* コンテンツ幅を広げる */
+.md-grid {
+  max-width: 70rem;
+}
+
+/* X(Twitter)埋め込みを縮小 */
+.twitter-tweet-rendered,
+twitter-widget {
+  transform: scale(0.9);
+  transform-origin: top left;
+}
+
+/* =========================================
    ましろさんイメージカラー - ラベンダーピンク
    ========================================= */
 
@@ -61,9 +85,15 @@
 /* セクションの上に区切り線を追加 */
 .md-nav--primary > .md-nav__list > .md-nav__item--section,
 .md-nav--primary > .md-nav__list > .md-nav__item--nested {
-  margin-top: 0.8em !important;
-  padding-top: 0.8em !important;
+  margin-top: 0.0em !important;
+  padding-top: 0.0em !important;
   border-top: 1px solid var(--md-default-fg-color--lightest) !important;
+}
+
+/* ナビゲーションアイテムの行間を狭く */
+.md-nav--primary .md-nav__link {
+  padding-top: -0.1em !important;
+  padding-bottom: -0.1em !important;
 }
 
 /* サブアイテム（子リンク）に左ボーダーを追加 */
