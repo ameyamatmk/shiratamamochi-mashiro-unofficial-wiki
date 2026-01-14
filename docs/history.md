@@ -22,8 +22,3 @@
 | 12/02 | チャンネル登録者 900人 | [:simple-x:](https://x.com/umamochi_shiro/status/1995806358885855300) |
 | 12/03 | 活動開始 1周年 | [:simple-x:](https://x.com/umamochi_shiro/status/1995871313274302966) |
 | 12/14 | チャンネル登録者 1000人 | [:simple-x:](https://x.com/umamochi_shiro/status/1999882880080822737) |
-
-## 2026年
-
-| 日付 | 出来事 | リンク |
-|------|--------|------|
