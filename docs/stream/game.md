@@ -9,8 +9,9 @@
     - [けものティータイム☕](#_6)
     - [ガーティックフォン☎](#gartic-phone)
     - [ライブピクト](#_10)
-    - [gogh🖼](#gogh-focus-with-your-avatar)
-    - [単発ゲーム🎮](#_15)
+    - [gogh: Focus with Your Avatar🖼](#gogh-focus-with-your-avatar)
+    - [お絵かきチャット](#_15)
+    - [単発ゲーム🎮](#_17)
 
 ## フォレスティア🌱
 

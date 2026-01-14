@@ -11,12 +11,9 @@
 ??? note "目次"
     - [記念配信](#_2)
     - [ましろさんの"好き"を知る雑談](#_3)
-    - [『作品』を語る会](#_5)
-    - [芋活](#_6)
-    - [マシュマロ](#_7)
-        - [通常マシュマロ](#_8)
-        - [スナックたまもち](#_9)
-        - [シスターたまもち懺悔室](#_10)
+    - [マシュマロ](#_6)
+    - [『作品』を語る会](#_7)
+    - [芋活](#_8)
 
 ## 記念配信
 
@@ -65,30 +62,6 @@
 
 {{ twitter("https://x.com/umamochi_shiro/status/2003838256774050048") }}
 
-## 『作品』を語る会
-
-作品についてネタバレありで語る配信。  
-主にイラストの巧さやキャラクターについて熱く語っています。
-
-| サムネイル | 配信日 | 作品 |
-|:----------:|------|------|
-| {{ youtube_thumbnail("_J-aNHfCkeY", 240) }} | 2025/09/24 | 白昼夢の青写真 |
-| {{ youtube_thumbnail("vom8MyHpcko", 240) }} | 2025/11/01 | 何度目かのはじめまして |
-| {{ youtube_thumbnail("55xlI3cuM4c", 240) }} | 2026/01/24 | エヴァーメイデン |
-
-## 芋活
-
-お芋を食べながら雑談。  
-みんなでお芋を食べよう。
-
-[:simple-youtube: 芋活｜さつまいもを食べよう🍠（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2pHc-kBXV-PP_ggdiNIus-){ .md-button }
-
-| サムネイル | 配信日 | タイトル |
-|:----------:|------|------|
-| {{ youtube_thumbnail("ScKCNpoqZcA") }} | 2025/10/13 | 今日はさつまいもの日！夜だけど焼き芋を食べよう🍠💛 |
-| {{ youtube_thumbnail("DiiptsFYHE8") }} | 2025/10/19 | おやつに焼き芋を食べよう🍠 |
-| {{ youtube_thumbnail("CsdLKXNihO4") }} | 2025/11/15 | ざつだんしながらおいも食べる🍠 |
-
 ## マシュマロ
 
 [マシュマロ投稿ページ](https://marshmallow-qa.com/captxiloq5czcnx){ .md-button }
@@ -112,3 +85,26 @@
 | {{ youtube_thumbnail("U0PA7cAqLvs") }} | 2025/12/20 | 【シスターたまもち懺悔室】あなたの懺悔…聞かせてください✨お知らせもあるよ♡<br>・メンバーシップがピンクに |
 | {{ youtube_thumbnail("94CUhAy_bqg") }} | 2026/01/12 | マシュマロのお返事をします♡ |
 
+## 『作品』を語る会
+
+作品についてネタバレありで語る配信。  
+主にイラストの巧さやキャラクターについて熱く語っています。
+
+| サムネイル | 配信日 | 作品 |
+|:----------:|------|------|
+| {{ youtube_thumbnail("_J-aNHfCkeY", 240) }} | 2025/09/24 | 白昼夢の青写真 |
+| {{ youtube_thumbnail("vom8MyHpcko", 240) }} | 2025/11/01 | 何度目かのはじめまして |
+| {{ youtube_thumbnail("55xlI3cuM4c", 240) }} | 2026/01/24 | エヴァーメイデン |
+
+## 芋活
+
+お芋を食べながら雑談。  
+みんなでお芋を食べよう。
+
+[:simple-youtube: 芋活｜さつまいもを食べよう🍠（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2pHc-kBXV-PP_ggdiNIus-){ .md-button }
+
+| サムネイル | 配信日 | タイトル |
+|:----------:|------|------|
+| {{ youtube_thumbnail("ScKCNpoqZcA") }} | 2025/10/13 | 今日はさつまいもの日！夜だけど焼き芋を食べよう🍠💛 |
+| {{ youtube_thumbnail("DiiptsFYHE8") }} | 2025/10/19 | おやつに焼き芋を食べよう🍠 |
+| {{ youtube_thumbnail("CsdLKXNihO4") }} | 2025/11/15 | ざつだんしながらおいも食べる🍠 |
