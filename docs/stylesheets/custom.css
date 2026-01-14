@@ -92,8 +92,8 @@ twitter-widget {
 
 /* ナビゲーションアイテムの行間を狭く */
 .md-nav--primary .md-nav__link {
-  padding-top: -0.1em !important;
-  padding-bottom: -0.1em !important;
+  padding-top: 0.0em !important;
+  padding-bottom: 0.0em !important;
 }
 
 /* サブアイテム（子リンク）に左ボーダーを追加 */
