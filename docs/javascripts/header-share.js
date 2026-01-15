@@ -10,7 +10,7 @@ function addHeaderShareIcon() {
   // シェアリンクを作成
   const shareUrl = encodeURIComponent(window.siteConfig?.siteUrl || window.location.origin)
   const shareText = encodeURIComponent(window.siteConfig?.siteName || document.title)
-  const tweetUrl = `https://x.com/intent/tweet?url=${shareUrl}&text=${shareText}`
+  const tweetUrl = `https://x.com/intent/tweet?text=${shareText}%0A${shareUrl}`
 
   // アイコンリンク要素を作成
   const shareLink = document.createElement('a')
