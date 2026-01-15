@@ -1,7 +1,6 @@
 site_name: 白玉餅ましろ 非公式wiki
-site_url: https://mashiro-wiki.pages.dev
-site_description: 白玉餅ましろさんの配信情報、歌枠セットリスト、ゲーム実況、ASMR、おえかき配信などをまとめた非公式wikiです
-site_author: 白玉餅ましろ 非公式wiki
+site_url: https://mashiro-mochi-wiki.pages.dev
+site_description: 白玉餅ましろさんの配信情報、おえかき配信、ゲーム実況、歌枠、ASMRなどをまとめた非公式wikiです
 
 theme:
   name: material
