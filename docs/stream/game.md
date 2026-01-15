@@ -93,12 +93,7 @@
 
 - 全4回
 - 2025/09/04 ～ 2025/10/07
-
-[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv2_-IevOtnqnX-6MAMqknQW){ .md-button }
-
-#### #１　ケモミミ×喫茶店×ASMR…！？👀❤️ ※ネタバレ注意
-
-{{ youtube_thumbnail("https://www.youtube.com/watch?v=mbWp3f94Ryk", 320) }}
+- 非公開
 
 ## ガーティックフォン（Gartic Phone）☎
 

@@ -22,10 +22,6 @@
 
     {{ twitter("https://x.com/umamochi_shiro/status/1995877330666095002") }}
 
-    ### ドカ泣き餅ましろ（2025/10/31）
-
-    {{ twitter("https://x.com/umamochi_shiro/status/1984170307478024197") }}
-
     ### ルームウェアもち（2025/10/18）
 
     {{ twitter("https://x.com/umamochi_shiro/status/1979455512862429619") }}

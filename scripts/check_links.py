@@ -108,9 +108,52 @@ SKIP_PATTERNS = [
 YOUTUBE_PLAYLIST_PATTERN = re.compile(r"youtube\.com/playlist\?", re.IGNORECASE)
 
 
-def should_skip_url(url: str) -> bool:
-    """チェック対象外のURLかどうか判定"""
-    return any(pattern.search(url) for pattern in SKIP_PATTERNS)
+def load_ignore_list(project_root: Path) -> set[str]:
+    """無視リストファイルを読み込む
+
+    Args:
+        project_root: プロジェクトルートディレクトリ
+
+    Returns:
+        無視するURLのセット
+    """
+    ignore_file = project_root / "scripts" / "check_links_ignore.txt"
+    ignore_urls: set[str] = set()
+
+    if not ignore_file.exists():
+        return ignore_urls
+
+    try:
+        content = ignore_file.read_text(encoding="utf-8")
+        for line in content.splitlines():
+            line = line.strip()
+            # 空行とコメント行はスキップ
+            if not line or line.startswith("#"):
+                continue
+            ignore_urls.add(line)
+    except Exception as e:
+        print(f"  警告: 無視リストファイルの読み込みに失敗: {e}", file=sys.stderr)
+
+    return ignore_urls
+
+
+def should_skip_url(url: str, ignore_urls: set[str] | None = None) -> bool:
+    """チェック対象外のURLかどうか判定
+
+    Args:
+        url: チェック対象URL
+        ignore_urls: 無視リストファイルから読み込んだURLセット
+
+    Returns:
+        スキップする場合True
+    """
+    # パターンマッチによるスキップ
+    if any(pattern.search(url) for pattern in SKIP_PATTERNS):
+        return True
+    # 無視リストによるスキップ
+    if ignore_urls and url in ignore_urls:
+        return True
+    return False
 
 
 def extract_youtube_video_id(video_id_or_url: str) -> str | None:
@@ -122,8 +165,16 @@ def extract_youtube_video_id(video_id_or_url: str) -> str | None:
     return None
 
 
-def extract_links_from_file(file_path: Path, docs_root: Path) -> list[LinkInfo]:
-    """ファイルからリンクを抽出"""
+def extract_links_from_file(
+    file_path: Path, docs_root: Path, ignore_urls: set[str] | None = None
+) -> list[LinkInfo]:
+    """ファイルからリンクを抽出
+
+    Args:
+        file_path: 対象ファイルパス
+        docs_root: docsディレクトリのパス
+        ignore_urls: 無視するURLのセット
+    """
     links: list[LinkInfo] = []
     relative_path = str(file_path.relative_to(docs_root.parent))
 
@@ -137,7 +188,7 @@ def extract_links_from_file(file_path: Path, docs_root: Path) -> list[LinkInfo]:
         # Twitter マクロ
         for match in PATTERNS["twitter_macro"].finditer(line):
             url = match.group(1)
-            if not should_skip_url(url):
+            if not should_skip_url(url, ignore_urls):
                 links.append(
                     LinkInfo(
                         file=relative_path,
@@ -152,7 +203,7 @@ def extract_links_from_file(file_path: Path, docs_root: Path) -> list[LinkInfo]:
             video_id = extract_youtube_video_id(match.group(1))
             if video_id:
                 url = f"https://www.youtube.com/watch?v={video_id}"
-                if not should_skip_url(url):
+                if not should_skip_url(url, ignore_urls):
                     links.append(
                         LinkInfo(
                             file=relative_path,
@@ -165,7 +216,7 @@ def extract_links_from_file(file_path: Path, docs_root: Path) -> list[LinkInfo]:
         # Twitter リンク
         for match in PATTERNS["twitter_link"].finditer(line):
             url = match.group(1)
-            if not should_skip_url(url):
+            if not should_skip_url(url, ignore_urls):
                 links.append(
                     LinkInfo(
                         file=relative_path,
@@ -178,7 +229,7 @@ def extract_links_from_file(file_path: Path, docs_root: Path) -> list[LinkInfo]:
         # YouTube リンク
         for match in PATTERNS["youtube_link"].finditer(line):
             url = match.group(1)
-            if not should_skip_url(url):
+            if not should_skip_url(url, ignore_urls):
                 # プレイリストか動画かを判定
                 if YOUTUBE_PLAYLIST_PATTERN.search(url):
                     link_type = "youtube_playlist"
@@ -498,13 +549,18 @@ def main() -> int:
     print("リンクチェックを開始します...")
     print(f"対象ディレクトリ: {docs_dir}")
 
+    # 無視リストを読み込む
+    ignore_urls = load_ignore_list(project_root)
+    if ignore_urls:
+        print(f"無視リスト: {len(ignore_urls)} 件")
+
     # Markdownファイルからリンクを抽出
     all_links: list[LinkInfo] = []
     md_files = list(docs_dir.rglob("*.md"))
     print(f"対象ファイル数: {len(md_files)}")
 
     for md_file in md_files:
-        links = extract_links_from_file(md_file, docs_dir)
+        links = extract_links_from_file(md_file, docs_dir, ignore_urls)
         all_links.extend(links)
 
     # 重複を除去

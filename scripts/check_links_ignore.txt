@@ -1,0 +1,9 @@
+# リンクチェック無視リスト
+# 1行1URLで記載すると、そのURLはチェック対象外になります
+# 空行とコメント行（#で始まる行）は無視されます
+#
+# 例:
+# https://x.com/example/status/1234567890
+# https://www.youtube.com/watch?v=XXXXXXXXXXX
+
+https://x.com/umamochi_shiro/status/1935701828974616849 

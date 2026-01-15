@@ -12,7 +12,7 @@
 | 日付 | 出来事 | リンク |
 |------|--------|------|
 | 04/06 | オリジナル曲『ましろもちもちわーるど！』公開 | [:simple-youtube:](https://www.youtube.com/watch?v=WKXoqdLelzY) |
-| 04/06 | 誕生日 | [:simple-x:](https://x.com/umamochi_shiro/status/1908535468880445934) / [:simple-x:](https://x.com/umamochi_shiro/status/1908760666594566475) / [:simple-youtube:](https://www.youtube.com/watch?v=67gu4lC4M9Q) |
+| 04/06 | 誕生日 | [:simple-x:](https://x.com/umamochi_shiro/status/1908535468880445934) / [:simple-youtube:](https://www.youtube.com/watch?v=67gu4lC4M9Q) |
 | 04/06 | BOOTH開設 | [:simple-x:](https://x.com/umamochi_shiro/status/1908886405977415876) |
 | 06/03 | 活動半年イラスト | [:simple-x:](https://x.com/umamochi_shiro/status/1929909639531176046) |
 | 06/19 | 500人達成 & メンバーシップ開設 | [:simple-x:](https://x.com/umamochi_shiro/status/1935701828974616849) / [:simple-youtube:](https://www.youtube.com/watch?v=CFjVfcceqSM) |

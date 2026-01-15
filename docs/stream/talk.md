@@ -55,10 +55,6 @@
 | {{ youtube_thumbnail("8sItihRhBv0") }} | 2025/12/24 | 聖なる夜の性癖ビンゴ大会！🎄(ケーキもあるよ♡)<br><span class="content-sub">・想像以上の盛り上がり、楽しかった<br>・ハッシュタグは [:simple-x: ＃2025白玉餅聖癖ビンゴ大会](https://x.com/hashtag/2025白玉餅聖癖ビンゴ大会)<br>・上位3名の[:simple-x: 大会賞状イラスト](https://x.com/umamochi_shiro/status/2008580000992440701)</span> |
 | {{ youtube_thumbnail("nZujx13fF1Y") }} | 2025/12/27 | 2025年に出会えてよかった美少女ゲームのいろいろTOP5！！！<br><span class="content-sub">・スケベだったゲーム、好きなキャラ、好きな曲、面白かったゲーム</span> |
 
-#### 百合まんがを描きたい
-
-{{ twitter("https://x.com/umamochi_shiro/status/1919393620878033210") }}
-
 #### ビンゴカード（性癖ビンゴ大会）
 
 {{ twitter("https://x.com/umamochi_shiro/status/2003838256774050048") }}
