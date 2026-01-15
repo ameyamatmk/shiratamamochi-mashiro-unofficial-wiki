@@ -14,7 +14,7 @@
 | 担当 | 制作者 | リンク | 告知 |
 |------|--------|--------|------|
 | 背景 | カランカ | [:simple-x: @KRNK_sousaku](https://x.com/KRNK_sousaku) | [:simple-x:](https://x.com/umamochi_shiro/status/1895098431687069788) / [:simple-x:](https://x.com/KRNK_sousaku/status/1997620012627214359) |
-| 待機画面 | Iray9 | [:simple-x: @_Iray9 _](https://x.com/_Iray9_) | |
+| 待機画面 | Iray9 | [:simple-x: @\_Iray9\_](https://x.com/_Iray9_) | |
 | BGM | 壱子 | [:simple-x: @ichigo69tabetai](https://x.com/ichigo69tabetai) | |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1996205851326271604") }}
