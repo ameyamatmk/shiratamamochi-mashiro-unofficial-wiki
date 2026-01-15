@@ -203,6 +203,7 @@ twitter-widget {
 .content-sub {
   display: block;
   margin-top: 0.3em;
+  padding-left: 1em;
   font-size: 0.9em;
   opacity: 0.8;
 }
