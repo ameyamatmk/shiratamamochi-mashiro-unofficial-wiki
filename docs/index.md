@@ -22,14 +22,16 @@
 
 [:simple-youtube: 白玉餅ましろってどんな子？👀🤍（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3y0Xo541sGKcfsAg2X2gvE){ .md-button }
 
-### 初配信
+[:simple-youtube: ショート動画（描いてみた、ボイス等）](https://www.youtube.com/@shiratamamochi_mashiro/shorts){ .md-button }
+
+#### 【初配信】はじめまして白玉餅ましろです！
 {{ youtube("https://www.youtube.com/watch?v=E7cJ584iqa4") }}
 
-### 持ってる美少女ゲームを一緒に見よう！
-{{ youtube("https://www.youtube.com/watch?v=N1_vtwLZ7vE") }}
+#### 白玉餅がとても好きな美少女ゲームを語る会！！！
+{{ youtube("https://www.youtube.com/watch?v=p7c7Gm2lY04") }}
 
-### ASMR
+#### 【ASMR】耳かきで、ゆったりお耳を整える夜🌃
 {{ youtube("https://www.youtube.com/watch?v=ebyhZfceIVQ") }}
 
-### ビンゴ大会
+#### 聖なる夜の性癖ビンゴ大会！🎄
 {{ youtube("https://www.youtube.com/watch?v=8sItihRhBv0") }}
