@@ -1,6 +1,6 @@
-site_name: 白玉餅ましろ 非公式wiki
+site_name: 白玉餅ましろ 非公式wiki - shiratamamochi mashiro wiki
 site_url: https://mashiro-mochi-wiki.pages.dev
-site_description: 白玉餅ましろさんの配信情報、おえかき配信、ゲーム実況、歌枠、ASMRなどをまとめた非公式wikiです
+site_description: VTuber「白玉餅ましろ」の活動や配信アーカイブ（お絵描き、歌枠、ASMR、ゲーム実況）などをまとめた非公式ファンサイトです
 
 theme:
   name: material
@@ -65,7 +65,7 @@ nav:
   - 概要:
       - プロフィール: profile.md
       - 衣装・モデル: costume.md
-      - 制作者・クレジット: credits.md
+      - 制作者: credits.md
       - イラスト: illustrations.md
       - 活動年表: history.md
   - 楽曲・歌枠:
@@ -83,7 +83,7 @@ nav:
       - コラボ: collab.md
       - グッズ: goods.md
       - メンバーシップ: membership.md
-  - 外部リンク:
+  - 外部リンク（別タブで開く）:
       - YouTube: https://www.youtube.com/@shiratamamochi_mashiro
       - X (旧Twitter): https://x.com/umamochi_shiro
       - lit.link: https://lit.link/shiratamamochimashiro
@@ -91,7 +91,7 @@ nav:
 
 copyright: >
   <span class="footer-left">Made with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></span>
-  <span class="footer-right"><a href="/disclaimer/">免責事項</a></span>
+  <span class="footer-right"><a href="/disclaimer/">免責事項・お問い合わせ</a></span>
 
 extra:
   generator: false
