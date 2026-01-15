@@ -2,10 +2,10 @@
 
 [:simple-youtube: おえかき｜のんびりおえかき✏️（再生リスト）](https://www.youtube.com/playlist?list=PLno8GgQ6NQv02u3bS1pJTOWbqTpeUkYGk){ .md-button }
 
-{{ thumbnail_notice() }}
-
 !!! tip ""
     **お絵かきチャット** の配信は [ゲーム配信](game.md) ページに掲載しています。
+
+{{ thumbnail_notice() }}
 
 ## 2024年
 

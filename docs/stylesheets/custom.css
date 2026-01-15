@@ -153,18 +153,6 @@ twitter-widget {
   background: #252028;
 }
 
-/* フッターレイアウト - 左右配置 */
-.md-copyright {
-  width: 100%;
-}
-
-.md-copyright__highlight {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-}
-
 /* =========================================
    YouTube埋め込み - コンパクトサイズ
    ========================================= */
