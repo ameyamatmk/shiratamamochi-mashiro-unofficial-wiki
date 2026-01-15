@@ -9,6 +9,14 @@
 
 [:simple-youtube: メン限｜ましろと、ないしょ話🤫](https://www.youtube.com/playlist?list=PLno8GgQ6NQv1ztRso0EtYR5wyf_1qNClR){ .md-button }
 
+#### Minecraft
+
+| # | サムネイル | 配信日 | タイトル |
+|:---:|:----------:|--------|----------|
+| 1 | {{ youtube_thumbnail("Ol-We1F6JLI") }} | 2025/02/02 | ついにマイクラ始めます！ |
+| 2 | {{ youtube_thumbnail("PnUFD3SD9tM") }} | 2025/02/19 | 配信外で進めすぎてしまったんだ・・・ |
+| 3 | {{ youtube_thumbnail("-EpA8U8qss0") }} | 2025/03/14 | 櫻と向日葵とあんころもち |
+
 ## バッジ
 
 {{ twitter("https://x.com/umamochi_shiro/status/1937756378808127730") }}
