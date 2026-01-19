@@ -26,7 +26,7 @@ theme:
     - navigation.expand
     - navigation.top
     - content.tabs.link
-  favicon: assets/images/favicon.svg
+  favicon: assets/images/favicon.png
   icon:
     logo: material/brush-outline
     repo: fontawesome/brands/github
