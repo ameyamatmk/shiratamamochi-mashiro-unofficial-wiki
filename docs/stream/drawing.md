@@ -95,3 +95,5 @@
 | # | サムネイル | 配信日 |
 |---|:----------:|--------|
 | ♯１ | {{ youtube_thumbnail("cT-DwoYQoKk") }} | 2026/02/01 |
+
+{{ twitter("https://x.com/umamochi_shiro/status/2017990954003902692") }}
