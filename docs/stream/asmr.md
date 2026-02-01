@@ -24,3 +24,5 @@
 | {{ youtube_thumbnail("B33VvU8ert4") }} | 2026/01/07 | 何も考えずに眠れる耳かき♡(耳かき/囁き声/睡眠導入)<br><span class="content-sub">耳かき（竹、ナイロン、ピンセット、ナイロン）・バイバイプラスチック・ブラシ・さつまいもの味噌汁</span> |
 | {{ youtube_thumbnail("uesszmQPuPU") }} | 2026/01/14 | 『よだかの星』を朗読します🌌(朗読/囁き声/睡眠導入) <br><span class="content-sub">宮沢賢治</span> |
 | {{ youtube_thumbnail("rfSLmgciUGE") }} | 2026/01/14 | 今日もお疲れさま♡やさしく寝かしつけ♡(枕ぽんぽん/囁き声/睡眠導入) <br><span class="content-sub">2枠目・枕ぽんぽんなでなで・世界で一番優しい手刀・カレー</span> |
+| {{ youtube_thumbnail("3mEyJJbuPoY") }} | 2026/01/21 | 寒い日もぽかぽか💖ぐっすり眠れるオイルマッサージ <br><span class="content-sub"></span> |
+| {{ youtube_thumbnail("GYi6Dq8trSU") }} | 2026/01/28 | 大好きな君に、そっとメイクしてあげる時間💄💕 <br><span class="content-sub"></span> |

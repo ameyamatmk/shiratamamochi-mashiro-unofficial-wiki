@@ -87,3 +87,11 @@
 | ♯２ | {{ youtube_thumbnail("qEUtXfOMgeI") }} | 2025/09/01 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/1962455287186837850") }}
+
+## 2026年
+
+### おしゃべりしながらいろいろな表情の白玉餅を描く✏
+
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("cT-DwoYQoKk") }} | 2026/02/01 |
