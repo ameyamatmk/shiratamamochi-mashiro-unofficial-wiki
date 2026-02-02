@@ -153,6 +153,10 @@
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=Mq0OovxC0QQ", 320) }}
 
+| # | サムネイル | 配信日 | タイトル |
+|:---:|:----------:|--------|----------|
+| 3 | {{ youtube_thumbnail("Ykfi1kG8ZtM") }} | 2026/01/26 | まったりチルな夜におしゃべりしよ～🌙 |
+
 #### スクリーンショット
 
 {{ twitter("https://x.com/umamochi_shiro/status/2002295089276788943") }}
@@ -182,3 +186,5 @@
 | {{ youtube_thumbnail("Lz2v2HpuDK4") }} | 2025/04/04 | ドーナツの穴 | |
 | {{ youtube_thumbnail("kjUUgrPRmmM") }} | 2025/07/11 | 何度目かのはじめまして | 体験版 |
 | {{ youtube_thumbnail("IpfcOaREXpI") }} | 2025/11/23 | テトリス99 | 参加型 |
+| {{ youtube_thumbnail("SrdBjxp2Yas") }} | 2026/01/18 | Ibリメイク | 前編、ほにゃ |
+| {{ youtube_thumbnail("Pr7lYu6TxUg") }} | 2026/01/19 | Ibリメイク | 後編（トゥルーエンド） |

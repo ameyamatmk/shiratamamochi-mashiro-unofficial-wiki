@@ -27,6 +27,7 @@
 | euphoria | 青葉りんご | 楽園の扉 |
 | G線上の魔王 | 彩音 | Close Your Eyes |
 | G線上の魔王 | 片霧烈火 | Answer |
+| Kanon | 彩菜 | Last regrets |
 | Making*Lovers | ユウカ | Girls' Carnival |
 | Re:LieF ～親愛なるあなたへ～ | 紫咲ほたる | Re:TrymenT |
 | Rewrite | やなぎなぎ | 恋文 |
