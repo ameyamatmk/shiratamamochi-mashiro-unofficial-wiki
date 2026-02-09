@@ -183,7 +183,7 @@
 |:----------:|--------|----------|------|
 | {{ youtube_thumbnail("K6qHTe-lQnk") }} | 2025/01/11 | MiSide：ミサイド | 前編 |
 | {{ youtube_thumbnail("K9706_IqMzo") }} | 2025/01/12 | MiSide：ミサイド | 後編 |
-| {{ youtube_thumbnail("Lz2v2HpuDK4") }} | 2025/04/04 | ドーナツの穴 | |
+| （非公開） | 2025/04/04 | ドーナツの穴 | |
 | {{ youtube_thumbnail("kjUUgrPRmmM") }} | 2025/07/11 | 何度目かのはじめまして | 体験版 |
 | {{ youtube_thumbnail("IpfcOaREXpI") }} | 2025/11/23 | テトリス99 | 参加型 |
 | {{ youtube_thumbnail("SrdBjxp2Yas") }} | 2026/01/18 | Ibリメイク | 前編、ほにゃ |
