@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### 猫の日（2026/02/22）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2025490733332107697") }}
+
     ### いろんな表情の自画像（2026/02/02）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2017990954003902692") }}
