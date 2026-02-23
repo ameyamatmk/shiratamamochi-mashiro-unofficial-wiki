@@ -54,6 +54,7 @@
 | {{ youtube_thumbnail("rtw3t5ixPEE") }} | 2025/11/27 | 美少女ゲームの話がしたいです💟<br><span class="content-sub">・流通センターの思い出<br>・長いゲームで脳が焼かれた経験<br>・アロマディフューザー</span> |
 | {{ youtube_thumbnail("8sItihRhBv0") }} | 2025/12/24 | 聖なる夜の性癖ビンゴ大会！🎄(ケーキもあるよ♡)<br><span class="content-sub">・想像以上の盛り上がり、楽しかった<br>・ハッシュタグは [:simple-x: ＃2025白玉餅聖癖ビンゴ大会](https://x.com/hashtag/2025白玉餅聖癖ビンゴ大会)<br>・上位3名の[:simple-x: 大会賞状イラスト](https://x.com/umamochi_shiro/status/2008580000992440701)</span> |
 | {{ youtube_thumbnail("nZujx13fF1Y") }} | 2025/12/27 | 2025年に出会えてよかった美少女ゲームのいろいろTOP5！！！<br><span class="content-sub">・スケベだったゲーム、好きなキャラ、好きな曲、面白かったゲーム</span> |
+| {{ youtube_thumbnail("hJ2E-x_KZ-U") }} | 2026/02/15 | 美少女ゲームの話がしたいです！<br><span class="content-sub">・機材を新しくしたよ<br>・最近プレイしたゲーム（カルタグラ）、話題の作品、新作<br>・エッなシーンはあってもなくてもいい、けど……<br>・次回の語る会</span> |
 
 #### ビンゴカード（性癖ビンゴ大会）
 
@@ -96,6 +97,7 @@
 | {{ youtube_thumbnail("8QxzBCSm29U") }} | 2025/11/04 | 午後もお仕事や作業、一緒にがんばろ～♡ |
 | {{ youtube_thumbnail("2IA30BZ6aRc") }} | 2025/11/17 | いっしょに作業やお仕事しよ～☕ |
 | {{ youtube_thumbnail("lkrbYWgrQpM") }} | 2025/12/15 | お昼のふわふわ作業タイム♡ |
+| {{ youtube_thumbnail("uWi-l8hVbdU") }} | 2026/02/19 | お昼のまったり作業タイム～☕ |
 
 ## 『作品』を語る会
 
