@@ -2,6 +2,7 @@ design/*
 CLAUDE.md
 .claude/*
 .playwright-mcp/
+bash.exe.stackdump
 
 # MkDocs build output
 site/

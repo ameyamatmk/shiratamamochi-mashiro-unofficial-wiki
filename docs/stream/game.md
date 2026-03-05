@@ -12,6 +12,7 @@
     - [gogh: Focus with Your Avatar🖼](#gogh-focus-with-your-avatar)
     - [お絵かきチャット](#_16)
     - [夜廻🌃](#_18)
+    - [マガルミナ（体験版）💣](#mglmn)
     - [単発ゲーム🎮](#_19)
 
 ## フォレスティア🌱
@@ -200,6 +201,25 @@
 | 2 | {{ youtube_thumbnail("h_ZVU8DRvSc") }} | 2026/02/08 | 夜の散歩に行きましょうか…🌃 |
 | 3 | {{ youtube_thumbnail("xoO_R8MwCMg") }} | 2026/02/09 | 夜の散歩に行きましょうか…🌃 |
 
+## マガルミナ体験版🐠 { #mglmn }
+
+好みな色素の薄いふにゃふにゃヒロイン
+
+- 全4回
+- 2026/02/27 ～ 2026/03/02
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv0gRMrhlBNbIVrMfp25RTGS){ .md-button }
+
+#### ＃１　恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=UphoyOtTBnI", 320) }}
+
+| # | サムネイル | 配信日 | タイトル |
+|:---:|:----------:|--------|----------|
+| 2 | {{ youtube_thumbnail("LbhJVHkH_M8") }} | 2026/02/28 | 恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！ |
+| 3 | {{ youtube_thumbnail("TDlz3848KhY") }} | 2026/03/01 | 恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！ |
+| 4 | {{ youtube_thumbnail("n5ec40SD8NE") }} | 2026/03/02 | 恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！ |
+
 ## 単発ゲーム🎮
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv3MLEKuU0w9YEIywn50IIhc){ .md-button }
@@ -213,3 +233,4 @@
 | {{ youtube_thumbnail("IpfcOaREXpI") }} | 2025/11/23 | テトリス99 | 参加型 |
 | {{ youtube_thumbnail("SrdBjxp2Yas") }} | 2026/01/18 | Ibリメイク | 前編、ほにゃ |
 | {{ youtube_thumbnail("Pr7lYu6TxUg") }} | 2026/01/19 | Ibリメイク | 後編（トゥルーエンド） |
+| {{ youtube_thumbnail("7j3hJwGi4eo") }} | 2026/03/01 | デヴィエーション・ゲーム | 参加型 |

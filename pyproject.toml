@@ -8,6 +8,7 @@ dependencies = [
     "mkdocs-material>=9.5",
     "mkdocs-macros-plugin>=1.0",
     "mkdocs-minify-plugin>=0.8",
+    "youtube-transcript-api>=1.2.4",
 ]
 
 [project.optional-dependencies]

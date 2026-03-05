@@ -55,6 +55,7 @@
 | {{ youtube_thumbnail("8sItihRhBv0") }} | 2025/12/24 | 聖なる夜の性癖ビンゴ大会！🎄(ケーキもあるよ♡)<br><span class="content-sub">・想像以上の盛り上がり、楽しかった<br>・ハッシュタグは [:simple-x: ＃2025白玉餅聖癖ビンゴ大会](https://x.com/hashtag/2025白玉餅聖癖ビンゴ大会)<br>・上位3名の[:simple-x: 大会賞状イラスト](https://x.com/umamochi_shiro/status/2008580000992440701)</span> |
 | {{ youtube_thumbnail("nZujx13fF1Y") }} | 2025/12/27 | 2025年に出会えてよかった美少女ゲームのいろいろTOP5！！！<br><span class="content-sub">・スケベだったゲーム、好きなキャラ、好きな曲、面白かったゲーム</span> |
 | {{ youtube_thumbnail("hJ2E-x_KZ-U") }} | 2026/02/15 | 美少女ゲームの話がしたいです！<br><span class="content-sub">・機材を新しくしたよ<br>・最近プレイしたゲーム（カルタグラ）、話題の作品、新作<br>・エッなシーンはあってもなくてもいい、けど……<br>・次回の語る会</span> |
+| {{ youtube_thumbnail("TKwHsBZNbOU") }} | 2026/02/28 | 好きな美少女ゲームソングを語ろう…🫶<br><span class="content-sub">・ブランド → ケロQ/枕、パープルソフトウェア、fong<br>・挿入歌入れてくれ委員会、個別ルートED大好き委員会他<br>・歌手 → Duca、夢乃ゆき<br>・作曲家 → 堀江晶太、山口たこ<br>・最近クリア青い空のカミュおすすめ<br>・葬式で流したい曲 → 未来への咆哮、ナグルファルの船上にて</span> |
 
 #### ビンゴカード（性癖ビンゴ大会）
 
