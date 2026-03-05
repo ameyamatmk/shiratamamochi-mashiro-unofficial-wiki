@@ -1,6 +1,6 @@
 # 白玉餅ましろ 非公式wiki
 
-<small style="display: block; text-align: right;">最終更新: 2026/03/05</small>
+<small style="display: block; text-align: right;">最終更新: 2026/03/06</small>
 
 !!! warning "このサイトについて"
     本サイトは**非公式のファンサイト**です。
