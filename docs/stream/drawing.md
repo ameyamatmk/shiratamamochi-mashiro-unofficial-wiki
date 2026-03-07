@@ -97,3 +97,15 @@
 | ♯１ | {{ youtube_thumbnail("cT-DwoYQoKk") }} | 2026/02/01 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/2017990954003902692") }}
+
+### お昼のおえかき配信☕自画像を描きます♡
+
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("MobnFlvMNjw") }} | 2026/03/07 |
+
+{{ twitter("https://x.com/umamochi_shiro/status/2030197122260492506") }}
+
+!!! info "関連メンバーシップ配信"
+    白玉餅の衣装を考えよう！雑談もあるよ！（2026/02/14）
+    [:simple-youtube: 配信アーカイブ](https://www.youtube.com/watch?v=aCz27ODhJXA)

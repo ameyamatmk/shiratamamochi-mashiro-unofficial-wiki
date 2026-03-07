@@ -15,11 +15,10 @@ html {
   max-width: 70rem;
 }
 
-/* X(Twitter)埋め込みを縮小 */
+/* X(Twitter)埋め込みをコンパクトに */
 .twitter-tweet-rendered,
 twitter-widget {
-  transform: scale(0.9);
-  transform-origin: top left;
+  max-width: 500px !important;
 }
 
 /* =========================================
