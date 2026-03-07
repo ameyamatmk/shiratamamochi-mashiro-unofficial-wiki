@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### 白玉餅に着せたい衣装（2026/03/07）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2030197122260492506") }}
+
     ### 猫の日（2026/02/22）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2025490733332107697") }}
