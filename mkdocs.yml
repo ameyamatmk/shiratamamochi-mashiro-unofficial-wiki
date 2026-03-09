@@ -75,6 +75,7 @@ nav:
           - 楽曲リスト: music/songlist.md
   - 配信アーカイブ:
       - 雑談: stream/talk.md
+      - マシュマロ: stream/marshmallow.md
       - おえかき: stream/drawing.md
       - ゲーム: stream/game.md
       - ASMR: stream/asmr.md
