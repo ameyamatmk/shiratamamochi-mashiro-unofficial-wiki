@@ -160,6 +160,7 @@
 | 3 | {{ youtube_thumbnail("Ykfi1kG8ZtM") }} | 2026/01/26 | まったりチルな夜におしゃべりしよ～🌙 |
 | 4 | {{ youtube_thumbnail("cSlxRmrnGM8") }} | 2026/02/16 | 癒しの屋外ルームを作るよ🌱 |
 | 5 | {{ youtube_thumbnail("4FYSWC7U5lU") }} | 2026/02/23 | ゆったり静かな夜のおしゃべり、たまに作業🌃 |
+| 6 | {{ youtube_thumbnail("KpZvvaZv7QQ") }} | 2026/03/30 | 寝る前のチル作業雑談🌃 |
 
 #### ましろは心の隙間を埋めたい【白玉餅ましろ切り抜き】
 

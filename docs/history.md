@@ -28,3 +28,6 @@
 | 日付 | 出来事 | リンク |
 |------|--------|------|
 | 01/29 | チャンネル登録者 1200人 | [:simple-x:](https://x.com/umamochi_shiro/status/2016531516420153397) |
+| 04/05 | 新衣装お披露目（お誕生日カウントダウン配信） | [:simple-x:](https://x.com/umamochi_shiro/status/2040646607885172861) / [:simple-youtube:](https://www.youtube.com/watch?v=AS6-sLjegoM) |
+| 04/06 | 新衣装制服イラスト公開 | [:simple-x:](https://x.com/umamochi_shiro/status/2040814121978142737) / [:simple-x: グッズ](https://x.com/umamochi_shiro/status/2040819895148110136) |
+| 04/06 | 誕生日 | [:simple-x:](https://x.com/umamochi_shiro/status/2041019197862600841) / [:simple-youtube:](https://www.youtube.com/watch?v=rnAsUKPgreg) |
