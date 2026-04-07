@@ -15,7 +15,7 @@
 | ルームウェア | 2025/10/4 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AlcsUxSn9II") }} | |
 | 通常衣装 | 2025/10/4 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AlcsUxSn9II") }} | 初期衣装アップデート |
 | 白シスター風 | 2025/12/3 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=zMeM-DwVhOU") }} | 1周年記念衣装 |
-| 制服 | 2026/4/5 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AS6-sLjegoM") }} | 誕生日記念衣装 |
+| 制服 | 2026/4/6 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AS6-sLjegoM") }} | 誕生日記念衣装 |
 
 ## 衣装詳細
 
@@ -46,7 +46,7 @@
 
 ### 制服（誕生日記念衣装）
 
-- 公開日: 2026/4/5
+- 公開日: 2026/4/6
 
 {{ twitter("https://x.com/umamochi_shiro/status/2040814121978142737") }}
 {{ twitter("https://x.com/umamochi_shiro/status/2040819537143267414") }}
