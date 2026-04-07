@@ -78,6 +78,9 @@
 
     {{ twitter("https://x.com/umamochi_shiro/status/1929909639531176046") }}
 
+    #### 半年間ありがとう！描いてみた✨（ショート動画）
+    {{ youtube_thumbnail("1HypPINnNgw", 240, short=True) }}
+
     ### いろいろまとめ（2025/04/06）
 
     {{ twitter("https://x.com/umamochi_shiro/status/1908886730511655135") }}

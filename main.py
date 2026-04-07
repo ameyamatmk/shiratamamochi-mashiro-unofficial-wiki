@@ -74,18 +74,24 @@ def define_env(env):
     サムネイル画像は img.youtube.com から取得しています。"""
 
     @env.macro
-    def youtube_thumbnail(video_id_or_url: str, width: int = 120) -> str:
+    def youtube_thumbnail(
+        video_id_or_url: str, width: int = 120, *, short: bool = False
+    ) -> str:
         """YouTube サムネイル画像リンク
 
         Args:
             video_id_or_url: YouTube の VIDEO_ID または URL
             width: サムネイル画像の幅（デフォルト: 120）
+            short: True の場合 /shorts/ リンクを生成する
 
         Returns:
             サムネイル画像付きリンクの Markdown
         """
         video_id = _extract_video_id(video_id_or_url)
-        url = f"https://www.youtube.com/watch?v={video_id}"
+        if short:
+            url = f"https://www.youtube.com/shorts/{video_id}"
+        else:
+            url = f"https://www.youtube.com/watch?v={video_id}"
         thumb_url = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
         return f"[![]({thumb_url}){{ width={width} }}]({url})"
 
