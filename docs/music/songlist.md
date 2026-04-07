@@ -59,9 +59,12 @@
 | ゴールデンアワー | 夢乃ゆき | ラストタイム |
 | この青空に約束を─ | KOTOKO | allegretto～そらときみ～ |
 | さくら、もゆ。 -as the Night's, Reincarnation- | 佐咲紗花 | さくら、Reincarnation |
+| サクラノ刻 -櫻の森の下を歩む- | Luna | Mon Panache! |
 | サクラノ刻 -櫻の森の下を歩む- | Luna | 刻ト詩 |
 | サクラノ詩 -櫻の森の上を舞う- | monet | PicaPica |
+| サクラノ詩 -櫻の森の上を舞う- | monet | ZYPRESSENの花束 |
 | サクラノ詩 -櫻の森の上を舞う- | monet | 在りし日のために |
+| サクラノ詩 -櫻の森の上を舞う- | はな | 天球の下の奇蹟 |
 | サクラノ詩 -櫻の森の上を舞う- | はな | 櫻ノ詩 |
 | ソラコイ | 夢乃ゆき | Sign |
 | タユタマ -kiss on my deity- | Kicco | 瞬間スプライン |
