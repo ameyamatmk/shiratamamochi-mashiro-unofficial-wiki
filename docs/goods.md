@@ -21,3 +21,4 @@
 | 半年＆夏グッズ | 2025/06/03 | [:simple-x:](https://x.com/umamochi_shiro/status/1934079054480842811) / [:simple-x:（実物）](https://x.com/umamochi_shiro/status/1942162994764607734) |
 | 新衣装（ルームウェア）記念グッズ | 2025/10/04 | [:simple-x:](https://x.com/umamochi_shiro/status/1974465028217860361) / [:simple-x:（マグカップ）](https://x.com/umamochi_shiro/status/1981272031816798673) |
 | 1周年記念グッズ | 2025/12/03 | [:simple-x:](https://x.com/umamochi_shiro/status/2001640216835367385) / [:simple-x:（実物）](https://x.com/umamochi_shiro/status/2011346251217031468)|
+| 誕生日記念グッズ（アクリルパネル+ステッカー3種セット） | 2026/04/06 | [:simple-x:](https://x.com/umamochi_shiro/status/2040819895148110136) |
