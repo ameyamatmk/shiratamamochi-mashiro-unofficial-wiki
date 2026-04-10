@@ -13,6 +13,8 @@
 美少女ゲームと百合が大好きなもちもちしている個人VTuber。2024年12月に活動開始。
 お絵描き、歌枠、ASMR、ゲーム実況など幅広いコンテンツを配信しています。
 
+{{ twitter("https://x.com/umamochi_shiro/status/1999644983335489786") }}
+
 ## 公式リンク
 
 [:simple-youtube: YouTube / @shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro){ .md-button }
