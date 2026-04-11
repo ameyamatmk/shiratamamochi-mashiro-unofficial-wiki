@@ -65,8 +65,10 @@ nav:
       - プロフィール: profile.md
       - 衣装・モデル: costume.md
       - 制作者: credits.md
-      - イラスト: illustrations.md
       - 活動年表: history.md
+  - イラスト:
+      - 自画像: illustrations/portrait.md
+      - お絵かき: illustrations/drawings.md
   - 楽曲・歌枠:
       - オリジナル楽曲: music/original.md
       - 歌ってみた: music/cover.md
