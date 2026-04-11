@@ -27,6 +27,51 @@ def _save_cache(cache: dict) -> None:
     )
 
 
+def _fallback_html(tweet_url: str, entry: dict | None = None) -> str:
+    """センシティブコンテンツ等で oEmbed が使えないツイート用のカスタム HTML
+
+    Args:
+        tweet_url: ツイートの URL
+        entry: キャッシュエントリ（text, date があれば表示に使う）
+    """
+    if entry and entry.get("text"):
+        text_html = entry["text"].replace("\n", "<br>")
+        date = entry.get("date", "")
+        return (
+            '<div class="tweet-fallback">'
+            f'<a href="{tweet_url}" target="_blank"'
+            ' class="tweet-fallback__overlay"></a>'
+            '<div class="tweet-fallback__header">'
+            '<div class="tweet-fallback__avatar">'
+            '<img src="https://pbs.twimg.com/profile_images/'
+            '1995874320061771776/0-Z5U3dj_normal.jpg" alt="">'
+            "</div>"
+            '<div class="tweet-fallback__author">'
+            '<span class="tweet-fallback__name">白玉餅ましろ</span>'
+            '<span class="tweet-fallback__handle">@umamochi_shiro</span>'
+            "</div>"
+            '<div class="tweet-fallback__logo">'
+            '<svg viewBox="0 0 24 24" width="20" height="20">'
+            '<path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17'
+            "l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08"
+            "l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+            '"/></svg></div>'
+            "</div>"
+            f'<div class="tweet-fallback__text">{text_html}</div>'
+            '<div class="tweet-fallback__meta">'
+            f'<span class="tweet-fallback__date">{date}</span>'
+            '<span class="tweet-fallback__note">'
+            "※ 埋め込み表示できないポストです</span>"
+            "</div>"
+            "</div>"
+        )
+    return (
+        f'<p><a href="{tweet_url}" target="_blank">'
+        f"🔗 ポストを見る（X）</a>"
+        f"<br><small>※ 埋め込み表示できないポストです</small></p>"
+    )
+
+
 def _extract_tweet_id(url: str) -> str:
     """URL からツイート ID を抽出"""
     match = re.search(r"/status/(\d+)", url)
@@ -134,6 +179,9 @@ def define_env(env):
         tweet_id = _extract_tweet_id(tweet_url)
 
         if tweet_id in cache:
+            # フォールバックエントリはカスタム HTML で表示
+            if cache[tweet_id].get("fallback"):
+                return _fallback_html(tweet_url, cache[tweet_id])
             html = cache[tweet_id]["html"]
         else:
             # キャッシュになければ API を叩く
@@ -143,8 +191,12 @@ def define_env(env):
                     "lang": "ja",
                 }
             )
-            with urllib.request.urlopen(api_url) as res:
-                data = json.loads(res.read())
+            try:
+                with urllib.request.urlopen(api_url) as res:
+                    data = json.loads(res.read())
+            except urllib.error.HTTPError:
+                # センシティブコンテンツ等で埋め込み不可の場合はリンクで表示
+                return _fallback_html(tweet_url)
 
             cache[tweet_id] = {
                 "url": tweet_url,
