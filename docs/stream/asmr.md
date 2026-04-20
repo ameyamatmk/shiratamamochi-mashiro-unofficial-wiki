@@ -34,9 +34,12 @@
 | {{ youtube_thumbnail("XRZlVMw-4Ow") }} | 2026/03/11 | 疲れたお耳に、ゆったり耳かきとマッサージ✨(耳かき/マッサージ/オイル/囁き声/睡眠導入)<br><span class="content-sub">耳かき（竹）・ペタペタ耳かき（粘着）・梵天（片耳・両耳ダブル）・綿棒オイル・オイルマッサージ・ネイルの話（薄い黄色と白と金色、花粉っぽい色）・肩マッサージやってみたい</span> |
 | {{ youtube_thumbnail("L3dz3WVvOtI") }} | 2026/03/23 | 睡眠導入🌃シンプル耳かきで眠ろう(耳かき/囁き声/心音/睡眠導入)<br><span class="content-sub">耳かき（竹、早め・ゆっくり）・綿棒シュワシュワ・心音（おまけ）・手汗トーク・花粉症疑惑からの風邪だった・ASMR振り返り</span> |
 | {{ youtube_thumbnail("xtQyICwILI8") }} | 2026/03/31 | そのまま眠れる、囁きとぽんぽん🌙(肩たたき/枕ぽんぽん/囁き声/睡眠導入)<br><span class="content-sub">肩たたき・枕ポンポン・囁き雑談・春の爆風・眠かっていっぱい寝てた・花見・アクスタデート</span> |
+| {{ youtube_thumbnail("ceX_qM7H2JE") }} | 2026/04/11 | 【ASMR】 ひざまくら耳かき✨がんばったあなたへのご褒美✨(耳かき/囁き声/睡眠導入)<br><span class="content-sub">膝枕耳かき（竹）・梵天（片耳）・お腹の音・こたつの話・猫ちゃんお腹に乗る・手汗ASMR構想・肩叩きASMRを極めたい・制服新衣装での構想・メイクASMRまたやりたい</span> |
+| {{ youtube_thumbnail("26F7mPhQ1q8") }} | 2026/04/13 | 【ASMR】肩たたきと囁きで眠れる🌙頑張ってるあなたをそっと癒します(肩たたき／囁き声／睡眠導入) |
 
 ## ショート動画
 
 | サムネイル | 投稿日 | タイトル |
 |:----------:|--------|----------|
 | {{ youtube_thumbnail("3khcBoKiHgo", short=True) }} | 2026/04/07 | 耳を癒すオイルマッサージ🫶 脳がとろける…✨<br><span class="content-sub">元動画: [疲れたお耳に、ゆったり耳かきとマッサージ✨（2026/03/11）](https://www.youtube.com/watch?v=XRZlVMw-4Ow)</span> |
+| {{ youtube_thumbnail("gPyFnDHivF8", short=True) }} | 2026/04/13 | 疲れたあなたへのご褒美🌙 やわらか膝枕耳かきASMR #睡眠 #癒し<br><span class="content-sub">元動画: [【ASMR】 ひざまくら耳かき✨がんばったあなたへのご褒美✨（2026/04/11）](https://www.youtube.com/watch?v=ceX_qM7H2JE)</span> |

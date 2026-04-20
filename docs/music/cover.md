@@ -12,3 +12,9 @@
 | {{ youtube_thumbnail("us4KMKd6Jzg") }} | 2025/05/24 | Wonder Scale | 倉本千奈（学園アイドルマスター） |
 | {{ youtube_thumbnail("1Fm7AEoNa6o") }} | 2025/07/20 | ナグルファルの船上にて | monet（素晴らしき日々～不連続存在～） |
 | {{ youtube_thumbnail("qFEl9ljMLFk") }} | 2025/12/24 | 二人だけのカーテンコール | 浅葉リオ（アオイトリ） |
+
+## ショート動画
+
+| サムネイル | 投稿日 | タイトル |
+|:----------:|--------|----------|
+| {{ youtube_thumbnail("j7jaYN8sZMI", short=True) }} | 2026/04/11 | 泣ける…二人だけのカーテンコール🪽大好きな曲を歌ってみた #vtuber #歌ってみた #shorts<br><span class="content-sub">元動画: [二人だけのカーテンコール（2025/12/24）](https://www.youtube.com/watch?v=qFEl9ljMLFk)</span> |

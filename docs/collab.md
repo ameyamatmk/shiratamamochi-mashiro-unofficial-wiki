@@ -1,4 +1,6 @@
-# コラボ
+# コラボ・案件
+
+## コラボ
 
 コラボ企画の配信、動画まとめです。（敬称略）
 
@@ -10,3 +12,11 @@
 | {{ youtube_thumbnail("IKXERwJW6ag") }} <br>※まさんの駄べり動画チャンネル内 | 2025/03/29 | まさんの駄べり動画 | インタビュー動画 | [:simple-youtube: 振り返り配信](https://www.youtube.com/watch?v=CsRrcChI0C8) |
 | {{ youtube_thumbnail("mRnt8qXnsF4") }} <br>※古城りーみんチャンネル内 | 2025/04/18 | 古城りーみん | ラジオ配信ゲスト | [:simple-x: 告知](https://x.com/umamochi_shiro/status/1911372827372007508) |
 | {{ youtube_thumbnail("SXFidUMXbJM") }} | 2026/03/21 | 河琴れもん | 美少女ゲーム好き女子VTuberで語りたい！コラボ雑談 | [:simple-x: サムネ文字無し](https://x.com/umamochi_shiro/status/2035225434347249854) |
+
+## 案件
+
+敬称略
+
+| サムネイル | 配信日 | 案件先 | 内容 | その他リンク |
+|:----------:|--------|------|------|------|
+| {{ youtube_thumbnail("Ui8x1hOzbPM") }} | 2025/04/20 | 焙煎豆Cher'sCoffee<br>・[HP-Shop](https://cherscoffee.base.shop/)・[Instagram](https://www.instagram.com/chers_coffee/) | オリジナルブレンドコーヒー | [:simple-x: 告知](https://x.com/umamochi_shiro/status/2045090145704292836) |

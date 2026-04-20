@@ -115,6 +115,7 @@
 | {{ youtube_thumbnail("_J-aNHfCkeY") }} | 2025/09/24 | 白昼夢の青写真 |
 | {{ youtube_thumbnail("vom8MyHpcko") }} | 2025/11/01 | 何度目かのはじめまして |
 | {{ youtube_thumbnail("55xlI3cuM4c") }} <br> {{ youtube_thumbnail("YezsJsnJaaU") }} | 2026/01/24 | エヴァーメイデン（前編/後編） |
+| {{ youtube_thumbnail("ZwDnFoUK_As") }} | 2026/04/18 | 穢翼のユースティア |
 
 ## 芋活
 
