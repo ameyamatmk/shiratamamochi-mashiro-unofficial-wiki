@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### 天使：スカイコード（2026/05/07）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2052355769384010053") }}
+
     ### 蒼木冬史：カルタグラ〜ツキ狂イノ病〜（2026/03/18）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2034234975386743077") }}
