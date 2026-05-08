@@ -19,4 +19,4 @@
 
 | サムネイル | 配信日 | 案件先 | 内容 | その他リンク |
 |:----------:|--------|------|------|------|
-| {{ youtube_thumbnail("Ui8x1hOzbPM") }} | 2025/04/20 | 焙煎豆Cher'sCoffee<br>・[HP-Shop](https://cherscoffee.base.shop/)・[Instagram](https://www.instagram.com/chers_coffee/) | オリジナルブレンドコーヒー | [:simple-x: 告知](https://x.com/umamochi_shiro/status/2045090145704292836) |
+| {{ youtube_thumbnail("Ui8x1hOzbPM") }} | 2025/04/20 | 焙煎豆Cher'sCoffee<br>・[HP-Shop](https://cherscoffee.base.shop/)・[Instagram](https://www.instagram.com/chers_coffee/) | オリジナルブレンドコーヒー | [:simple-x: 告知](https://x.com/umamochi_shiro/status/2045090145704292836) / [:simple-x: 実物](https://x.com/umamochi_shiro/status/2046566134183526464) |
