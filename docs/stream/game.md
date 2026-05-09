@@ -102,7 +102,7 @@
 いろんな白玉餅さんを描いて観よう！
 
 - 参加型
-- 4回（2026/01/01 現在）
+- 5回（2026/05/09 現在）
 - 2025/06/07 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
@@ -116,6 +116,7 @@
 | 2 | {{ youtube_thumbnail("Rb9jzW0uaCw") }} | 2025/10/11 | 参加型配信！新衣装記念に遊ぶぞ～💜 |
 | 3 | {{ youtube_thumbnail("VEJEJ6yCVuU") }} | 2025/10/22 | 参加型配信！芸術の秋だね🍂 |
 | 4 | {{ youtube_thumbnail("oyWNpy8ZWgI") }} | 2025/11/30 | 参加型！たくさん遊ぼ～！🖼 |
+| 5 | {{ youtube_thumbnail("pFtGtwxJLJE") }} | 2026/05/09 | 参加型！たくさん遊ぼ～！🖼 |
 
 #### これは、伝説の始まり──ましろ画伯、爆誕💥【白玉餅ましろ切り抜き】
 
