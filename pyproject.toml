@@ -13,6 +13,11 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["httpx>=0.27"]
+transcribe = [
+    "yt-dlp>=2025.1.0",
+    "faster-whisper>=1.2.1",
+    "nvidia-cublas-cu12>=12.9.2.10",
+]
 
 [build-system]
 requires = ["hatchling"]

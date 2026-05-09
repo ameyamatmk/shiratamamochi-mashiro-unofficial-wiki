@@ -86,6 +86,7 @@
 | {{ youtube_thumbnail("NJaSIWD_ksw") }} | 2025/11/29 | 【飲酒雑談】スナックたまもち、開店🍶もうすぐ１周年…だね♡<br><span class="content-sub">・社会人になると友達ができなくてぼっちで辛い<br>・コミケに参加したことはある？思い出やエピソード<br>・ママたまもちましろの衣装は和風洋風どっち？</span> |
 | {{ youtube_thumbnail("U0PA7cAqLvs") }} | 2025/12/20 | 【シスターたまもち懺悔室】あなたの懺悔…聞かせてください✨お知らせもあるよ♡<br><span class="content-sub">・メンバーシップバッジがピンクに<br>・深夜にインスタントラーメン二袋食べてしまった<br>・好きな人との通話を録音して繰り返し聞いている<br>・昔好きだった VTuber を見に行かなくなり、その子が活動をやめた<br>・Switch2の当選を周囲に隠して遊んでいた</span> |
 | {{ youtube_thumbnail("94CUhAy_bqg") }} | 2026/01/12 | マシュマロのお返事をします♡<br><span class="content-sub">・ASMR 配信への感謝、リクエスト<br>・百合の間に挟まる男・女についてどう思う？<br>・人の目を見て話すのは得意？コンビニで目が合わせられない<br>・実家と1人暮らしどっちが好き？</span> |
+| {{ youtube_thumbnail("47bb6imkqWE") }} | 2026/05/02 | 【飲酒雑談｜スナックたまもち】お酒片手に、マシュマロ読む夜🍶<br><span class="content-sub">・歌リクエスト、紹介<br>・GALEX SOFT「ENCHORE!」、Whirlpool 「はじめるセカイの理想論」<br>・コーヒー（オリジナルブレンド）の長文感想レポート<br>・エアロバイクのお供におすすめの動画・音楽<br>・ASMR配信への感想<br>・社会人2年目<br>・スケブ開設報告と質問</span> |
 
 ## 作業雑談
 
@@ -115,6 +116,7 @@
 | {{ youtube_thumbnail("_J-aNHfCkeY") }} | 2025/09/24 | 白昼夢の青写真 |
 | {{ youtube_thumbnail("vom8MyHpcko") }} | 2025/11/01 | 何度目かのはじめまして |
 | {{ youtube_thumbnail("55xlI3cuM4c") }} <br> {{ youtube_thumbnail("YezsJsnJaaU") }} | 2026/01/24 | エヴァーメイデン（前編/後編） |
+| {{ youtube_thumbnail("ZwDnFoUK_As") }} | 2026/04/18 | 穢翼のユースティア |
 
 ## 芋活
 

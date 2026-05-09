@@ -68,7 +68,7 @@ nav:
       - 活動年表: history.md
   - イラスト:
       - 自画像: illustrations/portrait.md
-      - お絵かき: illustrations/drawings.md
+      - お絵かき: illustrations/fanart.md
   - 楽曲・歌枠:
       - オリジナル楽曲: music/original.md
       - 歌ってみた: music/cover.md
@@ -81,7 +81,7 @@ nav:
       - ゲーム: stream/game.md
       - ASMR: stream/asmr.md
   - その他:
-      - コラボ: collab.md
+      - コラボ・案件: collab.md
       - グッズ: goods.md
       - メンバーシップ: membership.md
   - 外部リンク（別タブで開く）:

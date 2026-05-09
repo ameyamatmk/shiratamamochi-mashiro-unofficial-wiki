@@ -13,6 +13,7 @@
     - [お絵かきチャット](#_16)
     - [夜廻🌃](#_18)
     - [マガルミナ（体験版）💣](#mglmn)
+    - [Coffee Talk☕](#coffee-talk)
     - [単発ゲーム🎮](#_19)
 
 ## フォレスティア🌱
@@ -101,7 +102,7 @@
 いろんな白玉餅さんを描いて観よう！
 
 - 参加型
-- 4回（2026/01/01 現在）
+- 5回（2026/05/09 現在）
 - 2025/06/07 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLno8GgQ6NQv13Je0Ga5usjX3QcP86Lg01){ .md-button }
@@ -115,6 +116,7 @@
 | 2 | {{ youtube_thumbnail("Rb9jzW0uaCw") }} | 2025/10/11 | 参加型配信！新衣装記念に遊ぶぞ～💜 |
 | 3 | {{ youtube_thumbnail("VEJEJ6yCVuU") }} | 2025/10/22 | 参加型配信！芸術の秋だね🍂 |
 | 4 | {{ youtube_thumbnail("oyWNpy8ZWgI") }} | 2025/11/30 | 参加型！たくさん遊ぼ～！🖼 |
+| 5 | {{ youtube_thumbnail("pFtGtwxJLJE") }} | 2026/05/09 | 参加型！たくさん遊ぼ～！🖼 |
 
 #### これは、伝説の始まり──ましろ画伯、爆誕💥【白玉餅ましろ切り抜き】
 
@@ -220,6 +222,18 @@
 | 2 | {{ youtube_thumbnail("LbhJVHkH_M8") }} | 2026/02/28 | 恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！ |
 | 3 | {{ youtube_thumbnail("TDlz3848KhY") }} | 2026/03/01 | 恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！ |
 | 4 | {{ youtube_thumbnail("n5ec40SD8NE") }} | 2026/03/02 | 恋・爆弾・だまし愛！？パープルソフトウェア様最新作を実況プレイ！ |
+
+## Coffee Talk☕
+
+- 2026/04/23 ～
+
+#### ＃１　眠る前に、コーヒーと静かな時間☕🌙
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=hMElVFYzLAE", 320) }}
+
+| # | サムネイル | 配信日 | タイトル |
+|:---:|:----------:|--------|----------|
+| 2 | {{ youtube_thumbnail("4DRvhAVxj5M") }} | 2026/05/05 | Coffee Talk ＃２ |
 
 ## 単発ゲーム🎮
 
