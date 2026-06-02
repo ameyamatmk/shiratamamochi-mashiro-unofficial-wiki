@@ -109,3 +109,11 @@
 !!! info "関連メンバーシップ配信"
     白玉餅の衣装を考えよう！雑談もあるよ！（2026/02/14）
     [:simple-youtube: 配信アーカイブ](https://www.youtube.com/watch?v=aCz27ODhJXA)
+
+### Skebリクエストの白玉餅を描く
+
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("BeoG7br8uII") }} | 2026/05/16 |
+
+{{ twitter("https://x.com/umamochi_shiro/status/2055866412351283270") }}
