@@ -185,7 +185,7 @@ def define_env(env):
             html = cache[tweet_id]["html"]
         else:
             # キャッシュになければ API を叩く
-            api_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode(
+            api_url = "https://publish.x.com/oembed?" + urllib.parse.urlencode(
                 {
                     "url": tweet_url,
                     "lang": "ja",
@@ -207,7 +207,7 @@ def define_env(env):
 
         # script タグを除去（widgets.js は別途1回だけ読み込む）
         html = re.sub(
-            r"<script[^>]*twitter\.com/widgets\.js[^>]*></script>",
+            r"<script[^>]*(?:twitter|x)\.com/widgets\.js[^>]*></script>",
             "",
             html,
             flags=re.IGNORECASE,
