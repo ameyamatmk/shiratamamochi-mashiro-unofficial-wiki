@@ -295,7 +295,7 @@ async def check_quoted_tweet(client: httpx.AsyncClient, html: str) -> str | None
             continue
 
         # 引用ツイートをoEmbedでチェック
-        oembed_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode(
+        oembed_url = "https://publish.x.com/oembed?" + urllib.parse.urlencode(
             {"url": resolved_url}
         )
         try:
@@ -310,7 +310,7 @@ async def check_quoted_tweet(client: httpx.AsyncClient, html: str) -> str | None
 
 async def check_twitter_link(client: httpx.AsyncClient, link: LinkInfo) -> None:
     """Twitter/X リンクをoEmbed APIでチェック"""
-    oembed_url = "https://publish.twitter.com/oembed?" + urllib.parse.urlencode(
+    oembed_url = "https://publish.x.com/oembed?" + urllib.parse.urlencode(
         {"url": link.url}
     )
     try:
