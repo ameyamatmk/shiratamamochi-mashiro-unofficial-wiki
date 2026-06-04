@@ -206,8 +206,9 @@ def define_env(env):
             html = data["html"]
 
         # script タグを除去（widgets.js は別途1回だけ読み込む）
+        # oEmbed のドメインは twitter.com / x.com どちらの場合もある
         html = re.sub(
-            r"<script[^>]*twitter\.com/widgets\.js[^>]*></script>",
+            r"<script[^>]*(?:twitter|x)\.com/widgets\.js[^>]*></script>",
             "",
             html,
             flags=re.IGNORECASE,
