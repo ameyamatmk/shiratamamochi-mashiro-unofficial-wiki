@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### チャイナ：Skeb（2026/05/17）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2055866412351283270") }}
+
     ### 新衣装制服イラスト（2026/04/06）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2040814121978142737") }}

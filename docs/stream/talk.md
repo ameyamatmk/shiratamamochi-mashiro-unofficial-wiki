@@ -32,9 +32,11 @@
 | {{ youtube_thumbnail("wo79AZCvZS4") }} | 2025/12/07 | 2年目、どうしよっか？企画会議！<br><span class="content-sub">・健康は大事<br>・ASMRと歌に期待</span> |
 | {{ youtube_thumbnail("K3wm8vMcMWM") }} | 2025/12/14 | 登録者様１０００人達成しました、本当にありがとう…！<br><span class="content-sub">・耐久配信おかわりの裏側<br>・ビンゴ大会が楽しみ<br>・猫ちゃん</span> |
 | {{ youtube_thumbnail("i2xkyeZdhjk") }} | 2026/01/01 | 【あけおめ配信】新年のごあいさつ、そしておもちを食べる！🎍<br><span class="content-sub">・もちもちもち<br>・3Dを手に入れてリングフィットする日を夢見て<br>・確定申告</span> |
-| {{ youtube_thumbnail("PnDEKakYi-A") }} | 2026/03/14 | 【お部屋訪問】リスナーさんのお部屋、見せて～💓【白玉餅ましろ】<br><span class="content-sub">・ホワイトデーにリスナーお部屋写真紹介企画！14人参加<br>・みんなのお部屋に遊びに行きたい！またやりたい</span> |
-| {{ youtube_thumbnail("ND3GgSQRi0E") }} | 2026/03/19 | 【深夜雑談】寝る前に、ゆる～くおはなし🌙【白玉餅ましろ】<br><span class="content-sub">・花粉症疑惑？<br>・コラボ直前に風邪を引いてしまった焦り<br>・「おそらく女性」というマシュマロが今でも気に入っている話<br>・時代の流れの早さ</span> |
-| {{ youtube_thumbnail("AS6-sLjegoM") }} | 2026/04/05 | 【新衣装お披露目あり🌸】お誕生日カウントダウン！【白玉餅ましろ】<br><span class="content-sub">・誕生日カウントダウン配信初挑戦<br>・新衣装は春っぽい制服（カーディガン、ベスト、三つ編みゆるふわ、ローファー、短めソックス、ベストに隠れ餅がいる）<br>・グッズ（アクリルパネル+ステッカー3種セット）紹介</span> |
+| {{ youtube_thumbnail("PnDEKakYi-A") }} | 2026/03/14 | 【お部屋訪問】リスナーさんのお部屋、見せて～💓<br><span class="content-sub">・ホワイトデーにリスナーお部屋写真紹介企画！14人参加<br>・みんなのお部屋に遊びに行きたい！またやりたい</span> |
+| {{ youtube_thumbnail("ND3GgSQRi0E") }} | 2026/03/19 | 【深夜雑談】寝る前に、ゆる～くおはなし🌙<br><span class="content-sub">・花粉症疑惑？<br>・コラボ直前に風邪を引いてしまった焦り<br>・「おそらく女性」というマシュマロが今でも気に入っている話<br>・時代の流れの早さ</span> |
+| {{ youtube_thumbnail("AS6-sLjegoM") }} | 2026/04/05 | 【新衣装お披露目あり🌸】お誕生日カウントダウン！<br><span class="content-sub">・誕生日カウントダウン配信初挑戦<br>・新衣装は春っぽい制服（カーディガン、ベスト、三つ編みゆるふわ、ローファー、短めソックス、ベストに隠れ餅がいる）<br>・グッズ（アクリルパネル+ステッカー3種セット）紹介</span> |
+| {{ youtube_thumbnail("prCIfVLmEws") }} | 2026/05/10 | 【お昼雑談】コーヒー飲みながらほっこりしようよ☕ ゆるゆる昼のひととき🤍<br><span class="content-sub">・恐竜・氷河期・宇宙人<br>・「空から美少女が降ってくる」系作品<br>・GW 近況報告<br>・給食の思い出<br>・2周年グッズ構想</span> |
+| {{ youtube_thumbnail("bY3aio9zsPo") }} | 2026/06/02 | 1.5周年＆2000人突破記念✨白玉餅と一緒にお祝いしよう🎉<br><span class="content-sub">・半年間の振り返り<br>・自作ASMR動画「雨の日、図書室で一緒に勉強しよっか」公開予定<br>・甘苺みぷさんとのコラボ雑談告知<br>・今後やりたいこと、2年目の目標「軽い気持ちでいろいろなものに挑戦」</span> |
 
 ## ましろさんの"好き"を知る雑談
 
@@ -105,6 +107,7 @@
 | {{ youtube_thumbnail("uWi-l8hVbdU") }} | 2026/02/19 | お昼のまったり作業タイム～☕ |
 | {{ youtube_thumbnail("J_exqrBoLQ8") }} | 2026/03/12 | いっしょに作業やお仕事をしよ！🌱 |
 | {{ youtube_thumbnail("7-33fEvpCtc") }} | 2026/03/23 | ゆるくおしゃべりしながら作業するよ🌷 |
+| {{ youtube_thumbnail("1sqC7Mes7Ks") }} | 2026/05/21 | 今日もがんばってるあなたへ🤍チルな時間をどうぞ |
 
 ## 『作品』を語る会
 

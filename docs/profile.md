@@ -40,6 +40,7 @@
 |----------|--------|
 | :simple-youtube: YouTube | [@shiratamamochi_mashiro](https://www.youtube.com/@shiratamamochi_mashiro) |
 | :simple-x: (旧Twitter) | [@umamochi_shiro](https://x.com/umamochi_shiro) |
+| :simple-x: イラスト投稿用 | [@umamochi_tama](https://x.com/umamochi_tama) |
 | :simple-homeassistantcommunitystore: BOOTH | [shiratamamochima](https://shiratamamochima.booth.pm/) |
 | マシュマロ | [メッセージをおくる](https://marshmallow-qa.com/captxiloq5czcnx) |
 | lit.link | [リンク集](https://lit.link/shiratamamochimashiro) |

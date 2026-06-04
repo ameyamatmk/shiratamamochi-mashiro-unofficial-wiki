@@ -32,3 +32,5 @@
 | 04/06 | 新衣装制服イラスト公開 | [:simple-x:](https://x.com/umamochi_shiro/status/2040814121978142737) / [:simple-x: グッズ](https://x.com/umamochi_shiro/status/2040819895148110136) |
 | 04/06 | 誕生日 | [:simple-x:](https://x.com/umamochi_shiro/status/2041019197862600841) / [:simple-youtube:](https://www.youtube.com/watch?v=rnAsUKPgreg) |
 | 04/14 | チャンネル登録者 1500人 | [:simple-x:](https://x.com/umamochi_shiro/status/2043982374409793690) |
+| 05/19 | チャンネル登録者 1900人 | [:simple-x:](https://x.com/umamochi_shiro/status/2056347716482105383) |
+| 06/01 | チャンネル登録者 2000人 | [:simple-x:](https://x.com/umamochi_shiro/status/2061125796270584262) |
