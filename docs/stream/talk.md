@@ -37,6 +37,11 @@
 | {{ youtube_thumbnail("AS6-sLjegoM") }} | 2026/04/05 | 【新衣装お披露目あり🌸】お誕生日カウントダウン！<br><span class="content-sub">・誕生日カウントダウン配信初挑戦<br>・新衣装は春っぽい制服（カーディガン、ベスト、三つ編みゆるふわ、ローファー、短めソックス、ベストに隠れ餅がいる）<br>・グッズ（アクリルパネル+ステッカー3種セット）紹介</span> |
 | {{ youtube_thumbnail("prCIfVLmEws") }} | 2026/05/10 | 【お昼雑談】コーヒー飲みながらほっこりしようよ☕ ゆるゆる昼のひととき🤍<br><span class="content-sub">・恐竜・氷河期・宇宙人<br>・「空から美少女が降ってくる」系作品<br>・GW 近況報告<br>・給食の思い出<br>・2周年グッズ構想</span> |
 | {{ youtube_thumbnail("bY3aio9zsPo") }} | 2026/06/02 | 1.5周年＆2000人突破記念✨白玉餅と一緒にお祝いしよう🎉<br><span class="content-sub">・半年間の振り返り<br>・自作ASMR動画「雨の日、図書室で一緒に勉強しよっか」公開予定<br>・甘苺みぷさんとのコラボ雑談告知<br>・今後やりたいこと、2年目の目標「軽い気持ちでいろいろなものに挑戦」</span> |
+| {{ youtube_thumbnail("YEKJePngaeA") }} | 2026/06/06 | 【自己紹介／雑談】白玉餅ましろって誰？ 自己紹介配信やってみた🌸<br><span class="content-sub">・手書きプロフィール帳形式、30問<br>・[手書き画像まとめリンク :simple-x:](https://x.com/umamochi_shiro/status/2063259138617204868)</span> |
+
+### 自己紹介画像まとめ（2026/06/06）
+
+{{ twitter("https://x.com/umamochi_shiro/status/2063259138617204868") }}
 
 ## ましろさんの"好き"を知る雑談
 
