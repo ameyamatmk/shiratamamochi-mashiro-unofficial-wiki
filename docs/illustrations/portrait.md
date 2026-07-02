@@ -6,6 +6,14 @@
 
 ???+ note "展開"
 
+    ### ショート褐色ましろさん：Skeb（2026/07/01）
+
+    {{ twitter("https://x.com/umamochi_tama/status/2072173399837921740") }}
+
+    ### 賢い天使のましろさん：Skeb（2026/06/05）
+
+    {{ twitter("https://x.com/umamochi_tama/status/2062815787988246928") }}
+
     ### チャイナ：Skeb（2026/05/17）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2055866412351283270") }}
