@@ -1,6 +1,6 @@
 # 白玉餅ましろ 非公式wiki
 
-<small style="display: block; text-align: right;">最終更新: 2026/06/07</small>
+<small style="display: block; text-align: right;">最終更新: 2026/07/02</small>
 
 !!! warning "このサイトについて"
     本サイトは**非公式のファンサイト**です。
@@ -12,6 +12,8 @@
 
 美少女ゲームと百合が大好きなもちもちしている個人VTuber。2024年12月に活動開始。
 お絵描き、歌枠、ASMR、ゲーム実況など幅広いコンテンツを配信しています。
+
+かわいいボイスと楽しいトークでもちもちゆったり癒しの時間が楽しめます！
 
 {{ twitter("https://x.com/umamochi_shiro/status/1999644983335489786") }}
 
