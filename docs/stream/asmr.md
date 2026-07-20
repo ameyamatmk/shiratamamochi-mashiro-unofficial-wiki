@@ -52,4 +52,3 @@
 | サムネイル | 投稿日 | タイトル |
 |:----------:|--------|----------|
 | {{ youtube_thumbnail("3khcBoKiHgo", short=True) }} | 2026/04/07 | 耳を癒すオイルマッサージ🫶 脳がとろける…✨<br><span class="content-sub">元動画: [疲れたお耳に、ゆったり耳かきとマッサージ✨（2026/03/11）](https://www.youtube.com/watch?v=XRZlVMw-4Ow)</span> |
-| {{ youtube_thumbnail("gPyFnDHivF8", short=True) }} | 2026/04/13 | 疲れたあなたへのご褒美🌙 やわらか膝枕耳かきASMR #睡眠 #癒し<br><span class="content-sub">元動画: [【ASMR】 ひざまくら耳かき✨がんばったあなたへのご褒美✨（2026/04/11）](https://www.youtube.com/watch?v=ceX_qM7H2JE)</span> |
