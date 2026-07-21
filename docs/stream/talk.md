@@ -39,6 +39,8 @@
 | {{ youtube_thumbnail("prCIfVLmEws") }} | 2026/05/10 | 【お昼雑談】コーヒー飲みながらほっこりしようよ☕ ゆるゆる昼のひととき🤍<br><span class="content-sub">・恐竜・氷河期・宇宙人<br>・「空から美少女が降ってくる」系作品<br>・GW 近況報告<br>・給食の思い出<br>・2周年グッズ構想</span> |
 | {{ youtube_thumbnail("bY3aio9zsPo") }} | 2026/06/02 | 1.5周年＆2000人突破記念✨白玉餅と一緒にお祝いしよう🎉<br><span class="content-sub">・半年間の振り返り<br>・自作ASMR動画「雨の日、図書室で一緒に勉強しよっか」公開予定<br>・甘苺みぷさんとのコラボ雑談告知<br>・今後やりたいこと、2年目の目標「軽い気持ちでいろいろなものに挑戦」</span> |
 | {{ youtube_thumbnail("YEKJePngaeA") }} | 2026/06/06 | 【自己紹介／雑談】白玉餅ましろって誰？ 自己紹介配信やってみた🌸<br><span class="content-sub">・手書きプロフィール帳形式、30問<br>・[手書き画像まとめリンク :simple-x:](https://x.com/umamochi_shiro/status/2063259138617204868)</span> |
+| {{ youtube_thumbnail("OZlW6pfFHwE") }} | 2026/07/07 | 【七夕企画】みんなの願いごとを聞かせて🎋✨<br><span class="content-sub">・短冊23枚を笹に飾る<br>・健康祈願・腰痛・世界平和<br>・夏にやりたいこと：ホラゲー、百物語、カメレオン参加型、gogh でビーチ空間作り</span> |
+| {{ youtube_thumbnail("hCYlJjNQzTY") }} | 2026/07/10 | 【雑談】ゆったりまったり、お話しましょ～🎀<br><span class="content-sub">・歌ってみた「少女レイ」公開<br>・ポケモンでたとえるなら何タイプ？<br>・オーディオインターフェイスを買い替えた<br>・好きなボカロP<br>・鋼の錬金術師を視聴中</span> |
 
 ### 自己紹介画像まとめ（2026/06/06）
 
@@ -96,6 +98,7 @@
 | {{ youtube_thumbnail("U0PA7cAqLvs") }} | 2025/12/20 | 【シスターたまもち懺悔室】あなたの懺悔…聞かせてください✨お知らせもあるよ♡<br><span class="content-sub">・メンバーシップバッジがピンクに<br>・深夜にインスタントラーメン二袋食べてしまった<br>・好きな人との通話を録音して繰り返し聞いている<br>・昔好きだった VTuber を見に行かなくなり、その子が活動をやめた<br>・Switch2の当選を周囲に隠して遊んでいた</span> |
 | {{ youtube_thumbnail("94CUhAy_bqg") }} | 2026/01/12 | マシュマロのお返事をします♡<br><span class="content-sub">・ASMR 配信への感謝、リクエスト<br>・百合の間に挟まる男・女についてどう思う？<br>・人の目を見て話すのは得意？コンビニで目が合わせられない<br>・実家と1人暮らしどっちが好き？</span> |
 | {{ youtube_thumbnail("47bb6imkqWE") }} | 2026/05/02 | 【飲酒雑談｜スナックたまもち】お酒片手に、マシュマロ読む夜🍶<br><span class="content-sub">・歌リクエスト、紹介<br>・GALEX SOFT「ENCHORE!」、Whirlpool 「はじめるセカイの理想論」<br>・コーヒー（オリジナルブレンド）の長文感想レポート<br>・エアロバイクのお供におすすめの動画・音楽<br>・ASMR配信への感想<br>・社会人2年目<br>・スケブ開設報告と質問</span> |
+| {{ youtube_thumbnail("WtyJhO_wrRw") }} | 2026/07/04 | マシュマロもぐもぐするわよ♡お話もたくさんしようね✨<br><span class="content-sub">・配信の日程の決め方・配信で気をつけていること<br>・登録者数2500人突破と2026年の目標の進捗<br>・メンズメイク・スキンケアの始め方<br>・Cher'sCoffeeさんとのコラボコーヒーの感想<br>・「ブルーピリオド」と美大受験・美術予備校時代の思い出<br>・女の子でも楽しめる美少女ゲームのおすすめ<br>・ファンネームはありますか？<br>・2年目どうする？確認</span> |
 
 ## 作業雑談
 

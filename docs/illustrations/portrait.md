@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### いろいろましろさん：Skeb（2026/07/14）
+
+    {{ twitter("https://x.com/umamochi_tama/status/2077018364480987562") }}
+
     ### ショート褐色ましろさん：Skeb（2026/07/01）
 
     {{ twitter("https://x.com/umamochi_tama/status/2072173399837921740") }}
