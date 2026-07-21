@@ -12,6 +12,7 @@
 | {{ youtube_thumbnail("us4KMKd6Jzg") }} | 2025/05/24 | Wonder Scale | 倉本千奈（学園アイドルマスター） |
 | {{ youtube_thumbnail("1Fm7AEoNa6o") }} | 2025/07/20 | ナグルファルの船上にて | monet（素晴らしき日々～不連続存在～） |
 | {{ youtube_thumbnail("qFEl9ljMLFk") }} | 2025/12/24 | 二人だけのカーテンコール | 浅葉リオ（アオイトリ） |
+| {{ youtube_thumbnail("6T2XhgnmJXE") }} | 2026/07/10 | 少女レイ | みきとP（ボーカロイド） |
 
 ## ショート動画
 

@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### 橘希実香🌃：素晴らしき日々（2026/07/20）
+
+    {{ twitter("https://x.com/umamochi_tama/status/2078876950916121083") }}
+
     ### 天使🪽：スカイコード（2026/05/07）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2052355769384010053") }}
