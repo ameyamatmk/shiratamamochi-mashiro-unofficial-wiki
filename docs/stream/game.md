@@ -163,6 +163,8 @@
 | 4 | {{ youtube_thumbnail("cSlxRmrnGM8") }} | 2026/02/16 | 癒しの屋外ルームを作るよ🌱 |
 | 5 | {{ youtube_thumbnail("4FYSWC7U5lU") }} | 2026/02/23 | ゆったり静かな夜のおしゃべり、たまに作業🌃 |
 | 6 | {{ youtube_thumbnail("KpZvvaZv7QQ") }} | 2026/03/30 | 寝る前のチル作業雑談🌃 |
+| 7 | {{ youtube_thumbnail("RY9djmSVfUE") }} | 2026/08/11 | 夏なので、ビーチのお部屋を作ろう🍉🌊 |
+| 8 | {{ youtube_thumbnail("vuVwXdrxMpE") }} | 2026/08/12 | 夏のビーチでまったり一緒に作業しよ🏝🌊 |
 
 #### ましろは心の隙間を埋めたい【白玉餅ましろ切り抜き】
 
@@ -252,3 +254,4 @@
 | {{ youtube_thumbnail("SrdBjxp2Yas") }} | 2026/01/18 | Ibリメイク | 前編、ほにゃ |
 | {{ youtube_thumbnail("Pr7lYu6TxUg") }} | 2026/01/19 | Ibリメイク | 後編（トゥルーエンド） |
 | {{ youtube_thumbnail("7j3hJwGi4eo") }} | 2026/03/01 | デヴィエーション・ゲーム | 参加型 |
+| {{ youtube_thumbnail("tsYWdvOnGtw") }} | 2026/08/02 | 心霊物件（Haunted Property） | |
