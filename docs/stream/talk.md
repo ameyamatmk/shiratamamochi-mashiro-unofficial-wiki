@@ -52,14 +52,14 @@
 
 [:simple-x: #白玉餅ましろ3Dお披露目](https://x.com/hashtag/白玉餅ましろ3Dお披露目){ .md-button }
 
-| 担当 | 制作者 | リンク |
-|------|--------|--------|
-| スタジオ | きまっしスタジオ | [:simple-x: @kimassi_studio](https://x.com/kimassi_studio) / [:material-web: Web](https://www.kimassi-studio.com/) |
-| 3Dモデル | 戸崎ねう | [:simple-x: @tozaki_neu](https://x.com/tozaki_neu) |
-| 歌唱曲 inst&MIX | 六印 | [:simple-x: @6_jirushi](https://x.com/6_jirushi) |
-| BGM | 壱子 | [:simple-x: @ichigo69tabetai](https://x.com/ichigo69tabetai) |
-| 『ましろもちもちわーるど！』動画制作 | パオンヌ | [:simple-x: @Paonnnu\_](https://x.com/Paonnnu_) |
-| 曲名タイトルデザイン | Iray9 | [:simple-x: @\_Iray9\_](https://x.com/_Iray9_) |
+| 担当 | 制作者 | リンク | 告知 |
+|------|--------|--------|------|
+| スタジオ | きまっしスタジオ | [:simple-x: @kimassi_studio](https://x.com/kimassi_studio) / [:material-web: Web](https://www.kimassi-studio.com/) | |
+| 3Dモデル | 戸崎ねう | [:simple-x: @tozaki_neu](https://x.com/tozaki_neu) | [:simple-x:](https://x.com/tozaki_neu/status/2092592819773030409) |
+| 歌唱曲 inst&MIX | 六印 | [:simple-x: @6_jirushi](https://x.com/6_jirushi) | [:simple-x:](https://x.com/6_jirushi/status/2092909053324521701) |
+| BGM | 壱子 | [:simple-x: @ichigo69tabetai](https://x.com/ichigo69tabetai) | |
+| 『ましろもちもちわーるど！』動画制作 | パオンヌ | [:simple-x: @Paonnnu\_](https://x.com/Paonnnu_) | |
+| 曲名タイトルデザイン | Iray9 | [:simple-x: @\_Iray9\_](https://x.com/_Iray9_) | |
 
 ## ましろさんの"好き"を知る雑談
 
