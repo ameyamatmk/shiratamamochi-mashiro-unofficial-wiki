@@ -15,6 +15,7 @@
 | {{ youtube_thumbnail("cCTGXLmYz2I") }} | 2026/06/15 | 甘苺みぷ | 甘苺みぷさんが白玉餅のお部屋に遊びに来てくれたコラボ雑談 |  |
 | {{ youtube_thumbnail("iAAMsvMzV1M") }} | 2026/07/23 | 甘苺みぷ | たまごしろっぷコラボ｜前編　理想の美少女ゲームキャラを考えよう！（好みの女の子リサーチ） |  |
 | {{ youtube_thumbnail("Q8dijRutA4I") }} | 2026/08/06 | 甘苺みぷ | たまごしろっぷコラボ｜後編　理想の美少女ゲームキャラを考えよう！（理想のキャラを本気で作る） |  |
+| {{ youtube_thumbnail("LXSxq26cKx8") }} | 2026/08/27 | 甘苺みぷ | たまごしろっぷコラボ｜番外編　理想の美少女ゲームキャラを考えよう！（キャラボイス初公開） |  |
 
 ### たまごしろっぷ
 
@@ -25,6 +26,8 @@
 {{ twitter("https://x.com/umamochi_shiro/status/2085363103781531846") }}
 
 {{ twitter("https://x.com/umamochi_shiro/status/2085577403523567968") }}
+
+{{ twitter("https://x.com/umamochi_shiro/status/2092971366278635648") }}
 
 ## 案件
 
