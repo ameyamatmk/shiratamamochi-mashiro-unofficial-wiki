@@ -42,10 +42,24 @@
 | {{ youtube_thumbnail("OZlW6pfFHwE") }} | 2026/07/07 | 【七夕企画】みんなの願いごとを聞かせて🎋✨<br><span class="content-sub">・短冊23枚を笹に飾る<br>・健康祈願・腰痛・世界平和<br>・夏にやりたいこと：ホラゲー、百物語、カメレオン参加型、gogh でビーチ空間作り</span> |
 | {{ youtube_thumbnail("hCYlJjNQzTY") }} | 2026/07/10 | 【雑談】ゆったりまったり、お話しましょ～🎀<br><span class="content-sub">・歌ってみた「少女レイ」公開<br>・ポケモンでたとえるなら何タイプ？<br>・オーディオインターフェイスを買い替えた<br>・好きなボカロP<br>・鋼の錬金術師を視聴中</span> |
 | {{ youtube_thumbnail("F18eC5AgrDA") }} | 2026/07/31 | 【重大告知！！📢】でっかいお知らせがあります！<br><span class="content-sub">・スタジオを借りての生配信、歌メイン<br>・日記・晩御飯やイラストのボツ・ラフ公開など<br>・6月頃「最近一番よくできたサムネ」と言っていたのが今回の告知サムネ<br>・猫背・変な走り方がバレないか心配<br>・VRChatに興味あり、3D後にやりたいことを一緒に考えたい</span> |
+| {{ youtube_thumbnail("UncUl9xzY58") }} | 2026/08/26 | 【#白玉餅ましろ3Dお披露目】ましろもちもちわーるど、開演🤍✨<br><span class="content-sub">・3Dお披露目に緊張、お水休憩<br>・VTuber活動1年半、3Dになるのは夢の1つだった<br>・「まだまだ伸び代がある、餅だけにね」</span> |
 
 ### 自己紹介画像まとめ（2026/06/06）
 
 {{ twitter("https://x.com/umamochi_shiro/status/2063259138617204868") }}
+
+### 3Dお披露目配信（2026/08/26）
+
+[:simple-x: #白玉餅ましろ3Dお披露目](https://x.com/hashtag/白玉餅ましろ3Dお披露目){ .md-button }
+
+| 担当 | 制作者 | リンク |
+|------|--------|--------|
+| スタジオ | きまっしスタジオ | [:simple-x: @kimassi_studio](https://x.com/kimassi_studio) / [:material-web: Web](https://www.kimassi-studio.com/) |
+| 3Dモデル | 戸崎ねう | [:simple-x: @tozaki_neu](https://x.com/tozaki_neu) |
+| 歌唱曲 inst&MIX | 六印 | [:simple-x: @6_jirushi](https://x.com/6_jirushi) |
+| BGM | 壱子 | [:simple-x: @ichigo69tabetai](https://x.com/ichigo69tabetai) |
+| 『ましろもちもちわーるど！』動画制作 | パオンヌ | [:simple-x: @Paonnnu\_](https://x.com/Paonnnu_) |
+| 曲名タイトルデザイン | Iray9 | [:simple-x: @\_Iray9\_](https://x.com/_Iray9_) |
 
 ## ましろさんの"好き"を知る雑談
 

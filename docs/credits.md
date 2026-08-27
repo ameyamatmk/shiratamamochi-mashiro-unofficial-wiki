@@ -2,12 +2,13 @@
 
 いつもありがとうございます。（敬称略）
 
-## キャラクターデザイン・Live2D
+## キャラクターデザイン・モデル
 
 | 担当 | 制作者 | リンク | 告知 |
 |------|--------|--------|------|
 | キャラクターデザイン | 白玉餅ましろ | [:simple-x: @umamochi_shiro](https://x.com/umamochi_shiro) | |
 | Live2Dモデリング | 成宮もも | [:simple-x: @narimiya_momo](https://x.com/narimiya_momo) | [:simple-x:](https://x.com/narimiya_momo/status/2007063071240659027) |
+| 3Dモデリング | 戸崎ねう | [:simple-x: @tozaki_neu](https://x.com/tozaki_neu) | [:simple-x:](https://x.com/tozaki_neu/status/2092592819773030409) |
 
 ## 配信関連
 

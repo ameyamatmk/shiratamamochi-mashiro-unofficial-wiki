@@ -9,6 +9,7 @@
 | デビュー日 | 2024年12月3日 |
 | デザイン | 白玉餅ましろ |
 | Live2D | 成宮もも [( :simple-x: @narimiya_momo)](https://x.com/narimiya_momo/status/2007063071240659027) |
+| 3Dモデル | 戸崎ねう [( :simple-x: @tozaki_neu)](https://x.com/tozaki_neu/status/2092592819773030409) |
 
 ## パーソナル情報
 

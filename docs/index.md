@@ -45,3 +45,6 @@
 
 #### 白玉餅ましろって誰？ 自己紹介配信やってみた🌸
 {{ youtube("https://www.youtube.com/watch?v=YEKJePngaeA") }}
+
+#### 【#白玉餅ましろ3Dお披露目】ましろもちもちわーるど、開演🤍✨
+{{ youtube("https://www.youtube.com/watch?v=UncUl9xzY58") }}

@@ -16,6 +16,7 @@
 | 通常衣装 | 2025/10/4 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AlcsUxSn9II") }} | 初期衣装アップデート |
 | 白シスター風 | 2025/12/3 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=zMeM-DwVhOU") }} | 1周年記念衣装 |
 | 制服 | 2026/4/6 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=AS6-sLjegoM") }} | 誕生日記念衣装 |
+| 3Dモデル | 2026/8/26 | {{ youtube_thumbnail("https://www.youtube.com/watch?v=UncUl9xzY58") }} | 3Dモデル制作: 戸崎ねう、髪型差分（ロングヘア）あり |
 
 ## 衣装詳細
 
@@ -50,3 +51,11 @@
 
 {{ twitter("https://x.com/umamochi_shiro/status/2040814121978142737") }}
 {{ twitter("https://x.com/umamochi_shiro/status/2040819537143267414") }}
+
+### 3Dモデル
+
+- 公開日: 2026/8/26
+- 3Dモデル制作: 戸崎ねう（[:simple-x: @tozaki_neu](https://x.com/tozaki_neu)）
+- 髪型差分（ロングヘア）あり
+
+{{ twitter("https://x.com/umamochi_shiro/status/2092623923242500470") }}
