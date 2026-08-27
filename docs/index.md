@@ -1,6 +1,6 @@
 # 白玉餅ましろ 非公式wiki
 
-<small style="display: block; text-align: right;">最終更新: 2026/08/25</small>
+<small style="display: block; text-align: right;">最終更新: 2026/08/27</small>
 
 !!! warning "このサイトについて"
     本サイトは**非公式のファンサイト**です。
@@ -45,3 +45,6 @@
 
 #### 白玉餅ましろって誰？ 自己紹介配信やってみた🌸
 {{ youtube("https://www.youtube.com/watch?v=YEKJePngaeA") }}
+
+#### 【#白玉餅ましろ3Dお披露目】ましろもちもちわーるど、開演🤍✨
+{{ youtube("https://www.youtube.com/watch?v=UncUl9xzY58") }}
