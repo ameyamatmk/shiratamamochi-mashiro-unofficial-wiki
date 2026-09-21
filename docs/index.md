@@ -1,6 +1,6 @@
 # 白玉餅ましろ 非公式wiki
 
-<small style="display: block; text-align: right;">最終更新: 2026/08/27</small>
+<small style="display: block; text-align: right;">最終更新: 2026/09/21</small>
 
 !!! warning "このサイトについて"
     本サイトは**非公式のファンサイト**です。
@@ -15,7 +15,11 @@
 
 かわいいボイスと楽しいトークでもちもちゆったり癒しの時間が楽しめます！
 
-{{ twitter("https://x.com/umamochi_shiro/status/1999644983335489786") }}
+{{ twitter("https://x.com/umamochi_shiro/status/2095103846418874476") }}
+
+??? note "過去のまとめ"
+
+    {{ twitter("https://x.com/umamochi_shiro/status/1999644983335489786") }}
 
 ## 公式リンク
 

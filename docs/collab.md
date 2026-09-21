@@ -19,7 +19,7 @@
 
 ### たまごしろっぷ
 
-甘苺みぷとの、理想の美少女ゲームキャラを一から作る企画。
+餅姫学園企画：理想の美少女ゲームキャラを一から作ろう
 
 [:simple-x: #たまごしろっぷ](https://x.com/hashtag/たまごしろっぷ){ .md-button }
 
@@ -29,6 +29,10 @@
 
 {{ twitter("https://x.com/umamochi_shiro/status/2092971366278635648") }}
 
+{{ twitter("https://x.com/umamochi_tama/status/2099525728849309997") }}
+
+{{ twitter("https://x.com/umamochi_shiro/status/2099784833400754352") }}
+
 ## 案件
 
 敬称略
@@ -36,3 +40,18 @@
 | サムネイル | 配信日 | 案件先 | 内容 | その他リンク |
 |:----------:|--------|------|------|------|
 | {{ youtube_thumbnail("Ui8x1hOzbPM") }} | 2025/04/20 | 焙煎豆Cher'sCoffee<br>・[HP-Shop](https://cherscoffee.base.shop/)・[Instagram](https://www.instagram.com/chers_coffee/) | オリジナルブレンドコーヒー | [:simple-x: 実物](https://x.com/umamochi_shiro/status/2046566134183526464) |
+
+### 魅惑の果実（Pocket.inc × ハシモト珈琲）
+
+本物のイチゴ果実にコーヒー豆を漬け込んだ果実コーヒー『魅惑の果実』と、限定特典のセット販売。
+
+- 販売期間: 2026/10/01 19:00 〜 10/14 19:00
+- プラン:
+    - ボイスセット（コーヒー2袋＋限定ボイス1枚）
+    - コレクションカードセット（コーヒー2袋＋限定カード1枚）
+    - 欲張りセット（コーヒー2袋＋限定ボイス1枚＋限定カード1枚）
+- 特典:
+    - コレクションカード全3種（ノーマル／レア／シークレット）
+    - 限定シチュエーションボイス全3種
+
+{{ twitter("https://x.com/umamochi_shiro/status/2100183250899718178") }}

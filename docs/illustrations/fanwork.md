@@ -6,6 +6,12 @@
 
 ???+ note "展開"
 
+    ### 甘苺みぷ🍓：お誕生日（餅姫学園の制服）（2026/09/14）
+
+    {{ twitter("https://x.com/umamochi_tama/status/2099525314070433899") }}
+
+    [:simple-x: 白玉餅ましろの餅姫学園姿](https://x.com/umamochi_tama/status/2099525728849309997)
+
     ### 橘希実香🌃：素晴らしき日々（2026/07/20）
 
     {{ twitter("https://x.com/umamochi_tama/status/2078876950916121083") }}
