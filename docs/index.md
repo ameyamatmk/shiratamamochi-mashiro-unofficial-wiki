@@ -15,7 +15,7 @@
 
 かわいいボイスと楽しいトークでもちもちゆったり癒しの時間が楽しめます！
 
-{{ twitter("https://x.com/umamochi_shiro/status/2095103846418874476") }}
+{{ twitter("https://x.com/umamochi_shiro/status/2106582775717617952") }}
 
 ??? note "過去のまとめ"
 
