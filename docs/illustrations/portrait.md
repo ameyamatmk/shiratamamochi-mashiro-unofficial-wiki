@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### まとめ（2026/10/04）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2106582775717617952") }}
+
     ### 餅姫学園の制服（2026/09/14）
 
     {{ twitter("https://x.com/umamochi_tama/status/2099525728849309997") }}
