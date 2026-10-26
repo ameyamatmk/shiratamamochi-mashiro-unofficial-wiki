@@ -8,7 +8,6 @@
 |:----------:|--------|----------|
 | {{ youtube_thumbnail("mJmXKYdQnKQ") }} | 2025/07/22 | 耳元で囁く睡眠導入ASMR♡耳かきの練習もしたいな<br><span class="content-sub">孔雀の羽・梵天・普通の耳かき・固めのブラシ・細い筆・耳密閉・私ましろさん・お餅話・肩の音</span> |
 | {{ youtube_thumbnail("AZd_L4Rp5C0") }} | 2025/08/02 | 1週間がんばったあなたへ。やさしい音だけ、聴こえる夜🌃(囁き声/ふわふわ音)<br><span class="content-sub">タオル・綿・梵天・ふーふー・耳密閉</span> |
-| {{ youtube_thumbnail("gtXd-SFJBjo") }} | 2025/08/27 | 眠くなる、やさしい囁き雑談🌃(囁き声/睡眠導入)<br><span class="content-sub">雑談・9月の配信予定・手汗・旅行、温泉</span> |
 | {{ youtube_thumbnail("eD9FbVOu7sA") }} | 2025/09/03 | とろけるスライムの癒し音で、リラックスして眠ろう🩵スライム音／囁き／睡眠導入<br><span class="content-sub">とろとろスライム・スライム耳掃除・包み込み</span> |
 | {{ youtube_thumbnail("Wta2W4lafwg") }} | 2025/10/08 | 眠る前に、やさし～く耳かきします✨(耳かき/囁き声/睡眠導入)<br><span class="content-sub">耳かき（竹、梵天）・芋、栗・ふーふー</span> |
 | {{ youtube_thumbnail("PuvuaunMTIE") }} | 2025/11/05 | 眠くなるまで、やわらかボイスでそっと囁くASMR🌙(囁き声/睡眠導入)<br><span class="content-sub">雑談・こたつでアイスと猫・クリスマス、年末・美容室</span> |
