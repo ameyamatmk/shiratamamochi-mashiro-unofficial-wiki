@@ -40,6 +40,7 @@
 | サムネイル | 配信日 | 案件先 | 内容 | その他リンク |
 |:----------:|--------|------|------|------|
 | {{ youtube_thumbnail("Ui8x1hOzbPM") }} | 2025/04/20 | 焙煎豆Cher'sCoffee<br>・[HP-Shop](https://cherscoffee.base.shop/)・[Instagram](https://www.instagram.com/chers_coffee/) | オリジナルブレンドコーヒー | [:simple-x: 実物](https://x.com/umamochi_shiro/status/2046566134183526464) |
+| {{ youtube_thumbnail("vQlzMNLjr0Y") }} | 2026/10/02 | ハシモト珈琲<br>・[HP](https://hashimotocoffee.jp/)・[Instagram](https://www.instagram.com/hashimoto_roast/) | 果実コーヒー『魅惑の果実』紹介 | [販売ページ](https://pocket.supersale.jp/) |
 
 ### 魅惑の果実（Pocket.inc × ハシモト珈琲）
 
