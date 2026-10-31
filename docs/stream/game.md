@@ -255,3 +255,4 @@
 | {{ youtube_thumbnail("Pr7lYu6TxUg") }} | 2026/01/19 | Ibリメイク | 後編（トゥルーエンド） |
 | {{ youtube_thumbnail("7j3hJwGi4eo") }} | 2026/03/01 | デヴィエーション・ゲーム | 参加型 |
 | {{ youtube_thumbnail("tsYWdvOnGtw") }} | 2026/08/02 | 心霊物件（Haunted Property） | |
+| {{ youtube_thumbnail("ptlJWupS9rI") }} | 2026/10/14 | 恐怖耐性診断テスト | |
