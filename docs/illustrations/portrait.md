@@ -6,6 +6,14 @@
 
 ???+ note "展開"
 
+    ### 仮装狂騒曲衣装（2026/10/31）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2116505315315511361") }}
+
+    ### アイコンハロウィン仕様（2026/10/31）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2116387603578794033") }}
+
     ### まとめ（2026/10/04）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2106582775717617952") }}

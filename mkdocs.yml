@@ -25,12 +25,18 @@ theme:
     - navigation.expand
     - navigation.top
     - content.tabs.link
+    - search.suggest
+    - search.highlight
   favicon: assets/images/favicon.png
   icon:
     logo: material/brush-outline
     repo: fontawesome/brands/github
 
 plugins:
+  - search:
+      lang: ja
+      # 検索語は分かち書きされないため、索引と検索語の両方を文字種の境目で区切る
+      separator: '[\s\-\u3000\u3001\u3002\uff0c\uff0e\u30fb\uff0a\uff01\uff1f]+|(?<=[\u4e00-\u9fff])(?=[\u30a0-\u30ffa-zA-Z])|(?<=[\u30a0-\u30ffa-zA-Z])(?=[\u4e00-\u9fff])|(?<=[a-zA-Z])(?=\d)'
   - macros
   - minify:
       minify_html: true
@@ -57,6 +63,9 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
       toc_depth: 3
 
 nav:
