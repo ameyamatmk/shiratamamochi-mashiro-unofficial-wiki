@@ -22,7 +22,7 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
-    - navigation.indexes
+    - navigation.expand
     - navigation.top
     - content.tabs.link
     - search.suggest
