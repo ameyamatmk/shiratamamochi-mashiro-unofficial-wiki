@@ -16,6 +16,7 @@
 | {{ youtube_thumbnail("iAAMsvMzV1M") }} | 2026/07/23 | 甘苺みぷ | たまごしろっぷコラボ｜前編　理想の美少女ゲームキャラを考えよう！（好みの女の子リサーチ） |  |
 | {{ youtube_thumbnail("Q8dijRutA4I") }} | 2026/08/06 | 甘苺みぷ | たまごしろっぷコラボ｜後編　理想の美少女ゲームキャラを考えよう！（理想のキャラを本気で作る） |  |
 | {{ youtube_thumbnail("LXSxq26cKx8") }} | 2026/08/27 | 甘苺みぷ | たまごしろっぷコラボ｜番外編　理想の美少女ゲームキャラを考えよう！（キャラボイス初公開） | [:simple-x: 甘苺みぷ ポスト](https://x.com/amaimipu/status/2092971265166569872) |
+| {{ youtube_thumbnail("gn4sTai8L3c") }} <br>※甘苺みぷチャンネル内 | 2026/10/31 | 甘苺みぷ | たまごしろっぷ 歌ってみた「仮装狂騒曲」（原曲: 初星学園／学園アイドルマスター）。イラストは白玉餅ましろが担当 | [:simple-x: 告知](https://x.com/umamochi_shiro/status/2116488155687969272) / [:simple-x: 甘苺みぷ ポスト](https://x.com/amaimipu/status/2116489526235566555) / [:simple-x: 衣装](https://x.com/umamochi_shiro/status/2116505315315511361) |
 
 ### たまごしろっぷ
 
@@ -32,6 +33,8 @@
 {{ twitter("https://x.com/umamochi_tama/status/2099525728849309997") }}
 
 {{ twitter("https://x.com/umamochi_shiro/status/2099784833400754352") }}
+
+{{ twitter("https://x.com/umamochi_shiro/status/2116505315315511361") }}
 
 ## 案件
 

@@ -37,3 +37,4 @@
 | 08/01 | pixivFANBOX 開設、初投稿 | [:simple-x:](https://x.com/umamochi_shiro/status/2083197324348850336) / [:simple-x:](https://x.com/umamochi_shiro/status/2083446004624572906) |
 | 08/06 | チャンネル登録者 3000人 | [:simple-x:](https://x.com/umamochi_shiro/status/2085049973486551480) / [:simple-youtube:](https://www.youtube.com/watch?v=Ov4NUPoPkEk) |
 | 08/26 | 3Dお披露目配信 | [:simple-x:](https://x.com/umamochi_shiro/status/2092598928495780346) / [:simple-youtube:](https://www.youtube.com/watch?v=UncUl9xzY58) |
+| 10/31 | チャンネル登録者 4000人 | [:simple-x:](https://x.com/umamochi_shiro/status/2116436750587613279) |
