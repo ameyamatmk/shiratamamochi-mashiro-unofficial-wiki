@@ -117,3 +117,11 @@
 | ♯１ | {{ youtube_thumbnail("BeoG7br8uII") }} | 2026/05/16 |
 
 {{ twitter("https://x.com/umamochi_shiro/status/2055866412351283270") }}
+
+### 午後、まったり絵を描くよ✏
+
+| # | サムネイル | 配信日 |
+|---|:----------:|--------|
+| ♯１ | {{ youtube_thumbnail("_2LD6pAcnMQ") }} | 2026/11/19 |
+
+{{ twitter("https://x.com/umamochi_shiro/status/2123321332708614191") }}

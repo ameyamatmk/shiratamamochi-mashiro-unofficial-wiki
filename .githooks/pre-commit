@@ -1,0 +1,16 @@
+#!/bin/sh
+# コミット前チェック
+# 有効化: git config core.hooksPath .githooks
+
+SONGLIST=docs/music/songlist.md
+
+# songlist.md がステージされていなければ何もしない
+git diff --cached --name-only --diff-filter=ACM | grep -qx "$SONGLIST" || exit 0
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "pre-commit: node が見つかりません（mise install を実行してください）" >&2
+  exit 1
+fi
+
+# 作業ツリーではなくステージされた内容をチェックする
+git show ":$SONGLIST" | node scripts/sort_songlist.ts --stdin

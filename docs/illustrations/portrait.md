@@ -6,6 +6,18 @@
 
 ???+ note "展開"
 
+    ### 先生（2026/11/19）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2123321332708614191") }}
+
+    関連配信:
+
+    - [おえかき配信](https://www.youtube.com/watch?v=_2LD6pAcnMQ)
+
+    ### 焚き火（2026/11/08）
+
+    {{ twitter("https://x.com/umamochi_shiro/status/2119103727084958012") }}
+
     ### 仮装狂騒曲衣装（2026/10/31）
 
     {{ twitter("https://x.com/umamochi_shiro/status/2116505315315511361") }}

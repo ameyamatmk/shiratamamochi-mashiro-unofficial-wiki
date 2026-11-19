@@ -18,3 +18,7 @@
 ### 初投稿（2026/08/01）
 
 {{ twitter("https://x.com/umamochi_shiro/status/2083446004624572906") }}
+
+### 4000人記念・全体公開（2026/11/01）
+
+{{ twitter("https://x.com/umamochi_shiro/status/2116779272455291125") }}
